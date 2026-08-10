@@ -1,13 +1,13 @@
 # AS9100 Rev D Quality Management System
 
 **Started:** 2025-07-14  
-**Owner:** jacob-cnc  
+**Owner:** Jacob Honick (Torchworx LLC)  
 **Repo:** (local — GitHub remote pending)  
 **Status:** Active Development
 
 ## Purpose
 
-Complete AS9100 Rev D / ISO 9001:2015 Quality Management System documentation package for a sole-proprietor aerospace CNC machine shop, supporting certification by an accredited registrar.
+Complete AS9100 Rev D / ISO 9001:2015 Quality Management System documentation package for Torchworx LLC — a sole-proprietor aerospace CNC machine shop in Everett, WA — supporting certification by an accredited registrar.
 
 ## Scope
 

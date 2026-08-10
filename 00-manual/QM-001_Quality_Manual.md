@@ -18,10 +18,10 @@
 
 | Item | Detail |
 | --- | --- |
-| Company Name | [Company Name] |
-| Address | [Address] |
-| Phone | [Phone] |
-| Owner / Operator | Shop Owner |
+| Company Name | Torchworx LLC |
+| Address | 1721 63rd ST SE, Everett, WA 98203 |
+| Phone | 614-670-3079 |
+| Owner / Operator | Jacob Honick |
 | Business Type | Sole Proprietorship - Precision CNC and Manual Machining |
 | Equipment | 1x CNC Mill, 1x CNC Lathe, 1x Manual Mill |
 | Certifications Sought | AS9100 Rev D / ISO 9001:2015 |
