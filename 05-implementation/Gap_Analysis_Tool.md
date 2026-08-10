@@ -28,7 +28,7 @@ Use this tool to assess your current state of compliance against AS9100 Rev D re
 | 5.1 | Demonstrate leadership commitment | Management review records (QF-015), resource provision | | |
 | 5.1.2 | Customer focus - meet requirements, enhance satisfaction | Contract review records (QF-001), OTD tracking | | |
 | 5.2 | Establish and communicate quality policy | QM-002 posted in shop, understood by shop owner | | |
-| 5.3 | Assign roles, responsibilities, authorities | QM-001 Section 5, sole proprietor acknowledgment | | |
+| 5.3 | Assign roles, responsibilities, authorities | QM-001 Section 5, single-operator acknowledgment | | |
 
 ## Clause 6: Planning
 

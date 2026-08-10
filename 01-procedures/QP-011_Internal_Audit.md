@@ -38,7 +38,7 @@ Applies to all processes, procedures, and areas within the QMS. The audit progra
 ## 5. Definitions
 
 - **Internal Audit:** A systematic, independent examination of the QMS to determine whether activities and results comply with planned arrangements and whether those arrangements are implemented effectively.
-- **Auditor Independence:** The auditor must not audit their own work. As a sole proprietor, this requires contracting an external qualified auditor.
+- **Auditor Independence:** The auditor must not audit their own work. As a single-operator organization, this requires contracting an external qualified auditor.
 - **Nonconformity (Finding):** Non-fulfillment of a requirement identified during audit.
 - **Observation:** A situation that is not currently a nonconformity but could become one if not addressed, or an opportunity for improvement.
 

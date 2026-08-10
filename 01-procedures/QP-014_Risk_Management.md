@@ -55,7 +55,7 @@ Applies to:
    - Process risks (machine failure, programming errors, setup errors)
    - Supply chain risks (single-source suppliers, material availability, long lead times)
    - Equipment risks (calibration drift, machine breakdown, tooling failure)
-   - Personnel risks (sole proprietor illness/injury, skill gaps)
+   - Personnel risks (single-operator illness/injury, skill gaps)
    - Customer risks (requirement changes, unclear specifications, payment)
    - External risks (regulatory changes, material cost increases, utility disruption)
 2. Document each identified risk on QF-023 Risk Register with: risk ID, description, category, affected process/objective.

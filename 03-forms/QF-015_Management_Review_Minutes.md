@@ -14,7 +14,7 @@
 
 **Review Date:** _____ (YYYY-MM-DD) **Review Period:** _____ to _____
 
-**Attendee:** Shop Owner (sole proprietor)
+**Attendee:** Jacob Honick, Owner (Torchworx LLC)
 
 **Next Review Date:** _____ (YYYY-MM-DD)
 

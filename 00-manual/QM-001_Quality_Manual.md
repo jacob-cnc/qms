@@ -22,7 +22,7 @@
 | Address | 1721 63rd ST SE, Everett, WA 98203 |
 | Phone | 614-670-3079 |
 | Owner / Operator | Jacob Honick |
-| Business Type | Sole Proprietorship - Precision CNC and Manual Machining |
+| Business Type | LLC - Precision CNC and Manual Machining |
 | Equipment | 1x CNC Mill, 1x CNC Lathe, 1x Manual Mill |
 | Certifications Sought | AS9100 Rev D / ISO 9001:2015 |
 
@@ -59,7 +59,7 @@ This determination of non-applicability does not affect the organization's abili
 
 ### 2.1 Understanding the Organization and Its Context
 
-The organization operates as a sole proprietorship providing precision machining services to aerospace and defense customers. The context analysis considering internal and external issues affecting the QMS is documented in QF-032 Context Analysis.
+The organization operates as a single-member LLC providing precision machining services to aerospace and defense customers. The context analysis considering internal and external issues affecting the QMS is documented in QF-032 Context Analysis.
 
 **Key Internal Factors:**
 
@@ -270,7 +270,7 @@ All quality forms/templates used within this QMS:
 
 ### 5.1 Organization Overview
 
-This is a sole proprietorship. The Shop Owner fulfills all management and operational roles. There is no delegation of authority to employees because there are no employees. Certain specialized activities are contracted to qualified external providers.
+This is a single-member LLC. The Owner fulfills all management and operational roles. There is no delegation of authority to employees because there are no employees. Certain specialized activities are contracted to qualified external providers.
 
 ### 5.2 Roles Fulfilled by Shop Owner
 

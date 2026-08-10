@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This guide provides a practical roadmap for implementing the QMS from scratch. It is designed for a sole proprietor machine shop and accounts for the reality of doing implementation work alongside production.
+This guide provides a practical roadmap for implementing the QMS from scratch. It is designed for a single-member LLC machine shop and accounts for the reality of doing implementation work alongside production.
 
 ## Phase Overview
 
@@ -94,7 +94,7 @@ This guide provides a practical roadmap for implementing the QMS from scratch. I
 
 **Criteria for selecting a CB:**
 - Accredited by ANAB or equivalent IAF-recognized body
-- Experience auditing small/sole proprietor machine shops
+- Experience auditing small/single-operator machine shops
 - Auditor(s) with machining/manufacturing background
 - Reasonable travel costs (local or willing to travel)
 - Clear pricing (application, Stage 1, Stage 2, surveillance, recertification)

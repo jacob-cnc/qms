@@ -76,7 +76,7 @@ Applies to the Shop Owner (performing all production and quality roles) and any 
 
 ### 6.4 Sole-Proprietor Competence Demonstration
 
-7. As a sole proprietor, continued competence is demonstrated through objective evidence including: successful production of conforming product (inspection records), positive customer feedback and repeat orders, maintenance of current certifications, results of external assessments (e.g., registrar audit findings related to competence), and self-assessment against the Training Matrix at each management review.
+7. As a single-operator LLC, continued competence is demonstrated through objective evidence including: successful production of conforming product (inspection records), positive customer feedback and repeat orders, maintenance of current certifications, results of external assessments (e.g., registrar audit findings related to competence), and self-assessment against the Training Matrix at each management review.
 
 ### 6.4 Ongoing Training Requirements
 
