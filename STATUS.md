@@ -1,8 +1,6 @@
 # Status
 
-**Last updated:** 2026-08-10  
-**Current phase:** Document Review & Correction  
-**Next milestone:** Remaining document review (WIs, forms, supporting docs)
+**Last updated:** 2026-08-10**Current phase:** Document Review & Correction**Next milestone:** Remaining document review (WIs, forms, supporting docs)
 
 ## What's Done
 
@@ -34,3 +32,4 @@ None currently.
 - Which registrar to pursue (NQA, Smithers, NSF-ISR, PJR recommended)
 - Timeline commitment for implementation period (3-6 months minimum)
 - Whether to maintain DOCX in git or generate on-demand via CI
+

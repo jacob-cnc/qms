@@ -33,6 +33,7 @@ Applies to all machining operations performed on the three CNC machines in the s
 - QP-002 — Contract Review
 - QP-006 — In-Process Inspection
 - QP-015 — Configuration Management
+- QP-014 — Risk Management (operational risk assessment per AS9100D Clause 8.1.1)
 - WI-004 — CNC Program Verification and Prove-Out
 - AS9100 Rev D Clause 8.5.1
 
@@ -46,6 +47,7 @@ Applies to all machining operations performed on the three CNC machines in the s
 ### Job Planning
 
 1. After contract review acceptance (QP-002), create a production plan for the job.
+1a. Perform a job-level operational risk assessment per QP-014 Part B. Document risk factors on the Job Traveler (new part, new material, tight tolerances, compressed timeline, unfamiliar special processes). Apply additional controls for elevated-risk jobs.
 2. Review the drawing and identify:
    - Raw material requirements (type, size, condition)
    - Machining operations required and their logical sequence

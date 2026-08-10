@@ -72,6 +72,12 @@ Applies to all manufacturing areas, machining operations, assembly, and packagin
 14. Use compressed air or clean wipes to remove any remaining contamination.
 15. Document FOD inspection completion on the Job Traveler or packing documentation.
 
+### FOD Awareness
+
+16. All persons performing work in the shop (including the Shop Owner and any contracted personnel) shall be aware of the importance of FOD prevention and their contribution to product safety per AS9100D Clause 8.5.4.
+17. Review FOD awareness annually. Document the review on QF-016 Training Record with topic "FOD Prevention Awareness."
+18. New contracted personnel working on-site must receive a FOD orientation briefing before beginning work.
+
 ## 7. Records Generated
 
 | Form No. | Title | When Completed |

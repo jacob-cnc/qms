@@ -1,5 +1,5 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QM-001 |
 | Title | Quality Manual |
 | Revision | A |
@@ -17,7 +17,7 @@
 ### 1.1 Company Information
 
 | Item | Detail |
-|------|--------|
+| --- | --- |
 | Company Name | [Company Name] |
 | Address | [Address] |
 | Phone | [Phone] |
@@ -31,15 +31,18 @@
 This Quality Management System applies to the **precision CNC and manual machining of aerospace components to customer drawings**. The shop manufactures metallic parts using CNC milling, CNC turning, and manual milling processes per customer-supplied drawings, specifications, and purchase order requirements.
 
 **Products and Services Covered:**
+
 - CNC milled components (3-axis)
 - CNC turned components (2-axis)
 - Manually milled components
 - Associated inspection, packaging, and shipping services
 
 **Locations Covered:**
+
 - Single facility at the address above - all operations performed on-site except where contracted services are noted
 
 **Applicable Standards:**
+
 - AS9100 Rev D (EN/JISQ 9100:2016)
 - ISO 9001:2015
 - Customer-specific requirements as flowed down via purchase orders
@@ -59,12 +62,14 @@ This determination of non-applicability does not affect the organization's abili
 The organization operates as a sole proprietorship providing precision machining services to aerospace and defense customers. The context analysis considering internal and external issues affecting the QMS is documented in QF-032 Context Analysis.
 
 **Key Internal Factors:**
+
 - Single-person operation - all roles consolidated
 - Three-machine shop providing milling and turning capability
 - Capacity limited by single-operator constraint
 - Direct control over all processes (no delegation complexity)
 
 **Key External Factors:**
+
 - AS9100 certification required by aerospace customers
 - Customer flow-down requirements vary by contract
 - Regulatory requirements (FAA, ITAR as applicable)
@@ -74,7 +79,7 @@ The organization operates as a sole proprietorship providing precision machining
 ### 2.2 Understanding the Needs and Expectations of Interested Parties
 
 | Interested Party | Needs and Expectations |
-|------------------|----------------------|
+| --- | --- |
 | Customers | Conforming product, on-time delivery, traceability, certifications (CoC, FAI), communication |
 | Regulatory Bodies | Compliance with applicable airworthiness and export control regulations |
 | Suppliers | Clear requirements, timely payment, fair evaluation |
@@ -102,6 +107,7 @@ The Shop Owner is committed to:
 ### 3.2 Communication and Availability
 
 The Quality Policy is:
+
 - Displayed in the shop (printed and posted)
 - Available as a controlled document (QM-002)
 - Communicated to all interested parties as appropriate
@@ -172,9 +178,11 @@ IMPROVEMENT PROCESSES (monitor and correct all processes):
 | (QP-012)          |  | COMMUNICATION     |
 +-------------------+  | (QP-023)          |
                        +-------------------+
+
 ```
 
 **Process Interactions Summary:**
+
 - Customer requirements flow in through Contract Review and flow out through Final Inspection/Release
 - Purchasing feeds into Receiving Inspection which feeds into Production
 - All operational processes are supported by Document Control, Calibration, Training, Risk Management, PM, and FOD Prevention
@@ -186,7 +194,7 @@ IMPROVEMENT PROCESSES (monitor and correct all processes):
 All quality procedures referenced by this QMS, organized by AS9100 clause:
 
 | Doc No. | Title | Primary AS9100 Clause |
-|---------|-------|-----------------------|
+| --- | --- | --- |
 | QP-001 | Document Control | 7.5 Documented Information |
 | QP-002 | Contract Review | 8.2 Requirements for Products and Services |
 | QP-003 | Purchasing and Supplier Management | 8.4 Control of Externally Provided Processes |
@@ -218,7 +226,7 @@ All quality procedures referenced by this QMS, organized by AS9100 clause:
 All quality forms/templates used within this QMS:
 
 | Doc No. | Title | Associated Procedure |
-|---------|-------|---------------------|
+| --- | --- | --- |
 | QF-001 | Contract Review Checklist | QP-002 |
 | QF-002 | Purchase Order | QP-003 |
 | QF-003 | Receiving Inspection Record | QP-004 |
@@ -267,7 +275,7 @@ This is a sole proprietorship. The Shop Owner fulfills all management and operat
 ### 5.2 Roles Fulfilled by Shop Owner
 
 | Role | QMS Responsibilities |
-|------|---------------------|
+| --- | --- |
 | Top Management | Establish quality policy and objectives, ensure QMS integration with business processes, ensure resources are available, promote improvement and risk-based thinking |
 | Quality Manager | Maintain the QMS, ensure process conformance, report QMS performance, ensure customer focus throughout the organization |
 | Management Representative | Interface with external parties (registrar, customers) on QMS matters, ensure QMS requirements are met |
@@ -284,7 +292,7 @@ This is a sole proprietorship. The Shop Owner fulfills all management and operat
 The following activities are contracted to qualified external providers to supplement the Shop Owner's capabilities or to satisfy objectivity requirements:
 
 | Service | Provider Type | Reason for Contracting |
-|---------|--------------|----------------------|
+| --- | --- | --- |
 | Calibration | Accredited calibration laboratory (ISO/IEC 17025) | Required accreditation; specialized equipment and standards |
 | Internal Audit | Qualified AS9100 auditor (contracted annually) | AS9100 Clause 9.2 requires auditor objectivity - cannot self-audit |
 | Special Processes | NADCAP-accredited processors (heat treat, plating, NDT) | Specialized processes not performed in-house; customer/spec requirements |
@@ -293,19 +301,21 @@ The following activities are contracted to qualified external providers to suppl
 ### 5.4 Authority and Communication
 
 **Authority Structure:**
-- The Shop Owner has full authority for all QMS decisions including:
-  - Product release and nonconformance disposition
-  - Supplier approval and removal
-  - Corrective action approval and effectiveness verification
-  - Process changes and document revisions
-  - Stop-work authority for quality or safety concerns
+
+- The Shop Owner has full authority for all QMS decisions including:- Product release and nonconformance disposition
+- Supplier approval and removal
+- Corrective action approval and effectiveness verification
+- Process changes and document revisions
+- Stop-work authority for quality or safety concerns
 
 **Internal Communication:**
+
 - As a single-person operation, internal communication is inherent
 - Documented decisions (NCR dispositions, CARs, management review minutes) serve as the formal record
 - QMS changes are effective immediately upon document revision approval
 
 **External Communication:**
+
 - Customer communication per QP-023
 - Supplier communication per QP-003
 - Registrar communication through Management Representative role
@@ -313,7 +323,7 @@ The following activities are contracted to qualified external providers to suppl
 ### 5.5 Responsibility Matrix
 
 | QMS Process | Shop Owner | Contracted Calibration Lab | Contracted Auditor | Special Process Suppliers |
-|-------------|:----------:|:--------------------------:|:------------------:|:-------------------------:|
+| --- | --- | --- | --- | --- |
 | Document Control (QP-001) | R, A | - | - | - |
 | Contract Review (QP-002) | R, A | - | - | - |
 | Purchasing (QP-003) | R, A | - | - | - |
@@ -354,6 +364,7 @@ The following activities are contracted to qualified external providers to suppl
 ## 7. Revision History
 
 | Rev | Date | Description | Approved By |
-|-----|------|-------------|-------------|
+| --- | --- | --- | --- |
 | - | 2025-07-14 | Initial draft | Shop Owner |
 | A | 2026-08-10 | Revised: updated Clause 8.3 non-applicability terminology, added record retention statement, corrected procedure cross-reference table (QP-017 clause mapping), removed duplicate sections, incorporated full procedure and form cross-reference tables | Shop Owner |
+

@@ -57,6 +57,8 @@ Applies to all new inquiries, quotations, purchase orders, PO amendments, and ve
    - First Article Inspection (FAI) requirements
    - Traceability requirements (lot, heat, serial number)
    - Customer source inspection requirements
+   - Applicable statutory and regulatory requirements not stated by the customer (e.g., ITAR/EAR export controls, FAR/DFARS clauses, material conformance regulations)
+   - Requirements that must be flowed down to external providers (material suppliers, special process suppliers) — communicate to Purchasing per QP-003
    - Export control classification (ITAR/EAR screening)
    - Pricing and payment terms acceptability
 
