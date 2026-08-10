@@ -1,6 +1,6 @@
 # Status
 
-**Last updated:** 2026-08-10**Current phase:** Review Complete — Ready for Implementation**Next milestone:** Establish GitHub remote and push
+**Last updated:** 2026-08-10**Current phase:** Documentation Complete — Ready for Implementation**Next milestone:** Begin QMS implementation (generate operational evidence)
 
 ## What's Done
 
@@ -8,20 +8,27 @@
 - [x] PM handoff from Kiro agent received and acknowledged
 - [x] AS9100D deep research completed (10-track, 305KB reference guide)
 - [x] High-risk document review completed (10 procedures + manual)
-- [x] 17 issues identified and fixed (3 critical, 5 high, 6 medium, 3 low)
+- [x] 22 issues identified and fixed (Rounds 1 & 2)
 - [x] Cross-reference integrity audit passed (360 refs verified, 7 title mismatches fixed)
-- [x] DOCX files regenerated from corrected markdown source
-- [x] Git repo initialized with baseline commit
 - [x] Review remaining 15 procedures (5 additional issues found and fixed)
 - [x] Review 9 work instructions for practical usability (all passed)
 - [x] Spot-check forms for printability and completeness (all passed)
+- [x] DOCX files regenerated from corrected markdown source
+- [x] Git repo initialized and pushed to GitHub (github.com/jacob-cnc/qms)
+- [x] Company details populated (Torchworx LLC, Jacob Honick, Everett WA)
+- [x] Business type corrected to LLC across all documents
 
 ## What's Next
 
-- [ ] Establish GitHub remote and push
-- [ ] Begin QMS implementation (generate operational evidence)
-- [ ] Contract internal auditor
-- [ ] Select registrar and schedule Stage 1
+- [ ] Begin QMS implementation — start following procedures on real jobs and generating records
+- [ ] Contract internal auditor (AS9100-qualified, independent)
+- [ ] Select registrar and request quotes (NQA, Smithers, NSF-ISR, PJR recommended)
+- [ ] Schedule and conduct first Management Review (QP-012)
+- [ ] Populate calibration register with actual equipment (QF-028)
+- [ ] Complete initial training records for Jacob Honick (QF-016, QF-036)
+- [ ] Fill out Context Analysis form (QF-032)
+- [ ] Complete initial Risk Register (QF-023)
+- [ ] Run first real job through the full QMS process (traveler → inspection → shipping)
 
 ## Blockers
 
@@ -30,6 +37,6 @@ None currently.
 ## Decisions Pending
 
 - Which registrar to pursue (NQA, Smithers, NSF-ISR, PJR recommended)
-- Timeline commitment for implementation period (3-6 months minimum)
+- Timeline commitment for implementation period (3-6 months minimum before Stage 2)
 - Whether to maintain DOCX in git or generate on-demand via CI
 
