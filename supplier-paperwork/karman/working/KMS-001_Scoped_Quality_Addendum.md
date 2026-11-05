@@ -1,5 +1,7 @@
 # KMS-001 — Proposed Karman machining quality scope and controls
 
+> **Superseded 2026-11-05 by QSM-001 Basic Quality System Manual (07-basic-qms/).** Its content is folded into QSM-001. Kept for history only; do not issue.
+
 | Field | Value |
 | --- | --- |
 | Revision | Draft 0 |

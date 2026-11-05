@@ -347,11 +347,12 @@ def _add_footer(doc, lines):
     doc_no = ""
     title = ""
     for line in lines:
-        if '| Document No.' in line:
+        # Use only the first match: later tables may have their own "Title" column.
+        if '| Document No.' in line and not doc_no:
             parts = line.split('|')
             if len(parts) >= 3:
                 doc_no = parts[2].strip()
-        if '| Title' in line:
+        if '| Title' in line and not title:
             parts = line.split('|')
             if len(parts) >= 3:
                 title = parts[2].strip()
