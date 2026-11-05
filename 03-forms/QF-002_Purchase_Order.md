@@ -29,8 +29,8 @@
 
 | Field | Value |
 |-------|-------|
-| Company | KB Objects LLC |
-| Address | ___________ |
+| Company | Torchworx LLC |
+| Address | 1721 63rd ST SE, Everett, WA 98203 |
 | Attention | ___________ |
 | Required Date | _____ (YYYY-MM-DD) |
 
