@@ -29,9 +29,10 @@ This manual is the operating quality system of Torchworx LLC. It defines the con
 | Legal name | Torchworx LLC |
 | Address | 1721 63rd ST SE, Everett, WA 98203 |
 | Phone | 614-670-3079 |
+| E-mail | torchworxjacob@gmail.com |
 | Owner / sole employee | Jacob Honick — performs all management, production, inspection and quality functions |
 | Machining experience | Owner has operated this workshop for more than 10 years; Torchworx LLC was formed on 2025-03-05 |
-| Ownership | US-owned single-member LLC; not foreign owned |
+| Ownership | US-owned single-member LLC; not foreign owned. Owner is a US citizen by birth. |
 | Equipment | CNC lathe: CTMACH CQ6133 · CNC mill: 3040 three-axis CNC mill (Mach3 control) · Manual mill: Grizzly G0704 |
 | Sites | One site (address above). No other location processes customer orders. |
 
@@ -193,7 +194,7 @@ Before shipment the owner reviews the completed job packet: traveler, inspection
 ## 13. Records, Retention and Access
 
 1. Quality records include the contract review, purchase orders, material certifications, travelers, inspection records, NCRs and customer authorizations, CoCs, calibration records, tooling records, and training acknowledgments. They are filed by job number and customer, or by instrument or tool ID.
-2. Records are kept legible and complete, are corrected only by a dated, initialed change that leaves the original readable, and are protected from loss. Electronic records are stored in «primary location» and backed up to «backup location/method» at least «frequency». A test retrieval is made at least once a year.
+2. Records are kept legible and complete, are corrected only by a dated, initialed change that leaves the original readable, and are protected from loss. Electronic records are stored on the administrative computer at the Torchworx facility and backed up to an external hard drive weekly, and also whenever documents or records are added or changed. A test retrieval from the backup drive is made at least once a year.
 3. **Retention:** at least **10 years** after shipment, or longer if the contract, purchase order or law requires it. Calibration records are kept for the life of the instrument plus 3 years. Records are not destroyed while any applicable retention period still runs.
 4. **Access:** inspection and quality records are available for review by the customer's Quality Assurance personnel, the customer's customers, and government agencies, as the contract requires. Information about other customers is protected.
 

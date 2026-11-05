@@ -13,10 +13,10 @@ Items marked ⚠ need the owner to confirm the fact before the answer is entered
 | Address / City / State / Zip | 1721 63rd ST SE, Everett, WA 98203 ⚠ confirm |
 | Phone / Fax | 614-670-3079 / none |
 | Website | ⚠ yours, or "none" |
-| Contact name / title / e-mail | Jacob Honick / Owner / ⚠ |
+| Contact name / title / e-mail | Jacob Honick / Owner / torchworxjacob@gmail.com |
 | Number of employees | 1 (owner-operator) |
 | Foreign-owned business? | No |
-| All employees US persons? | Yes ⚠ confirm you are a US citizen or green-card holder |
+| All employees US persons? | Yes. Owner is a US citizen by birth and has never held another citizenship. |
 | ITAR registered? | No |
 | ITAR registration expiration | N/A |
 | ITAR compliant (if not registered)? | No. Write: "Not registered; does not accept ITAR-controlled work or data. Sole operator is a US person. See QSM-001 §2.3." |
@@ -90,7 +90,7 @@ Leave blank, or write "None — single site."
 
 ## Before Sending — Owner Checklist
 
-- [ ] Fill in QSM-001's remaining «» fields (effective date, record storage/backup), then sign §17
+- [ ] Fill in QSM-001's effective date, then sign §17
 - [ ] Sign the Code of Conduct acknowledgment on QF-016
 - [ ] Fix the company name on QF-002, QF-007 and QF-010, which say "KB Objects LLC"
 - [ ] Confirm the ⚠ items above
