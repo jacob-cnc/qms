@@ -21,7 +21,7 @@ Items marked ⚠ need the owner to confirm the fact before the answer is entered
 | ITAR registration expiration | N/A |
 | ITAR compliant (if not registered)? | No. Write: "Not registered; does not accept ITAR-controlled work or data. Sole operator is a US person. See QSM-001 §2.3." |
 | Exposure mitigation procedure | Not triggered if "All employees US persons" = Yes. If Karman asks, point to QSM-001 §2.3. |
-| Scope of services | CNC milling, CNC turning and manual milling of metallic parts to customer drawings, with inspection and shipping. No design, welding or special processes in-house. |
+| Scope of services | CNC milling, CNC turning and manual milling of metallic or non-metallic parts to customer drawings, with inspection and shipping. |
 | Locations | One site — the address above |
 | Management organization (Admin / Engr / QA / Prod) | Jacob Honick for all four |
 | Agree to support Systima quality philosophy? | Yes (QSM-001 §3.1) |
@@ -86,7 +86,8 @@ Leave blank, or write "None — single site."
 ## Attach
 
 1. QSM-001 Rev A, signed. Export it as PDF.
-2. Nothing else unless Karman asks. Forms are available on request. Do **not** attach the internal Survey-assessment, Readiness-records or this sheet.
+2. Separate QA-1003/QSM-001 cross-reference attachment (`supplier-paperwork/karman/submission/QA-1003_QSM-001_Cross_Reference`).
+3. Nothing else unless Karman asks. Forms are available on request. Do **not** attach the internal Survey-assessment, Readiness-records or this sheet.
 
 ## Before Sending — Owner Checklist
 
@@ -96,3 +97,4 @@ Leave blank, or write "None — single site."
 - [ ] Confirm the ⚠ items above
 - [ ] Ask your Karman contact whether they want DFARS Q1–3 as "No" or "NA"
 - [ ] Before cutting the titanium tubes: calibrate the calipers (QF-039 or a lab) and receive certified pins
+

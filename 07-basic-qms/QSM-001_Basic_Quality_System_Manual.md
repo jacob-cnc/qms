@@ -18,7 +18,7 @@ This manual is the operating quality system of Torchworx LLC. It defines the con
 
 **Certification status.** Torchworx LLC is **not certified** to AS9100, ISO 9001, ISO/IEC 17025, NADCAP or any other quality standard, and does not claim compliance with any of them. The controls in this manual are organized around the principles of ISO 9001:2015 and AS9100D so that the system can grow toward certification. Certification is a future goal; no formal certification process has started and no target date has been set.
 
-**Relationship to the full QMS draft.** Torchworx maintains a more complete AS9100-oriented document set (QM-001, procedures QP-001 to QP-025, forms QF-001 to QF-039) as a development foundation. That set is not yet fully implemented. **Where this manual and the development set differ, this manual governs.** Forms from the development set are used as the record templates named below.
+**Relationship to the full QMS draft.** Torchworx LLC maintains a more complete AS9100-oriented document set (QM-001, procedures QP-001 to QP-025, forms QF-001 to QF-039) as a development foundation. That set is not yet fully implemented. **Where this manual and the development set differ, this manual governs.** Forms from the development set are used as the record templates named below.
 
 **Customer requirements take precedence.** Where a purchase order, drawing or contract imposes a stricter or different requirement, that requirement governs.
 
@@ -38,41 +38,39 @@ This manual is the operating quality system of Torchworx LLC. It defines the con
 
 ### 2.1 Scope
 
-Machining of metallic parts to customer-supplied drawings and specifications using CNC milling, CNC turning and manual milling, with associated inspection, identification, packaging and shipping.
+Machining of metallic or non-metallic parts to customer-supplied drawings and specifications using CNC milling, CNC turning and manual milling, with associated inspection, identification, packaging and shipping.
 
 ### 2.2 Exclusions
 
-- **Design.** Torchworx performs no product design; the customer holds design authority.
-- **Special processes and welding.** No welding, heat treatment, plating, coating or NDT is performed in-house. Any special process needed would be bought from a supplier approved under Section 7, and only with the customer's agreement.
 - **Explosives and energetic materials.** None are manufactured, stored, used or transported.
 - **Flight hardware.** The current scope is development and test hardware. Flight-critical or safety-critical product would need a separate contract review and may need added controls before it is accepted.
 
 ### 2.3 Export-Controlled and Controlled Unclassified Information
 
-Torchworx is **not registered with the DDTC under ITAR** and **does not accept ITAR-controlled work or technical data.** The sole operator is a US person. If a document marked ITAR, EAR-controlled, CUI or Distribution-limited is received, work stops, the data is not shared further, and the customer is contacted for direction.
+Torchworx LLC is **not registered with the DDTC under ITAR** and **does not accept ITAR-controlled work or technical data.** The sole operator is a US person. If a document marked ITAR, EAR-controlled, CUI or Distribution-limited is received, work stops, the data is not shared further, and the customer is contacted for direction.
 
-Torchworx has **not performed a NIST SP 800-171 self-assessment**, has no POAM and no SPRS score, and therefore **does not accept orders that flow down DFARS 252.204-7012 with CUI** until it has done so. Ordinary customer drawings and data are stored only on the owner's password-protected devices and accounts. They are not shared with anyone except the customer or an approved supplier who needs them for the order.
+Torchworx LLC has **not performed a NIST SP 800-171 self-assessment**, has no POAM and no SPRS score, and therefore **does not accept orders that flow down DFARS 252.204-7012 with CUI** until it has done so. Ordinary customer drawings and data are stored only on the owner's password-protected devices and accounts. They are not shared with anyone except the customer, or a supplier approved by the customer who needs them for the order.
 
 ## 3. Quality Policy, Ethics and Product Safety
 
 ### 3.1 Quality Policy
 
-Torchworx LLC delivers machined parts that meet every drawing and purchase order requirement, on time, with honest records. We review requirements before we accept work, inspect what we make, stop and tell the customer when something is wrong, and improve the shop from what we learn. Torchworx supports the quality philosophy of its customers, including the Systima Technologies / Karman quality policy.
+Torchworx LLC delivers machined parts that meet every drawing and purchase order requirement, on time, with honest records. Requirements are reviewed before work is accepted. Parts are inspected, problems are communicated to the customer, and lessons learned are used to improve shop practices. Torchworx LLC supports the quality philosophy of its customers.
 
 ### 3.2 Code of Conduct
 
-This section serves as the employee manual equivalent for ethics and product conformity. Anyone performing work for Torchworx, now the owner and in future any employee or helper, shall:
+This section serves as the employee manual equivalent for ethics and product conformity. Anyone performing work for Torchworx LLC, now the owner and in future any employee or helper, shall:
 
 1. Record actual measurements and results honestly. Never falsify, back-date or pre-sign a record, certificate, inspection result or approval.
 2. Never ship a part known or suspected not to conform without the customer's written authorization.
-3. Disclose defects, mistakes and conflicts of interest promptly, including after shipment.
+3. Disclose defects, mistakes and potential conflicts of interest promptly, including after shipment.
 4. Protect customer drawings, data and property and use them only for the customer's order.
 5. Stop work when conformity, identification or safety is uncertain, and resolve the question before continuing.
 6. Treat "development" or "prototype" status as no licence to deviate from the drawing or purchase order.
 
 ### 3.3 Contribution to Product Safety and Conformity
 
-Each person's contribution to product conformity and safety includes: working to the correct drawing revision, keeping parts and material identified, using suitable and calibrated instruments, recording results accurately, reporting errors, and keeping suspect product from being shipped. Parts made here may be used in tests where a failure could cause damage or injury.
+Contributions to product conformity and safety include: working to the correct drawing revision, keeping parts and material identified, using suitable instruments, recording results accurately, reporting errors, and keeping suspect product from being shipped.
 
 ### 3.4 Acknowledgment
 
@@ -82,7 +80,7 @@ The owner signs and dates an acknowledgment of Sections 3.2 and 3.3 on QF-016 Tr
 
 The owner is the sole employee and is responsible and accountable for every activity in this manual: contract review, purchasing, production, inspection, product release, nonconformance disposition, calibration, document control and corrective action. Because one person makes and inspects the product, Section 10 adds deliberate safeguards: written inspection plans, recorded actual values, and a review of the completed job packet before release.
 
-The owner's competence comes from more than 10 years of operating this workshop. New skills, methods or equipment are recorded on QF-016 when used for customer work. Work outside demonstrated competence is not accepted unless the competence is gained or the work is bought from a qualified source.
+The owner's competence comes from more than 10 years of operating this workshop. New skills, methods or equipment are recorded on QF-016 when used for customer work. Work outside demonstrated competence is not accepted unless the competence is gained or the work is bought from a qualified, customer-approved source.
 
 ## 5. Document Control
 
@@ -98,7 +96,7 @@ Before accepting any RFQ, purchase order or change, the owner completes QF-001 C
 
 - part number, drawing and specification revisions match the purchase order;
 - material, condition and certification requirements;
-- all dimensions and notes can be produced **and measured** with available, calibrated equipment;
+- all dimensions and notes can be produced **and measured** with suitable equipment;
 - quantity and delivery are achievable;
 - quality clauses and flowdowns, including CoC, material certs, FAI, traceability, record retention, packaging, source inspection, right of access, export control, DFARS and CUI clauses;
 - any outside processing needed.
@@ -111,7 +109,7 @@ Conflicts or unclear requirements are resolved with the customer in writing **be
 
 Suppliers of material, tooling that affects conformity, calibration services and outside processing are evaluated and listed on QF-019 Approved Supplier List, with the scope each supplier is approved for. The basis for approval is recorded on QF-017: certification such as ISO 9001, AS9100, ISO/IEC 17025 or NADCAP where relevant, ability to supply the required certifications, past performance, or customer direction. Customer-directed sources are used where specified.
 
-Raw material is bought from the mill or an established distributor able to supply material certifications. Torchworx does not buy material from unknown brokers.
+Raw material is bought from the mill or an established distributor able to supply material certifications. Torchworx LLC does not buy material from unknown brokers.
 
 ### 7.2 Purchase Orders to Suppliers
 
@@ -158,7 +156,7 @@ Each job has a traveler (QF-004) listing the operations, drawing revision, mater
 1. **First piece:** the first part of each setup, and after any setup, program or tool change that can affect a feature, is fully inspected to the drawing and recorded on QF-005 before production continues.
 2. **In-process:** the planned characteristics are checked at the hold points on the traveler.
 3. **Final:** every drawing and purchase order characteristic is verified and recorded on QF-006 before release.
-4. **No sampling.** Torchworx does not use sampling plans such as MIL-STD-1916 or ANSI Z1.4. **Every part is inspected (100%) for every drawing and purchase order acceptance characteristic** unless the customer approves a different plan in writing. This is practical for low-volume work.
+4. **No sampling.** Torchworx LLC does not use sampling plans such as MIL-STD-1916 or ANSI Z1.4. **Every part is inspected (100%) for every drawing and purchase order acceptance characteristic** unless the customer approves a different plan in writing. This is practical for low-volume work.
 5. **Actual values** are recorded, not just "OK", for each dimensional characteristic, together with the instrument ID, date and inspector. A result is never rounded into tolerance. Results too close to a limit to decide reliably, given the measurement capability, are placed on hold for better measurement.
 6. Where a feature cannot be verified with available equipment, a qualified inspection service is used or the method is agreed with the customer **before** the order is accepted.
 7. An AS9102 First Article Inspection is performed only when the purchase order requires it.
@@ -181,7 +179,7 @@ Before shipment the owner reviews the completed job packet: traveler, inspection
 2. The owner acts as the Material Review authority and may decide only the following:
    - **rework** to meet the original drawing, followed by full reinspection; or
    - **scrap**.
-3. **Use-as-is, repair, or any deviation from the drawing requires the customer's prior written approval.** Torchworx holds no customer MRB authority. The approval is kept in the job file and referenced on the CoC.
+3. **Use-as-is, repair, or any deviation from the drawing requires the customer's prior written approval.** Torchworx LLC holds no customer MRB authority. The approval is kept in the job file and referenced on the CoC.
 4. If nonconforming product may already have been shipped, the customer is notified in writing within one business day of discovery.
 5. Nonconforming parts that are scrapped are made unusable so they cannot re-enter production.
 
@@ -194,7 +192,7 @@ Before shipment the owner reviews the completed job packet: traveler, inspection
 ## 13. Records, Retention and Access
 
 1. Quality records include the contract review, purchase orders, material certifications, travelers, inspection records, NCRs and customer authorizations, CoCs, calibration records, tooling records, and training acknowledgments. They are filed by job number and customer, or by instrument or tool ID.
-2. Records are kept legible and complete, are corrected only by a dated, initialed change that leaves the original readable, and are protected from loss. Electronic records are stored on the administrative computer at the Torchworx facility and backed up to an external hard drive weekly, and also whenever documents or records are added or changed. A test retrieval from the backup drive is made at least once a year.
+2. Records are kept legible and complete, are corrected only by a dated, initialed change that leaves the original readable, and are protected from loss. Electronic records are stored on the administrative computer at the Torchworx LLC facility and backed up to an external hard drive weekly, and also whenever documents or records are added or changed. A test retrieval from the backup drive is made at least once a year.
 3. **Retention:** at least **10 years** after shipment, or longer if the contract, purchase order or law requires it. Calibration records are kept for the life of the instrument plus 3 years. Records are not destroyed while any applicable retention period still runs.
 4. **Access:** inspection and quality records are available for review by the customer's Quality Assurance personnel, the customer's customers, and government agencies, as the contract requires. Information about other customers is protected.
 
@@ -245,34 +243,9 @@ I have reviewed this manual. It describes how Torchworx LLC operates, and I comm
 | Signature | |
 | Date | |
 
-## Appendix A — Systima / Karman QA-1003 Supplier Self-Survey Cross-Reference
-
-| Survey question | Topic | QSM-001 section |
-| --- | --- | --- |
-| Profile | Company, ownership, US persons, ITAR | 2, 2.3 |
-| 1–3 | DFARS 252.204-7012, POAM, SPRS | 2.3 |
-| 4–6c | Certifications and compliance | 1 |
-| 7a | Certificate of Conformance | 10.4 |
-| 7b | Material certifications | 7.2, 7.3, 10.4 |
-| 8 | Quality manual and policy | This manual; 3.1 |
-| 9 | Ethics and product safety | 3.2–3.4 |
-| 10 | Calibration | 9 |
-| 11 | Supplier selection and approval | 7.1 |
-| 12 | Purchase orders to suppliers | 7.2, 15 |
-| 13 | Customer purchase orders and changes | 6 |
-| 14a–b | Document control | 5 |
-| 15a–b | Material control, storage, preservation, tracking | 8 |
-| 16a–b | Sampling inspection | 10.2 item 4 |
-| 17 | Customer drawing control | 5 item 4, 6 |
-| 18 | First-part, in-process, final inspection | 10.2 |
-| 19 | Production tooling records and preservation | 10.3 |
-| 20a–b | MRB / nonconforming product | 11 |
-| 21 | Inspection record access | 13 |
-| 22a–b | Corrective and preventive action | 12 |
-| 23–47 | Explosives / DoD explosives site questions | 2.2 (not applicable) |
-
 ## Revision History
 
 | Rev | Date | Description | Approved By |
 | --- | --- | --- | --- |
 | A | «signature date» | Initial release. Basic quality system for uncertified Tier 3 supply, derived from the QMS development set. Supersedes draft KMS-001. | Jacob Honick |
+

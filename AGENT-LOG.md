@@ -52,3 +52,8 @@ Significant actions taken by AI agents on this project.
 6. Wrote `supplier-paperwork/karman/HANDOFF.md` for the next agent.
 
 **PR:** [PR #1](https://github.com/jacob-cnc/qms/pull/1) (draft, kept separate at owner's request).
+
+## 2026-11-05 — Codex (owner review revisions)
+
+Applied all requested QSM-001 wording revisions; removed design/special-process exclusions, retained explosives/flight exclusions, broadened materials scope, revised supplier/customer approval wording and made the manual customer-neutral. Moved Appendix A into a separate QA-1003 submission cross-reference. Updated submission instructions, status and handoff; regenerated corresponding DOCX files and checked content parity. Owner signature and effective date remain pending. Changes committed to the existing basic-QMS feature branch at the owner's request.
+

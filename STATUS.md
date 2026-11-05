@@ -45,11 +45,13 @@ None currently.
 - [ ] Owner: website, Q7b material certs, address confirm, ITAR wording with Karman
 - [ ] Owner: sign QSM-001 §17 + QF-016, set effective date, test a backup restore, export PDF
 - [ ] Calibrate calipers and obtain certified pins before acceptance measurement
-- [ ] Send survey + QSM-001 PDF to Karman
+- [x] Owner review revisions applied to QSM-001; Appendix A extracted into a separate survey submission attachment
+- [ ] Send survey + QSM-001 PDF + separate QA-1003 cross-reference attachment to Karman
 
 ## Decisions Pending
 
 - Which registrar to pursue (NQA, Smithers, NSF-ISR, PJR recommended)
 - Timeline commitment for implementation period (3-6 months minimum before Stage 2)
 - Whether to maintain DOCX in git or generate on-demand via CI
+
 

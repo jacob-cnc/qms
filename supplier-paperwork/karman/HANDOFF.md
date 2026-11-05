@@ -26,13 +26,13 @@ Guiding rule from the owner: **accurate and honest, best practice, bare minimum.
 
 ## 3. What to send Karman vs. keep internal
 
-**Send:** `07-basic-qms/QSM-001_Basic_Quality_System_Manual` (signed, exported to PDF by the owner from Word), plus the completed survey PDF.
+**Send:** `07-basic-qms/QSM-001_Basic_Quality_System_Manual` (signed, exported to PDF by the owner from Word), plus the completed survey PDF and separate `supplier-paperwork/karman/submission/QA-1003_QSM-001_Cross_Reference` attachment.
 
 **Keep internal:** everything under `supplier-paperwork/karman/working/` (Survey-answers-draft, Survey-assessment, Readiness-records, DCR, job plan), this HANDOFF.md, and the 86-doc development set. The development set makes claims that are not yet true (accredited calibration, annually contracted audits, policy posted), which is why QSM-001 exists as a standalone document.
 
 ## 4. Key files
 
-- `07-basic-qms/QSM-001_Basic_Quality_System_Manual.md` (+ .docx) — the manual. Appendix A maps each survey question → QSM-001 section. QSM-001 governs where it differs from the larger draft QMS, reuses existing QF forms as records, and supersedes draft KMS-001.
+- `07-basic-qms/QSM-001_Basic_Quality_System_Manual.md` (+ .docx) — the manual. The separate submission cross-reference maps each survey question → QSM-001 section; Appendix A has been removed from the general manual. QSM-001 governs where it differs from the larger draft QMS, reuses existing QF forms as records, and supersedes draft KMS-001.
 - `supplier-paperwork/karman/working/Survey-answers-draft.md` (+ .docx) — every survey field/question with a drafted answer, page-5 "additional information" text, and a pre-send checklist. ⚠ marks = owner must confirm.
 - `supplier-paperwork/karman/working/Survey-assessment.md` — question-by-question mapping and evidence needed (accurate vs. the PDF).
 - `supplier-paperwork/karman/working/job-packet/` — blank contract review, material lot, traveler, inspection, release/CoC forms for the tube job.
@@ -88,3 +88,8 @@ Repo housekeeping / known gaps (not fixed, by design or pending owner):
 - Never push to `master`; feature branch + PR. Run commit and `git push origin <branch>` as **separate** commands (a chained `...; git push` line is blocked by the Kiro Crew safety policy).
 - After editing any `.md` that has a `.docx` twin, regenerate the DOCX with `convert_md_to_docx.py` (repo root) and verify the new text is in it.
 - Log agent actions in `AGENT-LOG.md`; keep `STATUS.md` as the single source of truth.
+
+## Owner review revisions — 2026-11-05
+
+Applied the owner's review: metallic or non-metallic scope; retain only explosives and flight exclusions; require customer approval for suppliers receiving data and sources for work outside demonstrated competence; use customer-neutral wording and Torchworx LLC throughout QSM-001; revise policy, potential conflicts of interest, product conformity contributions and suitable-equipment wording. Extracted Appendix A to `supplier-paperwork/karman/submission/QA-1003_QSM-001_Cross_Reference.md` (+ DOCX), to attach with the survey. Signature and effective date remain pending. Scope changes do not establish unverified design or special-process capabilities; review actual work before acceptance.
+
