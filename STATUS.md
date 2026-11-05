@@ -34,6 +34,19 @@
 
 None currently.
 
+## Active Workstream — Karman ASL Self-Survey (branch `karman/basic-qms`)
+
+**Updated:** 2026-11-05. Full handoff: `supplier-paperwork/karman/HANDOFF.md`.
+
+- [x] QSM-001 Basic Quality System Manual written (standalone, honest, uncertified Tier 3)
+- [x] Survey answers drafted question-by-question (`supplier-paperwork/karman/working/Survey-answers-draft.md`)
+- [x] Company details, LLC date, equipment, contact, US-person status, records/backup entered
+- [x] "KB Objects LLC" removed from QF-002/007/010 (this branch + PR #2 for master)
+- [ ] Owner: website, Q7b material certs, address confirm, ITAR wording with Karman
+- [ ] Owner: sign QSM-001 §17 + QF-016, set effective date, test a backup restore, export PDF
+- [ ] Calibrate calipers and obtain certified pins before acceptance measurement
+- [ ] Send survey + QSM-001 PDF to Karman
+
 ## Decisions Pending
 
 - Which registrar to pursue (NQA, Smithers, NSF-ISR, PJR recommended)

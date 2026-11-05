@@ -37,3 +37,18 @@ Significant actions taken by AI agents on this project.
 **Files modified:** QM-001, QP-003, QP-005, QP-008, QP-009, QP-010, QP-011, QP-012, QP-014, QP-015, QP-016, QP-018, QP-022, QP-023, QP-025 (15 markdown files + all DOCX regenerated)
 
 **Issues tracker:** `completion-reports/review-issues.md`
+
+---
+
+## 2026-11-05 — Kiro Crew (Karman ASL self-survey)
+
+**Action:** Built a standalone basic quality system for Tier 3 supply to Karman and drafted the self-survey answers.
+
+1. Reviewed the `review/karman-supplier-paperwork` drafts against the survey PDF and the dev QMS; recorded gaps (QM-001 calibration/retention/"posted"/"audits contracted" claims; Rev B drafts overwrite approved revs).
+2. Wrote `07-basic-qms/QSM-001_Basic_Quality_System_Manual` (supersedes draft KMS-001) and `supplier-paperwork/karman/working/Survey-answers-draft`; registered QSM-001 in the Master Document List.
+3. Entered owner facts: LLC formed 2025-03-05, equipment, contact, US-person status, records/backup method.
+4. Replaced erroneous "KB Objects LLC" with Torchworx LLC on QF-002, QF-007, QF-010 (also [PR #2](https://github.com/jacob-cnc/qms/pull/2) for master).
+5. Fixed `convert_md_to_docx.py` footer title bug; regenerated affected DOCX.
+6. Wrote `supplier-paperwork/karman/HANDOFF.md` for the next agent.
+
+**PR:** [PR #1](https://github.com/jacob-cnc/qms/pull/1) (draft, kept separate at owner's request).
