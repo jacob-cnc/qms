@@ -77,7 +77,7 @@ Items marked ⚠ need the owner to confirm the fact before the answer is entered
 
 Suggested additional-information text:
 
-> Torchworx LLC is a single-owner precision machine shop in Everett, WA. The owner has operated this workshop for more than 10 years; the LLC was formed in «year». We machine parts to customer drawings on a CNC mill, CNC lathe and manual mill, inspect every part to every drawing requirement, and record actual measured values. We are not certified. Our basic quality system (QSM-001, attached) covers contract review, purchasing and material traceability, calibration, 100% inspection, nonconforming product with customer disposition, corrective action and record retention. Certification to AS9100/ISO 9001 is a future goal. We understand this survey supports Tier 3 supplier approval for non-flight, non-ITAR development hardware.
+> Torchworx LLC is a single-owner precision machine shop in Everett, WA. The owner has operated this workshop for more than 10 years; the LLC was formed in March 2025. We machine parts to customer drawings on a CTMACH CQ6133 CNC lathe, a 3040 three-axis CNC mill and a Grizzly G0704 manual mill, inspect every part to every drawing requirement, and record actual measured values. We are not certified. Our basic quality system (QSM-001, attached) covers contract review, purchasing and material traceability, calibration, 100% inspection, nonconforming product with customer disposition, corrective action and record retention. Certification to AS9100/ISO 9001 is a future goal. We understand this survey supports Tier 3 supplier approval for non-flight, non-ITAR development hardware.
 
 ## Pages 6–7 — Additional Locations
 
@@ -90,7 +90,7 @@ Leave blank, or write "None — single site."
 
 ## Before Sending — Owner Checklist
 
-- [ ] Fill in QSM-001's «» fields (effective date, LLC formation year, equipment, record storage/backup), then sign §17
+- [ ] Fill in QSM-001's remaining «» fields (effective date, record storage/backup), then sign §17
 - [ ] Sign the Code of Conduct acknowledgment on QF-016
 - [ ] Fix the company name on QF-002, QF-007 and QF-010, which say "KB Objects LLC"
 - [ ] Confirm the ⚠ items above

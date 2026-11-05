@@ -30,9 +30,9 @@ This manual is the operating quality system of Torchworx LLC. It defines the con
 | Address | 1721 63rd ST SE, Everett, WA 98203 |
 | Phone | 614-670-3079 |
 | Owner / sole employee | Jacob Honick — performs all management, production, inspection and quality functions |
-| Machining experience | Owner has operated this workshop for more than 10 years; Torchworx LLC was formed in «year» |
+| Machining experience | Owner has operated this workshop for more than 10 years; Torchworx LLC was formed on 2025-03-05 |
 | Ownership | US-owned single-member LLC; not foreign owned |
-| Equipment | 1 CNC mill, 1 CNC lathe, 1 manual mill «confirm» |
+| Equipment | CNC lathe: CTMACH CQ6133 · CNC mill: 3040 three-axis CNC mill (Mach3 control) · Manual mill: Grizzly G0704 |
 | Sites | One site (address above). No other location processes customer orders. |
 
 ### 2.1 Scope
