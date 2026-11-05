@@ -1,11 +1,11 @@
-﻿| Field | Value |
+| Field | Value |
 |-------|-------|
 | Document No. | QF-020 |
 | Title | Calibration Log |
-| Revision | A |
-| Effective Date | 2026-08-07 |
+| Revision | B — draft, pending owner release |
+| Effective Date | Pending owner release |
 | Prepared By | Shop Owner |
-| Approved By | Shop Owner |
+| Approved By | Pending |
 | Page | 1 of 1 |
 
 ---
@@ -49,8 +49,10 @@
 
 ---
 
-**Instructions:** Record all calibration events. For OOT results, assess impact on product measured since last known good calibration per QP-018. Attach calibration certificates. Update next due date on instrument label.
+**Instructions:** Record all calibration events. For OOT results, assess impact on product measured since last known good calibration per QP-010. Attach calibration certificates. Update next due date on instrument label.
 
 **Result Key:** In-Tol = Within tolerance, no adjustment | Adj-In-Tol = Adjusted and verified in tolerance | OOT = Out of tolerance
 
-**References:** QP-018 Calibration Procedure, QF-033 OOT Investigation (if applicable)
+**References:** QP-010 Calibration Procedure, QF-033 OOT Investigation (if applicable)
+
+Revision B draft, prepared 2026-11-05: correct calibration procedure references to QP-010. Owner approval/effective date pending.

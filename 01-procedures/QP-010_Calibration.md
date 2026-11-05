@@ -1,11 +1,11 @@
-﻿| Field | Value |
+| Field | Value |
 |-------|-------|
 | Document No. | QP-010 |
 | Title | Calibration and Measurement Control |
-| Revision | A |
-| Effective Date | 2026-08-07 |
+| Revision | B — draft, pending owner release |
+| Effective Date | Pending owner release |
 | Prepared By | Shop Owner |
-| Approved By | Shop Owner |
+| Approved By | Pending |
 | Page | 1 of 1 |
 
 ---
@@ -63,13 +63,18 @@ Applies to all measurement and test equipment used to verify product conformance
 
 ### 6.3 Calibration Requirements
 
-7. All calibrations shall be performed by an ISO/IEC 17025 accredited laboratory with scope covering the instrument type and range.
-8. Calibration certificates must state: instrument ID, date calibrated, date due, as-found readings, as-left readings, standards used (with traceability), pass/fail determination, and technician signature.
+7. Use an ISO/IEC 17025 accredited laboratory with scope covering the instrument type and range when required by the customer/contract, when no approved in-house method exists, or when capability cannot be demonstrated. Otherwise, the owner may authorize a documented, limited-scope in-house calibration using certified traceable standards, a competent operator, appropriate conditions and an evaluated measurement uncertainty. In-house calibration is not accredited calibration. Customer requirements take precedence; obtain written acceptance if an alternate method departs from a customer requirement.
+7a. Before authorizing an in-house method, record intended use/range/function, instrument specification, standards and their actual values/uncertainties, method and check points, environmental limits, permissible error, uncertainty/fitness criteria, operator competence and approval. Use QF-039 for the limited external-length caliper method. Blank fields, unknown specifications or missing certificates prevent instrument release.
+7b. Reference standards must have certificates identifying the standard, calibration date, measured values, uncertainty with coverage factor, traceability and applicable conditions. Confirm the certificate covers the intended use and assign a justified recall date. A distributor CoC or the word “traceable” alone is insufficient evidence of calibration capability.
+7c. A pre-use verification detects changes; it does not extend a calibration due date or establish calibration of untested functions. A passing external-jaw check does not release internal jaws, depth measurement or the entire 0–6 inch range.
+7d. For a new in-house method, require initial calibration before acceptance use, pre-use checks each inspection session, and a conservative initial full-method recall no later than 6 months. Shorten for wear, damage, failed checks or heavy use. Review monthly and justify later interval changes using actual history; apply a shorter customer-required interval.
+8. Obtain external calibration reports with instrument ID, calibration date, results, uncertainty/traceability, method and provider identification. Record the shop-assigned due date separately if not on the report. For in-house records, include as-found/as-left results, all reference IDs/certificates, environmental conditions, repeat readings, errors, uncertainty/decision rule, authorized scope, result and actual operator/release approval. Record observations before adjustment or zero changes; retain failed results.
 9. Reference-only tools (e.g., steel rules, combination squares used for layout only) may be designated "Reference Only - Not Calibrated" if not used for acceptance decisions.
 
 ### 6.4 Calibration Status Identification
 
 10. Each calibrated instrument receives a calibration sticker showing: instrument ID, date calibrated, date due, and calibration lab name.
+10a. Label limited-scope instruments with the authorized function/range and record ID as well as calibration/due dates. Use “UNVERIFIED — NOT FOR ACCEPTANCE” until release; “Planned” equipment is not available capability. Register entries marked as examples in blank forms do not establish actual equipment or calibration status.
 11. Instruments past due or found out-of-tolerance are immediately marked with a red "DO NOT USE" tag and segregated from production use.
 12. "Reference Only" instruments are labeled accordingly.
 
@@ -91,7 +96,7 @@ Per AS9100D Clause 7.1.5, a documented recall process is maintained:
 
 ### 6.6 Out-of-Tolerance Response
 
-16. When a calibration certificate reports an instrument as out-of-tolerance (as-found condition):
+16. When calibration, a pre-use check, damage or other evidence indicates an out-of-tolerance or unreliable instrument:
     a. Quarantine the instrument.
     b. Initiate QF-033 Out-of-Tolerance Impact Assessment.
     c. Identify all product inspected with that instrument since the last known good calibration.
@@ -103,8 +108,9 @@ Per AS9100D Clause 7.1.5, a documented recall process is maintained:
 ### 6.7 Records
 
 18. File calibration certificates in the equipment record file, organized by instrument ID.
+18a. For certified acceptance pins, record each pin ID, nominal/actual size, class/tolerance, certificate uncertainty, calibration/recall dates and intended GO/NO-GO use. Evaluate actual size and uncertainty against the decision rule; nominal increment is not accuracy. Inspect for wear, damage, contamination and corrosion before each session. Cleanliness/visual checks alone do not recalibrate a pin. Use qualified external calibration unless a separately approved capable in-house method is established.
 19. Record each calibration event on QF-020 Calibration Log (date, instrument ID, result, certificate number).
-20. Retain calibration records for the life of the instrument plus 3 years after retirement.
+20. Retain calibration records for the life of the instrument plus 3 years after retirement, or longer when QP-001, the applicable job retention period or the contract requires it; apply the longest applicable period.
 
 ## 7. Records Generated
 
@@ -114,9 +120,11 @@ Per AS9100D Clause 7.1.5, a documented recall process is maintained:
 | QF-028 | Measurement Equipment List | Equipment added, retired, or changed |
 | QF-030 | Calibration Schedule | Updated monthly and after each calibration |
 | QF-033 | Out-of-Tolerance Impact Assessment | When instrument found OOT |
+| QF-039 | Limited-Scope Caliper Calibration and Verification Record | Initial/recall calibration and linked session checks |
 
 ## 8. Revision History
 
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+| B — draft | 2026-11-05 | Proposed limited-scope in-house calibration, reference/uncertainty criteria, pin control and actual release records; not effective until owner approval | Pending |

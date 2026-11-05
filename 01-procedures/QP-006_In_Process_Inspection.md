@@ -1,11 +1,11 @@
-﻿| Field | Value |
+| Field | Value |
 |-------|-------|
 | Document No. | QP-006 |
 | Title | In-Process Inspection |
-| Revision | A |
-| Effective Date | 2026-08-07 |
+| Revision | B — draft, pending owner release |
+| Effective Date | Pending owner release |
 | Prepared By | Shop Owner |
-| Approved By | Shop Owner |
+| Approved By | Pending |
 | Page | 1 of 1 |
 
 ---
@@ -33,7 +33,7 @@ Applies to all in-process inspection activities including first piece inspection
 - WI-005 — First Piece Inspection
 - QP-005 — Production Planning and Control
 - QP-008 — Nonconforming Product Control
-- QP-012 — Calibration and Measurement Control
+- QP-010 — Calibration and Measurement Control
 - AS9100 Rev D Clause 8.5.1, 8.6
 
 ## 5. Definitions
@@ -90,7 +90,7 @@ Applies to all in-process inspection activities including first piece inspection
 
 ### Equipment Verification
 
-14. Before performing any in-process inspection, verify that the measurement equipment being used is within its calibration due date per QP-012.
+14. Before performing any in-process inspection, verify that the measurement equipment being used is within its calibration due date per QP-010.
 15. If calibration is overdue, do not use the instrument. Select an alternative calibrated instrument or have the equipment calibrated before proceeding.
 
 ## 7. Records Generated
@@ -105,3 +105,5 @@ Applies to all in-process inspection activities including first piece inspection
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+Revision B draft, prepared 2026-11-05: correct calibration procedure references to QP-010. Owner approval/effective date pending.

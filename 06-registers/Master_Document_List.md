@@ -1,4 +1,4 @@
-﻿# Master Document List
+# Master Document List
 
 ## Instructions
 
@@ -135,3 +135,16 @@ This register lists all controlled documents in the QMS package. Maintain this l
 ---
 
 *Reference: QP-001 Document Control*
+
+## Pending revisions — not effective or released
+
+Prepared 2026-11-05; DCR-2026-11-05-CAL. Above revision-A entries are not replaced by these drafts until actual owner release and register update. Existing historic approval/implementation status remains subject to verification.
+
+| ID | Proposed revision | Location | Status |
+| --- | --- | --- | --- |
+| QP-010 | B | 01-procedures/QP-010_Calibration.md | Draft; owner approval/date pending |
+| QP-006 | B | 01-procedures/QP-006_In_Process_Inspection.md | Draft; corrected calibration references |
+| QF-020 | B | 03-forms/QF-020_Calibration_Log.md | Draft; corrected calibration references |
+| QF-039 | A | 03-forms/QF-039_Limited_Scope_Caliper_Calibration.md | New draft; not effective; excluded from released-document counts above |
+
+The corresponding files at these paths are drafts. Do not issue them as effective revisions; retrieve the preceding baseline from version history if needed and verify its approval status independently.
