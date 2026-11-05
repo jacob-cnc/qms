@@ -34,7 +34,7 @@
 
 | Field | Value |
 |-------|-------|
-| Organization Name | KB Objects LLC |
+| Organization Name | Torchworx LLC |
 | Supplier Code (if applicable) | ___________ |
 | Purchase Order Number | PO-___________ |
 | Detail FAI | ☐ Yes ☐ No |

@@ -92,7 +92,7 @@ Leave blank, or write "None — single site."
 
 - [ ] Fill in QSM-001's effective date, then sign §17
 - [ ] Sign the Code of Conduct acknowledgment on QF-016
-- [ ] Fix the company name on QF-002, QF-007 and QF-010, which say "KB Objects LLC"
+- [x] Company name on QF-002, QF-007 and QF-010 corrected to Torchworx LLC (2026-11-05)
 - [ ] Confirm the ⚠ items above
 - [ ] Ask your Karman contact whether they want DFARS Q1–3 as "No" or "NA"
 - [ ] Before cutting the titanium tubes: calibrate the calipers (QF-039 or a lab) and receive certified pins

@@ -14,7 +14,8 @@
 
 **[Company Logo / Letterhead Placeholder]**
 
-**KB Objects LLC**
+**Torchworx LLC**
+1721 63rd ST SE, Everett, WA 98203 · 614-670-3079 · torchworxjacob@gmail.com
 
 ---
 
