@@ -1,6 +1,6 @@
 # Per-piece 100% inspection record — QF-005 / QF-006
 
-Draft job-specific record — revision Draft 0, prepared 2026-11-05. NOT RELEASED. Based on existing QMS forms; not completed evidence. Owner-reported requirements must be checked against the agreed customer order before release. Dimensions are inches. Blank fields and unchecked items remain open.
+Draft job-specific record — revision Draft 0, prepared 2026-11-05. NOT RELEASED. Based on existing QMS forms; not completed evidence. job requirements must be checked against the agreed customer order before release. Dimensions are inches. Blank fields and unchecked items remain open.
 
 Job ID: ______  Customer legal entity: ______ (Karman/Systima to confirm)
 Part/drawing ID and revision or dated customer requirement reference: ______
@@ -12,10 +12,10 @@ Inspector / actual date: ______  Setup/program revision: ______
 
 ## Instrument and session readiness
 
-Planned caliper: TW-CAL-001 (Mitutoyo 500-752-20, serial B20111449; in-house calibration 2026-11-01 per owner). Next calibration due 2027-11-01 (annual). Confirm actual instrument / job suitability: ______
+Planned caliper: TW-CAL-001 (Mitutoyo 500-752-20, serial B20111449; in-house calibration 2026-11-01). Next calibration due 2027-11-01 (annual). Confirm actual instrument / job suitability: ______
 QF-020 or linked calibration/verification record: ______
 Customer/job-specific measurement instructions or restrictions, if applicable: ______
-Existing pin-set ID: TW-PIN-001 (Meyer Gage M-1; in-house calibration 2026-11-01 per owner). Class ZZ minus per owner; annual calibration next due 2027-11-01. Selected member IDs / sizes / customer-required evidence: ______
+Existing pin-set ID: TW-PIN-001 (Meyer Gage M-1; in-house calibration 2026-11-01). Class ZZ minus; annual calibration next due 2027-11-01. Selected member IDs / sizes / customer-required evidence: ______
 Approved pin decision-rule review: ______  Depth-reference/check method: ______
 Temperature / clean-part and gauge condition checks: ______
 Do not measure for acceptance while any required instrument remains unverified, overdue or unsuitable.
@@ -37,6 +37,7 @@ Inspection-interfering burrs/damage or requirement discrepancies: ______
 NCR/hold/rework/customer concession and reinspection references: ______
 Inspector conclusion / signature/date: ______
 Final release is separate and may occur only after the completed job packet review.
+
 
 
 

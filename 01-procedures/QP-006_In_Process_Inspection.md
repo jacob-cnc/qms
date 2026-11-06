@@ -3,9 +3,9 @@
 | Document No. | QP-006 |
 | Title | In-Process Inspection |
 | Revision | B — draft, pending owner release |
-| Effective Date | Pending owner release |
+| Effective Date | - |
 | Prepared By | Shop Owner |
-| Approved By | Pending |
+| Approved By | - |
 | Page | 1 of 1 |
 
 ---
@@ -107,3 +107,4 @@ Applies to all in-process inspection activities including first piece inspection
 | A | 2026-08-07 | Initial release | Shop Owner |
 
 Revision B draft, prepared 2026-11-05: correct calibration procedure references to QP-010. Owner approval/effective date pending.
+

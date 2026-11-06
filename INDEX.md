@@ -150,7 +150,7 @@
 | QF-017 | Supplier Evaluation Questionnaire | A | 📅 Annually |
 | QF-018 | Supplier Scorecard | A | 📅 Annually |
 | QF-019 | Approved Supplier List | A | 🔧 One-time |
-| QF-020 | Calibration Log | A | 📅 Per calibration |
+| QF-020 | Calibration Log | B | 📅 Per calibration |
 | QF-021 | Preventive Maintenance Record | A | 📅 Monthly |
 | QF-022 | Customer Complaint Form | A | ⚡ Triggered |
 | QF-023 | Risk Register | A | 📅 Quarterly |
@@ -158,9 +158,9 @@
 | QF-025 | Document Change Request | A | ⚡ Triggered |
 | QF-026 | FOD Prevention Checklist | A | 📅 Daily |
 | QF-027 | Equipment List | A | 🔧 One-time |
-| QF-028 | Measurement Equipment List | B — draft | 🔧 One-time |
+| QF-028 | Measurement Equipment List | B | 🔧 One-time |
 | QF-029 | Change Notification Form | A | ⚡ Triggered |
-| QF-030 | Calibration Schedule | B — draft | 🔧 One-time |
+| QF-030 | Calibration Schedule | B | 🔧 One-time |
 | QF-031 | Suspect Counterfeit Material Report | A | ⚡ Triggered |
 | QF-032 | Context of the Organization Analysis | A | 🔧 One-time |
 | QF-033 | Out-of-Tolerance Impact Assessment | A | ⚡ Triggered |
@@ -222,6 +222,7 @@
 | AGENT-LOG.md | AI agent action log |
 | completion-reports/review-issues.md | Review findings tracker |
 | completion-reports/document-categories.md | Document input-type guide |
+
 
 
 

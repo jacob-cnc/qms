@@ -2,10 +2,10 @@
 |-------|-------|
 | Document No. | QF-020 |
 | Title | Calibration Log |
-| Revision | B — draft, pending owner release |
-| Effective Date | Pending owner release |
+| Revision | B |
+| Effective Date | 2026-11-05 |
 | Prepared By | Shop Owner |
-| Approved By | Pending |
+| Approved By | Jacob Honick, Owner |
 
 ---
 
@@ -15,34 +15,34 @@
 
 ---
 
-## Opening entries — owner-reported in-house calibration
+## Calibration records — 2026-11-01
 
-Recorded 2026-11-05 from the owner's explicit instruction and date confirmation. All listed instruments/sets were reported in-house calibrated on 2026-11-01. Equipment details and source-ID aliases are maintained in QF-028. These entries record the owner's statement; detailed results, operator identity, methods and certificates were not provided. The owner subsequently assigned a 12-month interval, with next calibration due 2027-11-01. Do not infer pass/fail readings or external certification.
+All 22 listed instruments and sets are calibrated in-house. Interval: 12 months. Next calibration due: 2027-11-01. Equipment details are maintained in QF-028. A dash (-) indicates information not recorded. Maintain supporting calibration records under QP-010.
 
-| Asset ID | Calibration date | Provider | Reported result / basis | Operator / detailed record | Next due |
+| Asset ID | Calibration date | Provider | Result | Operator / detailed record | Next due |
 | --- | --- | --- | --- | --- | --- |
-| TW-BOR-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-CAL-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-CAL-002 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-DEP-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-DEP-002 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-GB-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-IND-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-IND-002 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-IND-003 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-IND-004 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-MIC-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-MIC-002 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-MIC-003 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-MIC-004 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-MIC-005 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-MIC-006 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-MIC-007 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-MIC-008 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-MIC-009 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-MIC-010 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-PIN-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
-| TW-STD-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | 2027-11-01 |
+| TW-BOR-001 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-CAL-001 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-CAL-002 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-DEP-001 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-DEP-002 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-GB-001 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-IND-001 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-IND-002 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-IND-003 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-IND-004 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-MIC-001 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-MIC-002 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-MIC-003 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-MIC-004 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-MIC-005 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-MIC-006 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-MIC-007 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-MIC-008 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-MIC-009 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-MIC-010 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-PIN-001 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
+| TW-STD-001 | 2026-11-01 | In-house | In-house calibrated | - | 2027-11-01 |
 
 ## Future Calibration Records
 
@@ -83,7 +83,8 @@ Recorded 2026-11-05 from the owner's explicit instruction and date confirmation.
 
 **References:** QP-010 Calibration Procedure, QF-033 OOT Investigation (if applicable)
 
-Revision B draft, prepared 2026-11-05: correct calibration procedure references to QP-010 and allow in-house check-record references without mandatory certificates. Owner approval/effective date pending.
+Revision B approved and effective 2026-11-05 by Jacob Honick, Owner: record in-house calibration dated 2026-11-01, annual interval and next due 2027-11-01; approved presentation.
+
 
 
 

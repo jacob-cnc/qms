@@ -3,9 +3,9 @@
 | Document No. | QP-003 |
 | Title | Purchasing and Supplier Management |
 | Revision | B — draft, pending owner release |
-| Effective Date | Pending owner release |
+| Effective Date | - |
 | Prepared By | Shop Owner |
-| Approved By | Pending |
+| Approved By | - |
 
 ---
 
@@ -114,4 +114,5 @@ Applies to all external providers of material, special processes, calibration se
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
 Revision B draft, prepared 2026-11-05: align calibration sourcing and requirements with QP-010 and customer requirements. Owner release/effective date pending.
+
 

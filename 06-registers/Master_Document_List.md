@@ -74,7 +74,7 @@ This register lists all controlled documents in the QMS package. Maintain this l
 | QF-017 | Supplier Evaluation | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-018 | Supplier Scorecard | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-019 | Approved Supplier List | A | [Date] | qms/03-forms/ | [Date +1yr] |
-| QF-020 | Calibration Log | A | [Date] | qms/03-forms/ | [Date +1yr] |
+| QF-020 | Calibration Log | B | 2026-11-05 | qms/03-forms/ | 2027-11-05 |
 | QF-021 | Preventive Maintenance Record | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-022 | Customer Complaint | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-023 | Risk Register | A | [Date] | qms/03-forms/ | [Date +1yr] |
@@ -82,9 +82,9 @@ This register lists all controlled documents in the QMS package. Maintain this l
 | QF-025 | Document Change Request | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-026 | FOD Checklist | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-027 | Equipment List | A | [Date] | qms/03-forms/ | [Date +1yr] |
-| QF-028 | Measurement Equipment List | A | [Date] | qms/03-forms/ | [Date +1yr] |
+| QF-028 | Measurement Equipment List | B | 2026-11-05 | qms/03-forms/ | 2027-11-05 |
 | QF-029 | Change Notification | A | [Date] | qms/03-forms/ | [Date +1yr] |
-| QF-030 | Calibration Schedule | A | [Date] | qms/03-forms/ | [Date +1yr] |
+| QF-030 | Calibration Schedule | B | 2026-11-05 | qms/03-forms/ | 2027-11-05 |
 | QF-031 | Suspect Counterfeit Report | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-032 | Context Analysis | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-033 | OOT Impact Assessment | A | [Date] | qms/03-forms/ | [Date +1yr] |
@@ -136,7 +136,7 @@ This register lists all controlled documents in the QMS package. Maintain this l
 
 *Reference: QP-001 Document Control*
 
-## Pending revisions — not effective or released
+## Unreleased revisions — not effective
 
 Prepared 2026-11-05; DCR-2026-11-05-CAL. Above revision-A entries are not replaced by these drafts until actual owner release and register update. Existing historic approval/implementation status remains subject to verification.
 
@@ -144,11 +144,8 @@ Prepared 2026-11-05; DCR-2026-11-05-CAL. Above revision-A entries are not replac
 | --- | --- | --- | --- |
 | QP-003 | B | 01-procedures/QP-003_Purchasing_and_Supplier_Management.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
 | QP-013 | B | 01-procedures/QP-013_Training_and_Competence.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
-| QF-028 | B | 03-forms/QF-028_Measurement_Equipment_List.md | Draft; 22 actual owner-listed entries, thematic IDs, in-house calibration 2026-11-01 per owner; annual interval; next due 2027-11-01; release pending |
-| QF-030 | B | 03-forms/QF-030_Calibration_Schedule.md | Draft; synchronized to all 22 QF-028 IDs and 2026-11-01 calibration date; recall dates and release pending |
 | QP-010 | B | 01-procedures/QP-010_Calibration.md | Draft; owner approval/date pending |
 | QP-006 | B | 01-procedures/QP-006_In_Process_Inspection.md | Draft; corrected calibration references |
-| QF-020 | B | 03-forms/QF-020_Calibration_Log.md | Draft; corrected calibration references |
 
 The corresponding files at these paths are drafts. Do not issue them as effective revisions; retrieve the preceding baseline from version history if needed and verify its approval status independently.
 
@@ -172,4 +169,9 @@ The sole current manual source is `00-manual/QM-001_Quality_Manual.md`; its DOCX
 
 
 
+
+
+## Equipment records release — 2026-11-05
+
+Jacob Honick, Owner, approved QF-020, QF-028 and QF-030 revision B and the customer-facing presentation changes by explicit project-conversation instruction. Effective 2026-11-05. Last calibration 2026-11-01; interval 12 months; next due 2027-11-01. TW-PIN-001 is Class ZZ minus in 0.001 in increments. Earlier templates are obsolete for current use. Other unreleased procedure revisions retain their status; dashes in their approval fields do not establish approval.
 

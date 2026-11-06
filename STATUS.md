@@ -18,11 +18,12 @@
 
 - [x] Consolidate manual content, remove competing manual/addendum files, remap survey references and regenerate Word copies.
 - [x] Owner approved consolidated QM-001 revision C, effective 2026-11-05; document register and matching Word copies updated.
-- [x] Replaced QF-028 examples with all 22 owner-listed instruments/sets; assigned thematic permanent IDs; all recorded in-house calibrated 2026-11-01 per owner.
-- [x] QF-030 contains exactly the 22 QF-028 IDs and the same owner-reported calibration date.
+- [x] Replaced QF-028 examples with all 22 owner-listed instruments/sets; assigned thematic permanent IDs; all recorded in-house calibrated 2026-11-01.
+- [x] QF-030 contains exactly the 22 QF-028 IDs and the same calibration date.
 - [x] Owner assigned annual calibration to all 22 entries: next due 2027-11-01; pin set confirmed Class ZZ minus.
 - [ ] Confirm remaining technical details, set contents and physical labels.
-- [ ] Record release of QP-010 and QF-028 when approved; establish actual instrument suitability before acceptance use.
+- [ ] Record release of QP-010 when approved; confirm instrument suitability for each job.
+- [x] QF-020, QF-028 and QF-030 revision B approved and effective 2026-11-05.
 - [ ] Complete QF-016 ethics/product-safety acknowledgment and a backup retrieval test.
 - [ ] Confirm survey profile, website, address, material certificates, DoD/CUI/DFARS applicability and actual DCMA site-survey history.
 - [ ] Verify survey answers against actual evidence, export the released manual to PDF, and submit with the completed survey and separate unnumbered courtesy cross-reference when authorized.
@@ -37,6 +38,11 @@ Future certification work, including registrar selection and independent certifi
 
 ## Equipment update — 2026-11-05
 
-QF-020 opening entries record owner-reported in-house calibration on 2026-11-01 for all 22 entries. No readings, operator identity, certificates or job release were supplied or invented. The owner subsequently assigned annual calibration, next due 2027-11-01. Uploaded IDs are aliases; current records use the thematic IDs. QF-028/QF-030 revision B release remains pending. The calibration-date instruction does not approve other pending procedures.
+QF-020 opening entries record in-house calibration on 2026-11-01 for all 22 entries. Detailed calibration readings, operator records and job release are maintained separately as applicable. The owner subsequently assigned annual calibration, next due 2027-11-01. Uploaded IDs are aliases; current records use the thematic IDs. QF-020/QF-028/QF-030 revision B release is approved, effective 2026-11-05. The calibration-date instruction does not approve other pending procedures.
 
+
+
+## Customer-facing equipment presentation — 2026-11-05
+
+QF-020/QF-028/QF-030 approved revision B uses dashes for information not recorded and direct calibration status wording. TW-PIN-001: Class ZZ minus, 0.001 in increments. Source attribution/aliases and earlier uncertainty commentary are kept in history rather than the issued equipment register. No new measurement results or external calibration certificates are created by presentation changes.
 

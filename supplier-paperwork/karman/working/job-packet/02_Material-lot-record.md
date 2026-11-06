@@ -1,6 +1,6 @@
 # Receiving and material-lot record — QF-003 / QF-004 supplement
 
-Draft job-specific record — revision Draft 0, prepared 2026-11-05. NOT RELEASED. Based on existing QMS forms; not completed evidence. Owner-reported requirements must be checked against the agreed customer order before release. Dimensions are inches. Blank fields and unchecked items remain open.
+Draft job-specific record — revision Draft 0, prepared 2026-11-05. NOT RELEASED. Based on existing QMS forms; not completed evidence. job requirements must be checked against the agreed customer order before release. Dimensions are inches. Blank fields and unchecked items remain open.
 
 Job ID: ______  Customer legal entity: ______ (Karman/Systima to confirm)
 Part/drawing ID and revision or dated customer requirement reference: ______
@@ -34,3 +34,4 @@ Keep cut blanks/pieces in identified containers or positions; do not mix lots. L
 
 Quantity reconciliation (consistent unit basis): blanks introduced ____ = WIP ____ + held ____ + scrapped ____ + released/shipped ____. Explain material remnant/cutting losses separately: ______.
 References: QP-003/004/005/020/021. Attach actual material evidence, not a specimen certificate.
+

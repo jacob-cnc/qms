@@ -1,6 +1,6 @@
 # Contract review — job-specific QF-001
 
-Draft job-specific record — revision Draft 0, prepared 2026-11-05. NOT RELEASED. Based on existing QMS forms; not completed evidence. Owner-reported requirements must be checked against the agreed customer order before release. Dimensions are inches. Blank fields and unchecked items remain open.
+Draft job-specific record — revision Draft 0, prepared 2026-11-05. NOT RELEASED. Based on existing QMS forms; not completed evidence. job requirements must be checked against the agreed customer order before release. Dimensions are inches. Blank fields and unchecked items remain open.
 
 Job ID: ______  Customer legal entity: ______ (Karman/Systima to confirm)
 Part/drawing ID and revision or dated customer requirement reference: ______
@@ -49,6 +49,7 @@ Open issues / customer clarification references: ______
 Contract acceptance decision (accept/hold/decline): ______
 Actual reviewer/signature/date: ______
 References: QP-002, QP-014, QP-025. No actual acceptance is recorded in this draft.
+
 
 
 

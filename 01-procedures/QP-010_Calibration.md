@@ -3,9 +3,9 @@
 | Document No. | QP-010 |
 | Title | Calibration and Measurement Control |
 | Revision | B — draft, pending owner release |
-| Effective Date | Pending owner release |
+| Effective Date | - |
 | Prepared By | Shop Owner |
-| Approved By | Pending |
+| Approved By | - |
 
 ---
 
@@ -125,6 +125,7 @@ Maintain the following recall process:
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
-| B — draft | 2026-11-05 | Proposed general in-house calibration/verification using known-good standards and existing records; dedicated caliper form removed; customer requirements govern; approval pending | Pending |
+| B — draft | 2026-11-05 | Proposed general in-house calibration/verification using known-good standards and existing records; dedicated caliper form removed; customer requirements govern; approval pending | - |
+
 
 

@@ -1,6 +1,6 @@
 # Final release review and shipment CoC — QF-006 / QF-010
 
-Draft job-specific record — revision Draft 0, prepared 2026-11-05. NOT RELEASED. Based on existing QMS forms; not completed evidence. Owner-reported requirements must be checked against the agreed customer order before release. Dimensions are inches. Blank fields and unchecked items remain open.
+Draft job-specific record — revision Draft 0, prepared 2026-11-05. NOT RELEASED. Based on existing QMS forms; not completed evidence. job requirements must be checked against the agreed customer order before release. Dimensions are inches. Blank fields and unchecked items remain open.
 
 Job ID: ______  Customer legal entity: ______ (Karman/Systima to confirm)
 Part/drawing ID and revision or dated customer requirement reference: ______
@@ -52,3 +52,4 @@ Attached customer-required material cert / inspection report / other records: __
 Authorized signature: ______  Printed name/title: ______  Date: ______
 
 Do not issue this draft, sign an incomplete certificate or certify unsupported material/product conformity. Retain the actual issued certificate and supporting job file. References: QP-007 release; QP-001 and applicable retention requirements; QP-008 concessions.
+

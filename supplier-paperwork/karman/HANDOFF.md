@@ -31,11 +31,12 @@ Survey working answers and courtesy references are remapped to the consolidated 
 
 ## Outstanding work
 
-Use STATUS.md as the task list. Consolidation approval is complete. QF-028 contains 22 actual owner-listed instruments/sets with thematic IDs. QF-030 is synchronized and QF-020 records owner-reported in-house calibration dated 2026-11-01. Annual calibration is assigned, next due 2027-11-01; pins are Class ZZ minus. Remaining priorities: confirm pending technical details and set contents, apply labels and verify job suitability/customer requirements. The provisional caliper identity is superseded for current planning. Confirm material certificates, profile and contract/DoD/CUI requirements. Do not invent a website, certification, score, instrument certificate, calibration or signature.
+Use STATUS.md as the task list. Consolidation approval is complete. QF-028 contains 22 actual owner-listed instruments/sets with thematic IDs. QF-030 is synchronized and QF-020 records in-house calibration dated 2026-11-01. Annual calibration is assigned, next due 2027-11-01; pins are Class ZZ minus. Remaining priorities: confirm pending technical details and set contents, apply labels and verify job suitability/customer requirements. The provisional caliper identity is superseded for current planning. Confirm material certificates, profile and contract/DoD/CUI requirements. Do not invent a website, certification, score, instrument certificate, calibration or signature.
 
 ## Repository conventions
 
 Keep `karman/basic-qms` separate; do not merge without owner direction. Present proposed wording in chat before further revisions. Update Markdown source and regenerate its Word counterpart; never regenerate over completed signed job records. Record actions in AGENT-LOG.md and status in STATUS.md.
+
 
 
 

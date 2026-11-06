@@ -116,3 +116,35 @@ Imported all 22 instruments/sets from the owner's uploaded inventory. Applied th
 
 Recorded TW-PIN-001 as Class ZZ minus. Assigned all 22 assets an owner-directed annual (12-month) interval from 2026-11-01, next due 2027-11-01. Updated register, schedule, calibration log and related working references. Individual pin sizes, increments, numerical tolerances and job suitability are not inferred from class alone; customer requirements take precedence.
 
+
+## 2026-11-05 — Codex (approved customer-facing equipment records)
+
+Owner explicitly approved the presentation changes and release of QF-020/QF-028/QF-030 revision B. Replaced Pending data placeholders with dashes, removed source/owner attribution and unconfirmed commentary from issued equipment records, and recorded Class ZZ minus pins with 0.001 in increments. Retained actual equipment specifications, identifiers, calibration dates and annual due dates; unrecorded values remain dashes. Updated release register, index and related working references. Other procedure drafts remain unreleased even where their placeholder approval fields use a dash. Regenerated Word copies. No measurement results, operator identity, certificates or signatures were invented.
+
+Source aliases retained for historical reconciliation:
+
+| Permanent asset ID | Uploaded source ID |
+| --- | --- |
+| TW-BOR-001 | TW-ME-018 |
+| TW-CAL-001 | TW-ME-009 |
+| TW-CAL-002 | TW-ME-021 |
+| TW-DEP-001 | TW-ME-010 |
+| TW-DEP-002 | TW-ME-011 |
+| TW-GB-001 | TW-ME-001 |
+| TW-IND-001 | TW-ME-003 |
+| TW-IND-002 | TW-ME-004 |
+| TW-IND-003 | TW-ME-005 |
+| TW-IND-004 | TW-ME-006 |
+| TW-MIC-001 | TW-ME-002 |
+| TW-MIC-002 | TW-ME-008 |
+| TW-MIC-003 | TW-ME-012 |
+| TW-MIC-004 | TW-ME-013 |
+| TW-MIC-005 | TW-ME-014 |
+| TW-MIC-006 | TW-ME-015 |
+| TW-MIC-007 | TW-ME-016 |
+| TW-MIC-008 | TW-ME-017 |
+| TW-MIC-009 | TW-ME-019 |
+| TW-MIC-010 | TW-ME-020 |
+| TW-PIN-001 | TW-ME-022 |
+| TW-STD-001 | TW-ME-007 |
+
