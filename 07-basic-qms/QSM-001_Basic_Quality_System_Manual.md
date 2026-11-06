@@ -6,7 +6,6 @@
 | Effective Date | «date of owner signature — do not backdate» |
 | Prepared By | Jacob Honick, Owner |
 | Approved By | Jacob Honick, Owner (signature in Section 17) |
-| Page | 1 of 1 |
 
 ---
 
@@ -158,7 +157,7 @@ Each job has a traveler (QF-004) listing the operations, drawing revision, mater
 3. **Final:** every drawing and purchase order characteristic is verified and recorded on QF-006 before release.
 4. **No sampling.** Torchworx LLC does not use sampling plans such as MIL-STD-1916 or ANSI Z1.4. **Every part is inspected (100%) for every drawing and purchase order acceptance characteristic** unless the customer approves a different plan in writing. This is practical for low-volume work.
 5. **Actual values** are recorded, not just "OK", for each dimensional characteristic, together with the instrument ID, date and inspector. A result is never rounded into tolerance. Results too close to a limit to decide reliably, given the measurement capability, are placed on hold for better measurement.
-6. Where a feature cannot be verified with available equipment, a qualified inspection service is used or the method is agreed with the customer **before** the order is accepted.
+6. Where a feature cannot be verified with available equipment, a qualified, customer-approved inspection service is used or the method is agreed with the customer **before** the order is accepted.
 7. An AS9102 First Article Inspection is performed only when the purchase order requires it.
 
 ### 10.3 Production Tooling

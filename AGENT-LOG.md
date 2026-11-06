@@ -57,3 +57,7 @@ Significant actions taken by AI agents on this project.
 
 Applied all requested QSM-001 wording revisions; removed design/special-process exclusions, retained explosives/flight exclusions, broadened materials scope, revised supplier/customer approval wording and made the manual customer-neutral. Moved Appendix A into a separate QA-1003 submission cross-reference. Updated submission instructions, status and handoff; regenerated corresponding DOCX files and checked content parity. Owner signature and effective date remain pending. Changes committed to the existing basic-QMS feature branch at the owner's request.
 
+
+## 2026-11-05 — Codex (review corrections)
+
+Fixed the six reported review items, with the owner's exception that the survey cross-reference is an unnumbered courtesy attachment rather than a controlled QMS document. Aligned customer-approved inspection sources; removed We/Our from the survey narrative; corrected the extracted Q8 reference; split explosives and DoD questions, including Q40 and the Q44 explanation field. Removed the static manual page label; converter now adds actual Word page fields for controlled documents, uses the stated revision, and omits empty controlled-document footers on unnumbered documents. Regenerated affected Word copies and verified contents and footer fields.

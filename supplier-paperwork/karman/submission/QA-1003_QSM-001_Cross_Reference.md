@@ -1,6 +1,6 @@
 # QA-1003 Supplier Self-Survey — QSM-001 Cross-Reference
 
-Submission attachment for Systima Technologies / Karman. Separate from the general working quality manual.
+Courtesy attachment for the Systima Technologies / Karman supplier self-survey. Separate from the general working quality manual; not a controlled QMS document and not assigned a document number or revision.
 
 Reference: QSM-001 Basic Quality System Manual, Revision A. Use with the signed, effective copy of the manual. This mapping identifies documented controls; it does not establish certification, completed activities or supplier approval.
 
@@ -13,7 +13,7 @@ Reference: QSM-001 Basic Quality System Manual, Revision A. Use with the signed,
 | 4–6c | Certifications and compliance | 1 |
 | 7a | Certificate of Conformance | 10.4 |
 | 7b | Material certifications | 7.2, 7.3, 10.4 |
-| 8 | Quality manual and policy | This manual; 3.1 |
+| 8 | Quality manual and policy | QSM-001; 3.1 |
 | 9 | Ethics and product safety | 3.2–3.4 |
 | 10 | Calibration | 9 |
 | 11 | Supplier selection and approval | 7.1 |
@@ -28,6 +28,8 @@ Reference: QSM-001 Basic Quality System Manual, Revision A. Use with the signed,
 | 20a–b | MRB / nonconforming product | 11 |
 | 21 | Inspection record access | 13 |
 | 22a–b | Corrective and preventive action | 12 |
-| 23–47 | Explosives / DoD explosives site questions | 2.2 (not applicable) |
+| 23–39 | Explosives suppliers only | 2.2 (no explosives operations) |
+| 40 | DCMA site survey; DoD contracts only | 6 (confirm contract applicability and actual site-survey history before answering) |
+| 41–47 | DoD explosives operations and site plans | 2.2, 6 (confirm applicability; explain no explosives operations rather than assume a blanket answer) |
 
 

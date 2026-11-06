@@ -93,3 +93,7 @@ Repo housekeeping / known gaps (not fixed, by design or pending owner):
 
 Applied the owner's review: metallic or non-metallic scope; retain only explosives and flight exclusions; require customer approval for suppliers receiving data and sources for work outside demonstrated competence; use customer-neutral wording and Torchworx LLC throughout QSM-001; revise policy, potential conflicts of interest, product conformity contributions and suitable-equipment wording. Extracted Appendix A to `supplier-paperwork/karman/submission/QA-1003_QSM-001_Cross_Reference.md` (+ DOCX), to attach with the survey. Signature and effective date remain pending. Scope changes do not establish unverified design or special-process capabilities; review actual work before acceptance.
 
+
+## Review corrections — 2026-11-05
+
+Inspection services now require customer approval; survey narrative uses Torchworx LLC; courtesy attachment Q8 explicitly points to QSM-001. Q40 requires separate DoD applicability and actual DCMA site-survey confirmation; Q41–47 need applicability review, with Q44 answered as an explanation. The cross-reference is a courtesy attachment only: no document number, revision or Master Document List entry is required. Manual pagination uses Word PAGE/NUMPAGES fields; unnumbered documents have no controlled footer. Owner adoption/signature and other factual confirmations remain pending.

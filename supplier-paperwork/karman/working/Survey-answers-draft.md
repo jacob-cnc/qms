@@ -72,12 +72,13 @@ Items marked ⚠ need the owner to confirm the fact before the answer is entered
 | Q | Answer |
 | --- | --- |
 | 23–39 (explosives suppliers only) | **NA** for all. Write once: "Not an explosives supplier; no explosive or energetic materials handled." |
-| 40–47 (DoD contracts only) | **NA** for all. Write once: "Questions concern explosives site plans; no explosive operations." |
+| 40 (DoD contracts only; DCMA site survey) | Confirm whether the order is a DoD contract and whether DCMA performed a site survey within the last year. Answer from actual history if applicable; use NA only when applicability is established. |
+| 41–47 (DoD explosives operations / site plans) | Confirm applicability with the customer. Explain that no explosive operations are performed. Do not automatically mark the whole section NA merely because work is non-flight or non-ITAR. Q44 is an explanation field, not a Yes/No/NA question. |
 | Additional information (page 5) | Suggested text below |
 
 Suggested additional-information text:
 
-> Torchworx LLC is a single-owner precision machine shop in Everett, WA. The owner has operated this workshop for more than 10 years; the LLC was formed in March 2025. We machine parts to customer drawings on a CTMACH CQ6133 CNC lathe, a 3040 three-axis CNC mill and a Grizzly G0704 manual mill, inspect every part to every drawing requirement, and record actual measured values. We are not certified. Our basic quality system (QSM-001, attached) covers contract review, purchasing and material traceability, calibration, 100% inspection, nonconforming product with customer disposition, corrective action and record retention. Certification to AS9100/ISO 9001 is a future goal. We understand this survey supports Tier 3 supplier approval for non-flight, non-ITAR development hardware.
+> Torchworx LLC is a single-owner precision machine shop in Everett, WA. The owner has operated this workshop for more than 10 years; the LLC was formed in March 2025. Torchworx LLC machines parts to customer drawings on a CTMACH CQ6133 CNC lathe, a 3040 three-axis CNC mill and a Grizzly G0704 manual mill, inspect every part to every drawing requirement, and record actual measured values. Torchworx LLC is not certified. The basic quality system (QSM-001, attached) covers contract review, purchasing and material traceability, calibration, 100% inspection, nonconforming product with customer disposition, corrective action and record retention. Certification to AS9100/ISO 9001 is a future goal. Torchworx LLC understands this survey supports Tier 3 supplier approval for non-flight, non-ITAR development hardware.
 
 ## Pages 6–7 — Additional Locations
 
@@ -86,7 +87,7 @@ Leave blank, or write "None — single site."
 ## Attach
 
 1. QSM-001 Rev A, signed. Export it as PDF.
-2. Separate QA-1003/QSM-001 cross-reference attachment (`supplier-paperwork/karman/submission/QA-1003_QSM-001_Cross_Reference`).
+2. Separate, unnumbered courtesy QA-1003/QSM-001 cross-reference attachment (`supplier-paperwork/karman/submission/QA-1003_QSM-001_Cross_Reference`).
 3. Nothing else unless Karman asks. Forms are available on request. Do **not** attach the internal Survey-assessment, Readiness-records or this sheet.
 
 ## Before Sending — Owner Checklist

@@ -55,3 +55,9 @@ None currently.
 - Whether to maintain DOCX in git or generate on-demand via CI
 
 
+
+## Review corrections — 2026-11-05
+
+- [x] Aligned inspection-service customer approval; removed first-person plural from survey narrative; corrected courtesy cross-reference wording and DoD applicability; replaced static manual page label with Word page fields.
+- [x] Courtesy attachment remains unnumbered, without a revision or Master Document List entry, per owner instruction.
+- [ ] Confirm actual DoD applicability and DCMA site-survey history before answering Q40; confirm Q41–47 individually.
