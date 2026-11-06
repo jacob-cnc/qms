@@ -50,5 +50,7 @@ QF-020/QF-028/QF-030 approved revision B uses dashes for information not recorde
 ## Production equipment — 2026-11-05
 
 - [x] QF-027 updated with actual machines: CNC-MILL-001 (3040 three-axis mill, Mach3), CNC-LATHE-001 (CTMACH CQ6133), MAN-MILL-001 (Grizzly G0704).
-- [ ] Review/release QF-027 revision B; add serial/year, maintenance plan, availability and other unrecorded fields when available. QF-028 remains the measuring-tool inventory.
+- [x] QF-027 revision B approved and effective 2026-11-05.
+- [ ] Add serial/year, maintenance plan, availability and other unrecorded machine details when available. QF-028 remains the measuring-tool inventory.
+
 

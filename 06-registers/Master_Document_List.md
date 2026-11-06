@@ -81,7 +81,7 @@ This register lists all controlled documents in the QMS package. Maintain this l
 | QF-024 | Customer Property Log | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-025 | Document Change Request | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-026 | FOD Checklist | A | [Date] | qms/03-forms/ | [Date +1yr] |
-| QF-027 | Equipment List | A | [Date] | qms/03-forms/ | [Date +1yr] |
+| QF-027 | Equipment List | B | 2026-11-05 | qms/03-forms/ | 2027-11-05 |
 | QF-028 | Measurement Equipment List | B | 2026-11-05 | qms/03-forms/ | 2027-11-05 |
 | QF-029 | Change Notification | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-030 | Calibration Schedule | B | 2026-11-05 | qms/03-forms/ | 2027-11-05 |
@@ -144,7 +144,6 @@ Prepared 2026-11-05; DCR-2026-11-05-CAL. Above revision-A entries are not replac
 | --- | --- | --- | --- |
 | QP-003 | B | 01-procedures/QP-003_Purchasing_and_Supplier_Management.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
 | QP-013 | B | 01-procedures/QP-013_Training_and_Competence.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
-| QF-027 | B | 03-forms/QF-027_Equipment_List.md | Draft; actual machine models and existing IDs; release not recorded |
 | QP-010 | B | 01-procedures/QP-010_Calibration.md | Draft; owner approval/date pending |
 | QP-006 | B | 01-procedures/QP-006_In_Process_Inspection.md | Draft; corrected calibration references |
 
@@ -176,4 +175,9 @@ The sole current manual source is `00-manual/QM-001_Quality_Manual.md`; its DOCX
 
 Jacob Honick, Owner, approved QF-020, QF-028 and QF-030 revision B and the customer-facing presentation changes by explicit project-conversation instruction. Effective 2026-11-05. Last calibration 2026-11-01; interval 12 months; next due 2027-11-01. TW-PIN-001 is Class ZZ minus in 0.001 in increments. Earlier templates are obsolete for current use. Other unreleased procedure revisions retain their status; dashes in their approval fields do not establish approval.
 
+
+
+## QF-027 revision B release — 2026-11-05
+
+Jacob Honick, Owner, approved QF-027 revision B by explicit project-conversation instruction. Effective 2026-11-05. The approved register lists the three actual production machines at the single Torchworx LLC facility. Unrecorded serial numbers, years, maintenance details and availability remain dashes. Prior revision A is obsolete for current use and retained in history. Approval does not establish an equipment inspection or maintenance event.
 

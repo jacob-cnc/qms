@@ -153,3 +153,8 @@ Source aliases retained for historical reconciliation:
 
 Replaced QF-027 example machine data with the three actual machines recorded in QM-001: 3040 three-axis CNC mill with Mach3, CTMACH CQ6133 CNC lathe and Grizzly G0704 manual mill. Preserved existing machine asset IDs and removed invented travel, RPM, accuracy, spare-parts, maintenance-frequency and operational-status claims; unrecorded values use dashes. Corrected the preventive-maintenance reference from QP-015 to QP-019. Updated register/index/status and regenerated Word copies. Revision B remains draft until owner release; no machine inspection or maintenance event is implied.
 
+
+## 2026-11-05 — Codex (QF-027 revision B approved)
+
+Recorded the owner's explicit approval of QF-027 revision B, effective 2026-11-05 (America/Los_Angeles). Updated document approval fields, revision history, master register, index and status; regenerated and checked Word copies. Preserved the single-facility locations, actual machine models and existing IDs. Unrecorded equipment fields remain dashes; no inspection, maintenance, signature or other document approval was created.
+

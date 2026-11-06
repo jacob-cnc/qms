@@ -2,10 +2,10 @@
 | --- | --- |
 | Document No. | QF-027 |
 | Title | Equipment List |
-| Revision | B — draft |
-| Effective Date | - |
+| Revision | B |
+| Effective Date | 2026-11-05 |
 | Prepared By | Shop Owner |
-| Approved By | - |
+| Approved By | Jacob Honick, Owner |
 
 ---
 
@@ -59,5 +59,6 @@ Job requirements and actual equipment capability govern suitability for the work
 | Rev | Date | Description | Approved By |
 | --- | --- | --- | --- |
 | A | 2026-08-07 | Initial example template | Shop Owner (historical) |
-| B — draft | 2026-11-05 | Replace example machines/specifications with actual 3040 Mach3 mill, CTMACH CQ6133 lathe and Grizzly G0704 manual mill; retain asset IDs and correct QP-019 reference | - |
+| B | 2026-11-05 | Record actual 3040 Mach3 mill, CTMACH CQ6133 lathe and Grizzly G0704 manual mill at the single shop facility; retain asset IDs and correct QP-019 reference | Jacob Honick, Owner |
+
 
