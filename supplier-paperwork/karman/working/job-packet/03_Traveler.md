@@ -1,6 +1,6 @@
 # Job traveler and first-piece checks — QF-004 / QF-005
 
-Draft job-specific record — revision Draft 0, prepared 2026-11-05. NOT RELEASED. Based on existing QMS forms; not completed evidence. Owner-reported requirements must be checked against the agreed customer order before release. Dimensions are inches. Blank fields and unchecked items remain open.
+Draft job-specific record — revision Draft 0, prepared 2026-11-05. NOT RELEASED. Based on existing QMS forms; not completed evidence. job requirements must be checked against the agreed customer order before release. Dimensions are inches. Blank fields and unchecked items remain open.
 
 Job ID: ______  Customer legal entity: ______ (Karman/Systima to confirm)
 Part/drawing ID and revision or dated customer requirement reference: ______
@@ -36,3 +36,4 @@ First-piece accepted by/date: ______  Production continuation authorized: ______
 
 If a check fails: stop affected operation, identify/segregate suspect work, preserve failed results and assess pieces since last good check. Link NCR/rework/customer authorization as applicable. Reinspect affected characteristics after rework. No repair/use-as-is without written customer authority.
 References: QP-005/006/007/008; WI-005/006.
+

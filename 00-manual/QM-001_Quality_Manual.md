@@ -2,15 +2,18 @@
 | --- | --- |
 | Document No. | QM-001 |
 | Title | Quality Manual |
-| Revision | A |
-| Effective Date | 2026-08-10 |
+| Revision | C |
+| Effective Date | 2026-11-05 |
 | Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Approved By | Jacob Honick, Owner |
 
 ---
 
 # QM-001 Quality Manual
+
+**Status and use of standards.** Torchworx LLC is not certified to AS9100, ISO 9001, ISO/IEC 17025, NADCAP or any other quality standard, and does not claim or imply compliance with those standards. References to standards and clause numbers provide guidance and best-practice context only; they are not evidence of certification, full implementation or assessed compliance. Actual customer, contractual and applicable legal requirements remain binding and are reviewed before work is accepted.
+
+This is the single quality manual for Torchworx LLC. It consolidates the basic operating controls and the previously separate development manual. This manual governs where supporting development procedures or templates differ; customer requirements take precedence. A document reference does not establish completed implementation, an activity or an engaged service provider. Certification is a future goal with no formal process or completion date established.
 
 ## 1. QMS Scope and Company Information
 
@@ -23,12 +26,16 @@
 | Phone | 614-670-3079 |
 | Owner / Operator | Jacob Honick |
 | Business Type | LLC - Precision CNC and Manual Machining |
-| Equipment | 1x CNC Mill, 1x CNC Lathe, 1x Manual Mill |
-| Certifications Sought | AS9100 Rev D / ISO 9001:2015 |
+| Equipment | CNC lathe: CTMACH CQ6133; CNC mill: 3040 three-axis CNC mill (Mach3 control); manual mill: Grizzly G0704 |
+| E-mail | torchworxjacob@gmail.com |
+| Owner / sole employee | Jacob Honick; performs management, production, inspection and quality functions |
+| Experience / formation | Workshop operated for more than 10 years; Torchworx LLC formed 2025-03-05 |
+| Ownership | US-owned single-member LLC; owner is a US citizen by birth |
+| Certification status | None held; no quality-standard compliance claimed. AS9100 / ISO 9001 are future goals only |
 
 ### 1.2 Scope of the Quality Management System
 
-This Quality Management System applies to the **precision CNC and manual machining of aerospace components to customer drawings**. The shop manufactures metallic parts using CNC milling, CNC turning, and manual milling processes per customer-supplied drawings, specifications, and purchase order requirements.
+This Quality Management System covers precision CNC and manual machining services for customers in a variety of industries. Torchworx LLC machines metallic or non-metallic parts using CNC milling, CNC turning and manual milling to customer-supplied drawings, specifications and purchase order requirements.
 
 **Products and Services Covered:**
 
@@ -37,29 +44,27 @@ This Quality Management System applies to the **precision CNC and manual machini
 - Manually milled components
 - Associated inspection, packaging, and shipping services
 
+**Scope Limits:**
+
+- **Explosives and energetic materials.** None are manufactured, stored, used or transported.
+- **Flight hardware.** The current scope is development and test hardware. Flight-critical or safety-critical product would need a separate contract review and may need added controls before it is accepted.
+
 **Locations Covered:**
 
 - Single facility at the address above - all operations performed on-site except where contracted services are noted
 
-**Applicable Standards:**
+**Guidance and Best-Practice References:**
 
-- AS9100 Rev D (EN/JISQ 9100:2016)
-- ISO 9001:2015
-- Customer-specific requirements as flowed down via purchase orders
+- AS9100 Rev D (EN/JISQ 9100:2016), for guidance only
+- ISO 9001:2015, for guidance only
 
-### 1.3 Non-Applicable Requirement: Clause 8.3 — Design and Development
-
-**Non-Applicable Requirement:** AS9100 Rev D / ISO 9001:2015 Clause 8.3 (Design and Development of Products and Services)
-
-**Justification:** This organization does not perform design or development activities. All products are manufactured to customer-provided drawings, models, and specifications. The shop has no responsibility for product design, design validation, or design changes. All design authority resides with the customer or their designated design organization.
-
-This determination of non-applicability does not affect the organization's ability or responsibility to provide products that meet customer and applicable statutory/regulatory requirements.
+These references do not assert certification or compliance. Specific standard provisions become job requirements only when applicable through the customer order, contract or law; such requirements are reviewed and met for that work.
 
 ## 2. Context of the Organization
 
 ### 2.1 Understanding the Organization and Its Context
 
-The organization operates as a single-member LLC providing precision machining services to aerospace and defense customers. The context analysis considering internal and external issues affecting the QMS is documented in QF-032 Context Analysis.
+The organization operates as a single-member LLC providing precision machining services to customers in a variety of industries. The context analysis considering internal and external issues affecting the QMS is documented in QF-032 Context Analysis.
 
 **Key Internal Factors:**
 
@@ -70,7 +75,6 @@ The organization operates as a single-member LLC providing precision machining s
 
 **Key External Factors:**
 
-- AS9100 certification required by aerospace customers
 - Customer flow-down requirements vary by contract
 - Regulatory requirements (FAA, ITAR as applicable)
 - Supply chain risks for raw materials and calibration services
@@ -80,11 +84,11 @@ The organization operates as a single-member LLC providing precision machining s
 
 | Interested Party | Needs and Expectations |
 | --- | --- |
-| Customers | Conforming product, on-time delivery, traceability, certifications (CoC, FAI), communication |
-| Regulatory Bodies | Compliance with applicable airworthiness and export control regulations |
+| Customers | Conforming product, on-time delivery, traceability, required product records (CoC, FAI when specified), communication |
+| Regulatory Bodies | Identification and fulfillment of legal/regulatory requirements applicable to accepted work; no blanket regulatory-compliance claim |
 | Suppliers | Clear requirements, timely payment, fair evaluation |
 | Calibration Service Providers | Equipment access schedules, clear specifications |
-| Certification Body (Registrar) | Maintained QMS, corrective actions closed, management review conducted |
+| Potential future certification body | Requirements to be assessed if a formal certification project is undertaken; no registrar engagement or certification audit is claimed |
 
 ### 2.3 Determining the Scope of the QMS
 
@@ -92,30 +96,46 @@ The scope boundaries are defined in Section 1.2 above. The scope was determined 
 
 ## 3. Quality Policy
 
-The full quality policy is maintained as a standalone controlled document: **QM-002 Quality Policy**.
+The quality policy is stated in §3.1 and maintained separately in **QM-002 Quality Policy**. This manual defines the operating controls.
 
 ### 3.1 Quality Policy Statement (Summary)
 
-The Shop Owner is committed to:
+Torchworx LLC delivers machined parts that meet every drawing and purchase order requirement, on time, with honest records. Requirements are reviewed before work is accepted. Parts are inspected, problems are communicated to the customer, and lessons learned are used to improve shop practices. Torchworx LLC supports the quality philosophy of its customers.
 
-1. **Customer Satisfaction** - Meeting or exceeding customer requirements and expectations for quality, delivery, and communication
-2. **Conformity to Requirements** - Delivering products that conform to drawings, specifications, and applicable standards
-3. **Product Safety** - Ensuring awareness of product safety contribution and maintaining ethical behavior
-4. **Continual Improvement** - Continuously improving QMS effectiveness and process capability
-5. **Statutory and Regulatory Compliance** - Meeting all applicable legal, regulatory, and certification requirements
+Torchworx LLC commits to reviewing requirements before accepting work, delivering parts that meet the agreed drawing and purchase order requirements, and communicating problems honestly. This policy is a statement of intent and operating expectations, not a claim of certification, full implementation or compliance with a quality-management standard.
+
+1. **Customer requirements** — Review quality, delivery and communication requirements before work is accepted.
+2. **Product conformity** — Inspect against agreed drawings, specifications and job requirements; obtain written customer authorization before any permitted deviation.
+3. **Ethics and product safety** — Keep honest records, report concerns and prevent unresolved suspect product from being shipped.
+4. **Improvement** — Use feedback, inspection results and reviews to improve shop practices.
+5. **Applicable obligations** — Identify and meet customer, contractual and legal requirements that apply to the work. Mention of a standard does not create or imply certification or full-standard compliance.
 
 ### 3.2 Communication and Availability
 
-The Quality Policy is:
-
-- Displayed in the shop (printed and posted)
-- Available as a controlled document (QM-002)
-- Communicated to all interested parties as appropriate
-- Reviewed for continuing suitability during Management Review (QP-012)
+On adoption, the applicable quality policy is made available to persons performing work and communicated as appropriate. Record actual approval, distribution and reviews; this manual does not establish that the policy has been posted or reviewed. QM-002 is the approved companion policy; this manual defines the operating controls.
 
 ### 3.3 Record Retention
 
-Quality records shall be retained for a minimum of 7 years unless customer contract, purchase order, or regulatory requirements specify a longer retention period. Record retention requirements are detailed in QP-001 Document Control. For defense contracts, retain records for the life of the contract plus 3 years or as specified by the contracting authority.
+Retain quality records for at least 10 years after shipment, or longer when QP-001, the applicable program, customer contract, purchase order or law requires it. Apply the longest applicable period. Section 6.10 governs records and access; do not destroy records while an applicable retention period remains open.
+
+### 3.4 Code of Conduct
+
+This section serves as the employee manual equivalent for ethics and product conformity. Anyone performing work for Torchworx LLC, now the owner and in future any employee or helper, shall:
+
+1. Record actual measurements and results honestly. Never falsify, back-date or pre-sign a record, certificate, inspection result or approval.
+2. Never ship a part known or suspected not to conform without the customer's written authorization.
+3. Disclose defects, mistakes and potential conflicts of interest promptly, including after shipment.
+4. Protect customer drawings, data and property and use them only for the customer's order.
+5. Stop work when conformity, identification or safety is uncertain, and resolve the question before continuing.
+6. Treat "development" or "prototype" status as no licence to deviate from the drawing or purchase order.
+
+### 3.5 Contribution to Product Safety and Conformity
+
+Contributions to product conformity and safety include: working to the correct drawing revision, keeping parts and material identified, using suitable instruments, recording results accurately, reporting errors, and keeping suspect product from being shipped.
+
+### 3.6 Acknowledgment
+
+The owner signs and dates an acknowledgment of Sections 3.4 and 3.5 on QF-016 Training Record when this manual is adopted and after each revision. Any future employee signs it before starting work.
 
 ## 4. Process Interaction and Document Cross-Reference
 
@@ -191,9 +211,9 @@ IMPROVEMENT PROCESSES (monitor and correct all processes):
 
 ### 4.2 Procedure Cross-Reference Table
 
-All quality procedures referenced by this QMS, organized by AS9100 clause:
+The following development procedures are cross-referenced to AS9100 clauses for guidance and navigation only. This table does not establish conformity, implementation or compliance with any clause:
 
-| Doc No. | Title | Primary AS9100 Clause |
+| Doc No. | Title | AS9100 Guidance Reference |
 | --- | --- | --- |
 | QP-001 | Document Control | 7.5 Documented Information |
 | QP-002 | Contract Review | 8.2 Requirements for Products and Services |
@@ -223,7 +243,7 @@ All quality procedures referenced by this QMS, organized by AS9100 clause:
 
 ### 4.3 Form Cross-Reference Table
 
-All quality forms/templates used within this QMS:
+The following blank forms/templates are available for development and use as applicable. A listed form is not evidence of a completed activity:
 
 | Doc No. | Title | Associated Procedure |
 | --- | --- | --- |
@@ -270,7 +290,11 @@ All quality forms/templates used within this QMS:
 
 ### 5.1 Organization Overview
 
-This is a single-member LLC. The Owner fulfills all management and operational roles. There is no delegation of authority to employees because there are no employees. Certain specialized activities are contracted to qualified external providers.
+This is a single-member LLC. The Owner fulfills all management and operational roles. There is no delegation of authority to employees because there are no employees. External services may be arranged where needed for the accepted work; no provider engagement is established by this manual.
+
+The owner is the sole employee and is responsible and accountable for every activity in this manual: contract review, purchasing, production, inspection, product release, nonconformance disposition, calibration, document control and corrective action. Because one person makes and inspects the product, Section 6.7 adds deliberate safeguards: written inspection plans, recorded actual values, and a review of the completed job packet before release.
+
+The owner's competence comes from more than 10 years of operating this workshop. New skills, methods or equipment are recorded on QF-016 when used for customer work. Work outside demonstrated competence is not accepted unless the competence is gained or the work is bought from a qualified, customer-approved source.
 
 ### 5.2 Roles Fulfilled by Shop Owner
 
@@ -278,31 +302,33 @@ This is a single-member LLC. The Owner fulfills all management and operational r
 | --- | --- |
 | Top Management | Establish quality policy and objectives, ensure QMS integration with business processes, ensure resources are available, promote improvement and risk-based thinking |
 | Quality Manager | Maintain the QMS, ensure process conformance, report QMS performance, ensure customer focus throughout the organization |
-| Management Representative | Interface with external parties (registrar, customers) on QMS matters, ensure QMS requirements are met |
+| Management Representative | Interface with customers and any actually engaged external parties on quality matters |
 | Production Operator | Set up and operate CNC Mill, CNC Lathe, and Manual Mill per work instructions and job travelers |
 | Inspector | Perform receiving, in-process, and final inspection per procedures; make accept/reject decisions |
-| Internal Auditor | Plan and conduct internal audits (NOTE: contracted to external auditor per 5.3 to maintain objectivity) |
+| Internal Auditor | Coordinate reviews and any independent audits actually required or arranged under 5.3; an owner self-check is not represented as an independent AS9100 audit |
 | Purchasing / Buyer | Select and evaluate suppliers, issue purchase orders with quality requirements, manage ASL |
 | Document Controller | Control document creation, revision, distribution, and obsolescence |
 | Calibration Coordinator | Schedule calibration, maintain calibration records, manage OOT conditions |
 | Shipping / Receiving | Receive incoming material, verify against PO; package and ship finished product |
 
-### 5.3 Contracted Services
+### 5.3 External Services and Reviews
 
-The following activities are contracted to qualified external providers to supplement the Shop Owner's capabilities or to satisfy objectivity requirements:
+External services are selected for the actual job or business need. This section describes possible arrangements, not existing contracts, completed audits, accreditation or compliance with a quality standard.
 
-| Service | Provider Type | Reason for Contracting |
+| Activity | Approach | Customer and capability considerations |
 | --- | --- | --- |
-| Calibration | Accredited calibration laboratory (ISO/IEC 17025) | Required accreditation; specialized equipment and standards |
-| Internal Audit | Qualified AS9100 auditor (contracted annually) | AS9100 Clause 9.2 requires auditor objectivity - cannot self-audit |
-| Special Processes | NADCAP-accredited processors (heat treat, plating, NDT) | Specialized processes not performed in-house; customer/spec requirements |
-| IT / Backup | IT service provider | System maintenance, data backup verification |
+| Calibration / verification | In-house checks using known-good standards where permitted, or an appropriate external service under QP-010 | Meet customer-required methods, traceability, certification and accreditation; no accredited calibration is claimed without evidence |
+| Quality reviews / audits | Owner reviews under §6.11; an independent reviewer or auditor may be engaged when required or specifically arranged | Owner self-checks are not independent audits. No annual auditor contract, AS9100 audit or completed assessment is claimed |
+| Special processes | Review capability and any external source before accepting the work | Obtain customer approval where required; use NADCAP-accredited or otherwise qualified sources when the actual contract/specification requires them. No process approval or accreditation is implied |
+| IT / backup | Owner-managed storage and backup, with external support if actually arranged | Follow documented practices and customer data requirements; retain evidence of actual backup/retrieval checks. No IT service contract is asserted |
+
+AS9100, ISO 9001 and other standard references are guidance and best-practice resources. If a customer imposes specific requirements, review and satisfy those requirements for the affected work; this does not establish organization-wide standard compliance or certification.
 
 ### 5.4 Authority and Communication
 
 **Authority Structure:**
 
-- The Shop Owner has full authority for all QMS decisions including:- Product release and nonconformance disposition
+- The Shop Owner manages shop quality decisions within contractual and legal limits, including product release and nonconformance control. Repair, use-as-is or deviations require prior written customer authorization; no customer MRB authority is implied.
 - Supplier approval and removal
 - Corrective action approval and effectiveness verification
 - Process changes and document revisions
@@ -318,11 +344,11 @@ The following activities are contracted to qualified external providers to suppl
 
 - Customer communication per QP-023
 - Supplier communication per QP-003
-- Registrar communication through Management Representative role
+- Communication with a registrar only if a certification project is actually initiated
 
 ### 5.5 Responsibility Matrix
 
-| QMS Process | Shop Owner | Contracted Calibration Lab | Contracted Auditor | Special Process Suppliers |
+| QMS Process | Shop Owner | External Calibration Provider, if used | Independent Auditor, if engaged | Special Process Suppliers, if used |
 | --- | --- | --- | --- | --- |
 | Document Control (QP-001) | R, A | - | - | - |
 | Contract Review (QP-002) | R, A | - | - | - |
@@ -333,8 +359,8 @@ The following activities are contracted to qualified external providers to suppl
 | Final Inspection (QP-007) | R, A | - | - | - |
 | Nonconforming Product (QP-008) | R, A | I | - | I |
 | Corrective Action (QP-009) | R, A | I | - | I |
-| Calibration (QP-010) | A | R | - | - |
-| Internal Audit (QP-011) | A | - | R | - |
+| Calibration (QP-010) | R, A | R when used | - | - |
+| Reviews / audits (QP-011 development reference; §6.11 current controls) | Coordinate; R, A for owner self-checks | - | R if engaged for an independent audit | - |
 | Management Review (QP-012) | R, A | - | - | - |
 | Training (QP-013) | R, A | - | - | - |
 | Risk Management (QP-014) | R, A | - | - | - |
@@ -350,9 +376,143 @@ The following activities are contracted to qualified external providers to suppl
 | Work Transfer (QP-024) | R, A | - | - | - |
 | Control of Changes (QP-025) | R, A | - | - | - |
 
-**Legend:** R = Responsible (does the work), A = Accountable (approves/owns), I = Informed
+**Legend:** R = Responsible (does the work), A = Accountable (approves/owns), I = Informed. External assignments apply only when a provider is actually engaged; this matrix is not evidence of a contract or standard compliance.
 
-## 6. References
+## 6. Operating Controls
+
+### 6.1 Customer Data and Export-Controlled Information
+
+Torchworx LLC is **not registered with the DDTC under ITAR** and **does not accept ITAR-controlled work or technical data.** The sole operator is a US person. If a document marked ITAR, EAR-controlled, CUI or Distribution-limited is received, work stops, the data is not shared further, and the customer is contacted for direction.
+
+Torchworx LLC has **not performed a NIST SP 800-171 self-assessment**, has no POAM and no SPRS score, and therefore **does not accept orders that flow down DFARS 252.204-7012 with CUI** until it has done so. Ordinary customer drawings and data are stored only on the owner's password-protected devices and accounts. They are not shared with anyone except the customer, or a supplier approved by the customer who needs them for the order.
+
+### 6.2 Document Control
+
+1. Each controlled document carries an identifier, title, revision letter, effective date and approval.
+2. Changes are made by revising the document, recording what changed in its revision history, and having the owner approve and date it. QF-025 Document Change Request is used for significant changes.
+3. The current revision of each document is listed in the Master Document List. Superseded copies are removed from use, or marked "OBSOLETE" when kept for reference.
+4. **Customer drawings and specifications** are logged by part number and revision when received. They are checked against the purchase order (Section 6.3) and kept in the job folder as the only working copy. When the customer issues a revision change, the old copy is marked obsolete and withdrawn, and the effect on work in process is reviewed.
+5. CNC programs are identified by part number and revision and linked to the job traveler.
+
+### 6.3 Contract Review — Customer Orders and Changes
+
+Before accepting any RFQ, purchase order or change, the owner completes QF-001 Contract Review Checklist and confirms:
+
+- part number, drawing and specification revisions match the purchase order;
+- material, condition and certification requirements;
+- all dimensions and notes can be produced **and measured** with suitable equipment;
+- quantity and delivery are achievable;
+- quality clauses and flowdowns, including CoC, material certs, FAI, traceability, record retention, packaging, source inspection, right of access, export control, DFARS and CUI clauses;
+- any outside processing needed.
+
+Conflicts or unclear requirements are resolved with the customer in writing **before** acceptance. Purchase order changes are reviewed the same way and recorded on QF-001 or QF-029. Acceptance is recorded by signed and dated acknowledgment of the purchase order.
+
+### 6.4 Purchasing and Supplier Control
+
+#### 6.4.1 Supplier Selection and Approval
+
+Suppliers of material, tooling that affects conformity, calibration services and outside processing are evaluated and listed on QF-019 Approved Supplier List, with the scope each supplier is approved for. The basis for approval is recorded on QF-017: certification such as ISO 9001, AS9100, ISO/IEC 17025 or NADCAP where relevant, ability to supply the required certifications, past performance, or customer direction. Customer-directed sources are used where specified.
+
+Raw material is bought from the mill or an established distributor able to supply material certifications. Torchworx LLC does not buy material from unknown brokers.
+
+#### 6.4.2 Purchase Orders to Suppliers
+
+Purchase orders, issued on QF-002 or as a documented online order, state the item, material specification and condition, quantity, required certifications (CoC, mill or material test report), traceability, and any flowed-down customer requirements. The owner reviews each order for completeness before it is placed.
+
+#### 6.4.3 Receiving
+
+Incoming material is checked against the order and its certifications on QF-003 Receiving Inspection Record. Material without the required certification is held until the certification is received. Mixed, unidentified or suspect material is not used.
+
+#### 6.4.4 Counterfeit Prevention
+
+Material and parts are bought only from the manufacturer, the mill or authorized distributors. Suspect items are segregated and reported to the customer.
+
+### 6.5 Material Identification, Traceability, Storage and Preservation
+
+1. Each lot or heat of raw material receives an internal lot ID on receipt. The lot ID is linked to the supplier's lot or heat number and certification on QF-003.
+2. Raw material, cut blanks, work in process and finished parts stay identified at all times by job number and material lot, using tags, labeled containers, bags or trays. When parts must be traceable individually, each piece or tray position is linked to its inspection record. Parts are not marked unless the drawing or the customer permits it.
+3. The job traveler (QF-004) records the material lot, quantities started, scrapped and shipped, so that every shipped part traces back to its material certification.
+4. Areas are separated for incoming/raw material, work in process, finished parts awaiting shipment, and a clearly marked **HOLD** area for nonconforming or suspect items.
+5. Material and parts are protected from damage, corrosion, contamination and mix-up. Burrs and chips are removed, parts are cleaned, and they are packaged to prevent contact damage in transit. Customer packaging requirements are followed.
+6. Customer-supplied material and property are identified, checked on receipt, protected, and recorded on QF-024. Loss or damage is reported to the customer.
+
+### 6.6 Measuring Equipment and Calibration
+
+1. Only instruments with a current calibration and a recorded fitness for the tolerance being checked are used to accept product. Each acceptance instrument has an ID, is listed on QF-028 Measurement Equipment List, and has a due date on QF-030.
+2. Calibration or verification may be performed in-house by the owner using known-good standards where customer requirements permit, or by an appropriate external service. The approach is selected for the equipment and intended work under QP-010. No dedicated caliper form or fixed in-house reference values are prescribed. Record the activity and result on QF-020 or a linked equipment/job record.
+
+   Customer requirements govern certification, traceability, accreditation, methods, intervals and reporting. Use the required external service or other specified approach when necessary; obtain written customer approval for alternatives. No certified, accredited or traceable calibration is claimed without supporting evidence.
+
+3. Instruments are labeled with ID, calibration date and due date, and with their scope where limited. An instrument not yet released is labeled "NOT FOR ACCEPTANCE".
+4. Equipment condition and suitability are checked before use, with any additional checks required for the job. A failed check, damage or an overdue date takes the instrument out of use immediately. Product measured with it since the last good check is reassessed on QF-033, and the customer is told if shipped product may be affected.
+5. Calibration events are recorded on QF-020 Calibration Log, and certificates are filed by instrument ID.
+6. Steel rules and similar tools used only for layout are marked "Reference Only" and never used to accept product.
+
+### 6.7 Production and Inspection
+
+#### 6.7.1 Planning
+
+Each job has a traveler (QF-004) listing the operations, drawing revision, material lot, program revision, tooling, and inspection hold points. Inspection characteristics, methods and instruments are planned before production starts.
+
+#### 6.7.2 First-Piece, In-Process and Final Inspection
+
+1. **First piece:** the first part of each setup, and after any setup, program or tool change that can affect a feature, is fully inspected to the drawing and recorded on QF-005 before production continues.
+2. **In-process:** the planned characteristics are checked at the hold points on the traveler.
+3. **Final:** every drawing and purchase order characteristic is verified and recorded on QF-006 before release.
+4. **No sampling.** Torchworx LLC does not use sampling plans such as MIL-STD-1916 or ANSI Z1.4. **Every part is inspected (100%) for every drawing and purchase order acceptance characteristic** unless the customer approves a different plan in writing. This is practical for low-volume work.
+5. **Actual values** are recorded, not just "OK", for each dimensional characteristic, together with the instrument ID, date and inspector. A result is never rounded into tolerance. Results too close to a limit to decide reliably, given the measurement capability, are placed on hold for better measurement.
+6. Where a feature cannot be verified with available equipment, a qualified, customer-approved inspection service is used or the method is agreed with the customer **before** the order is accepted.
+7. An AS9102 First Article Inspection is performed only when the purchase order requires it.
+
+#### 6.7.3 Production Tooling
+
+1. Job-specific or customer-owned fixtures, gauges, soft jaws and special tools that affect conformity get an ID and an entry in the Tooling Register. The entry records description, owner, part number and revision, storage location, condition, any maintenance or check requirement, last check, and return or disposition.
+2. Tooling is checked for identity, condition and suitability before use. The check is noted on the traveler.
+3. Stored tooling is cleaned, protected from corrosion and damage, and labeled. Tooling records are kept for the period in Section 6.10.
+4. Damaged or suspect tooling is tagged and set aside, and work made with it is assessed. Customer-owned tooling is not modified, repaired or scrapped without the customer's direction.
+5. General-purpose cutters and holders are controlled through the setup and tool list in the job packet rather than individually.
+
+#### 6.7.4 Release and Certificate of Conformance
+
+Before shipment the owner reviews the completed job packet: traveler, inspection records, material certifications, and any resolved nonconformances and customer authorizations. Release is signed on QF-006. A **Certificate of Conformance** (QF-010), signed by the owner as the authorized representative, states that the parts conform to the purchase order and drawing requirements and references the material certification. Copies of material certifications are supplied when required. A CoC is never signed for unverified or unresolved product.
+
+### 6.8 Nonconforming Product (MRB)
+
+1. A failed or suspect part is identified immediately with a red **REJECTED** hang tag bearing the QC person’s initials, inspection date and part number (WI-008), moved to the HOLD area, and recorded on QF-011 Nonconforming Material Report.
+2. The owner acts as the Material Review authority and may decide only the following:
+   - **rework** to meet the original drawing, followed by full reinspection; or
+   - **scrap**.
+3. **Use-as-is, repair, or any deviation from the drawing requires the customer's prior written approval.** Torchworx LLC holds no customer MRB authority. The approval is kept in the job file and referenced on the CoC.
+4. If nonconforming product may already have been shipped, the customer is notified in writing within one business day of discovery.
+5. Nonconforming parts that are scrapped are made unusable so they cannot re-enter production.
+
+### 6.9 Corrective and Preventive Action
+
+1. **Corrective action** (QF-012) is opened for customer complaints, escapes, repeat nonconformances and any issue judged significant. It records containment, root cause (for example 5-Why), the correction, a check of other affected work, and verification that the action worked. Customer-requested corrective action responses are provided within the customer's requested time.
+2. **Preventive action:** risks to conformity and delivery are reviewed during contract review and before first production of a new part. Examples are tight tolerances, measurement limits, material availability and single-operator capacity. Actions are recorded on QF-023 Risk Register with owner and due date.
+3. Corrective actions are entered in the NCR/CAR Log and reviewed in Section 6.11.
+
+### 6.10 Records, Retention and Access
+
+1. Quality records include the contract review, purchase orders, material certifications, travelers, inspection records, NCRs and customer authorizations, CoCs, calibration records, tooling records, and training acknowledgments. They are filed by job number and customer, or by instrument or tool ID.
+2. Records are kept legible and complete, are corrected only by a dated, initialed change that leaves the original readable, and are protected from loss. Electronic records are stored on the administrative computer at the Torchworx LLC facility and backed up to an external hard drive weekly, and also whenever documents or records are added or changed. A test retrieval from the backup drive is made at least once a year.
+3. **Retention:** at least **10 years** after shipment, or longer if QP-001, the applicable program, contract, purchase order or law requires it. Calibration records are kept for the life of the instrument plus 3 years, or longer if another applicable period requires it. Apply the longest period; records are not destroyed while any applicable retention period still runs.
+4. **Access:** inspection and quality records are available for review by the customer's Quality Assurance personnel, the customer's customers, and government agencies, as the contract requires. Information about other customers is protected.
+
+### 6.11 Monitoring, Review and Improvement
+
+1. At least every quarter in which customer work is performed, the owner reviews on-time delivery, rejects and returns, NCRs and corrective actions, customer feedback, calibration status and supplier performance. The review and the actions decided are recorded on QF-015 (brief minutes are enough).
+2. Once a year the owner checks the shop's actual practice against this manual and records the gaps and actions on QF-038. This self-check is not independent, and it is not represented as an AS9100 internal audit.
+3. Customers are notified before any change that could affect their product: change of location, of a key process or process supplier, or of ownership.
+
+### 6.12 Flowdown to Suppliers
+
+Applicable customer requirements are flowed down on purchase orders to suppliers whose work affects the customer's product. These include specifications, certifications, traceability, right of access and record retention. Outside processing is not used without the customer's agreement when the purchase order restricts it.
+
+## 7. References
+
+Quality-standard references below are guidance and best-practice resources only. They do not claim certification or compliance; customer-imposed requirements are reviewed for the applicable job.
+
 
 - QM-002 Quality Policy
 - QM-003 Quality Objectives
@@ -361,10 +521,18 @@ The following activities are contracted to qualified external providers to suppl
 - AS9100 Rev D (EN/JISQ 9100:2016)
 - ISO 9001:2015
 
-## 7. Revision History
+## 8. Revision History
 
 | Rev | Date | Description | Approved By |
 | --- | --- | --- | --- |
 | - | 2025-07-14 | Initial draft | Shop Owner |
 | A | 2026-08-10 | Revised: updated Clause 8.3 non-applicability terminology, added record retention statement, corrected procedure cross-reference table (QP-017 clause mapping), removed duplicate sections, incorporated full procedure and form cross-reference tables | Shop Owner |
+
+
+Revision B, approved and effective 2026-11-05: broaden industry/material scope; remove §1.3; make guidance-only status explicit; revise policy, external-service and responsibility wording; align calibration and retention with current basic controls. Approved by Jacob Honick, Owner, by explicit instruction in the project conversation. Earlier revision-history entries describe superseded wording.
+
+
+
+Revision C, approved and effective 2026-11-05: consolidate the separate quality manuals and superseded scope addendum into this single manual; retain session revisions and remap supporting references. Approved by Jacob Honick, Owner, by explicit instruction in the project conversation; no handwritten signature is implied. Revision B remains in history.
+
 

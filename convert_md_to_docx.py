@@ -19,7 +19,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.enum.section import WD_ORIENT
 from docx.oxml.ns import qn, nsdecls
-from docx.oxml import parse_xml
+from docx.oxml import parse_xml, OxmlElement
 
 
 # --- Style Constants ---
@@ -217,11 +217,11 @@ def convert_md_to_docx(md_path, docx_path=None):
             i += 1
             continue
         
-        if line.startswith('### '):
+        if line.startswith('### ') or line.startswith('#### '):
             p = doc.add_paragraph()
             p.space_before = Pt(8)
             p.space_after = Pt(3)
-            run = p.add_run(line[4:].strip())
+            run = p.add_run(line.split(' ', 1)[1].strip())
             run.font.name = FONT_BODY
             run.font.size = FONT_SIZE_H3
             run.font.color.rgb = RGBColor.from_string(COLOR_ACCENT)
@@ -346,26 +346,44 @@ def _add_footer(doc, lines):
     # Extract doc number from first table
     doc_no = ""
     title = ""
+    revision = ""
     for line in lines:
-        if '| Document No.' in line:
+        # Use only the first match: later tables may have their own "Title" column.
+        if '| Document No.' in line and not doc_no:
             parts = line.split('|')
             if len(parts) >= 3:
                 doc_no = parts[2].strip()
-        if '| Title' in line:
+        if '| Title' in line and not title:
             parts = line.split('|')
             if len(parts) >= 3:
                 title = parts[2].strip()
     
+    # Unnumbered courtesy attachments and internal notes have no controlled footer.
+    if not doc_no:
+        return
+    for line in lines:
+        if line.startswith('| Revision |'):
+            revision = line.split('|')[2].strip()
+            break
+
     for section in doc.sections:
         footer = section.footer
         footer.is_linked_to_previous = False
         p = footer.paragraphs[0]
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         
-        run = p.add_run(f"{doc_no} — {title} — Rev A")
+        label = " — ".join(value for value in (doc_no, title, f"Rev {revision}" if revision else "") if value)
+        run = p.add_run(label)
         run.font.size = FONT_SIZE_SMALL
         run.font.name = FONT_BODY
         run.font.color.rgb = RGBColor.from_string('808080')
+        p.add_run(" — Page ")
+        for index, field_name in enumerate(("PAGE", "NUMPAGES")):
+            if index:
+                p.add_run(" of ")
+            field = OxmlElement('w:fldSimple')
+            field.set(qn('w:instr'), field_name)
+            p._p.append(field)
 
 
 def convert_all(qms_root):
@@ -401,3 +419,5 @@ if __name__ == '__main__':
         md_input = sys.argv[1]
         docx_output = sys.argv[2] if len(sys.argv) > 2 else None
         convert_md_to_docx(md_input, docx_output)
+
+

@@ -6,7 +6,7 @@ This register lists all controlled documents in the QMS package. Maintain this l
 
 **Revision Control:** Update the "Last Updated" date below whenever any entry changes.
 
-**Last Updated:** [Date]
+**Last Updated:** 2026-11-05
 
 ---
 
@@ -15,8 +15,8 @@ This register lists all controlled documents in the QMS package. Maintain this l
 | Doc No. | Title | Rev | Effective Date | Location | Next Review |
 |---------|-------|-----|----------------|----------|-------------|
 | **00-manual/** | | | | | |
-| QM-001 | Quality Manual | A | [Date] | qms/00-manual/ | [Date +1yr] |
-| QM-002 | Quality Policy | A | [Date] | qms/00-manual/ | [Date +1yr] |
+| QM-001 | Quality Manual | C | 2026-11-05 | qms/00-manual/ | 2027-11-05 |
+| QM-002 | Quality Policy | B | 2026-11-05 | qms/00-manual/ | 2027-11-05 |
 | QM-003 | Quality Objectives | A | [Date] | qms/00-manual/ | [Date +1yr] |
 | **01-procedures/** | | | | | |
 | QP-001 | Document Control | A | [Date] | qms/01-procedures/ | [Date +1yr] |
@@ -52,7 +52,7 @@ This register lists all controlled documents in the QMS package. Maintain this l
 | WI-005 | First Piece Inspection | A | [Date] | qms/02-work-instructions/ | [Date +1yr] |
 | WI-006 | Final Part Inspection | A | [Date] | qms/02-work-instructions/ | [Date +1yr] |
 | WI-007 | Incoming Material Verification | A | [Date] | qms/02-work-instructions/ | [Date +1yr] |
-| WI-008 | Part Marking | A | [Date] | qms/02-work-instructions/ | [Date +1yr] |
+| WI-008 | Part Marking | B | 2026-11-05 | qms/02-work-instructions/ | 2027-11-05 |
 | WI-009 | Packaging and Shipping | A | [Date] | qms/02-work-instructions/ | [Date +1yr] |
 | **03-forms/** | | | | | |
 | QF-001 | Contract Review Checklist | A | [Date] | qms/03-forms/ | [Date +1yr] |
@@ -74,17 +74,17 @@ This register lists all controlled documents in the QMS package. Maintain this l
 | QF-017 | Supplier Evaluation | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-018 | Supplier Scorecard | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-019 | Approved Supplier List | A | [Date] | qms/03-forms/ | [Date +1yr] |
-| QF-020 | Calibration Log | A | [Date] | qms/03-forms/ | [Date +1yr] |
+| QF-020 | Calibration Log | B | 2026-11-05 | qms/03-forms/ | 2027-11-05 |
 | QF-021 | Preventive Maintenance Record | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-022 | Customer Complaint | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-023 | Risk Register | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-024 | Customer Property Log | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-025 | Document Change Request | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-026 | FOD Checklist | A | [Date] | qms/03-forms/ | [Date +1yr] |
-| QF-027 | Equipment List | A | [Date] | qms/03-forms/ | [Date +1yr] |
-| QF-028 | Measurement Equipment List | A | [Date] | qms/03-forms/ | [Date +1yr] |
+| QF-027 | Equipment List | B | 2026-11-05 | qms/03-forms/ | 2027-11-05 |
+| QF-028 | Measurement Equipment List | B | 2026-11-05 | qms/03-forms/ | 2027-11-05 |
 | QF-029 | Change Notification | A | [Date] | qms/03-forms/ | [Date +1yr] |
-| QF-030 | Calibration Schedule | A | [Date] | qms/03-forms/ | [Date +1yr] |
+| QF-030 | Calibration Schedule | B | 2026-11-05 | qms/03-forms/ | 2027-11-05 |
 | QF-031 | Suspect Counterfeit Report | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-032 | Context Analysis | A | [Date] | qms/03-forms/ | [Date +1yr] |
 | QF-033 | OOT Impact Assessment | A | [Date] | qms/03-forms/ | [Date +1yr] |
@@ -136,15 +136,48 @@ This register lists all controlled documents in the QMS package. Maintain this l
 
 *Reference: QP-001 Document Control*
 
-## Pending revisions — not effective or released
+## Unreleased revisions — not effective
 
 Prepared 2026-11-05; DCR-2026-11-05-CAL. Above revision-A entries are not replaced by these drafts until actual owner release and register update. Existing historic approval/implementation status remains subject to verification.
 
 | ID | Proposed revision | Location | Status |
 | --- | --- | --- | --- |
+| QP-003 | B | 01-procedures/QP-003_Purchasing_and_Supplier_Management.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
+| QP-013 | B | 01-procedures/QP-013_Training_and_Competence.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
 | QP-010 | B | 01-procedures/QP-010_Calibration.md | Draft; owner approval/date pending |
 | QP-006 | B | 01-procedures/QP-006_In_Process_Inspection.md | Draft; corrected calibration references |
-| QF-020 | B | 03-forms/QF-020_Calibration_Log.md | Draft; corrected calibration references |
-| QF-039 | A | 03-forms/QF-039_Limited_Scope_Caliper_Calibration.md | New draft; not effective; excluded from released-document counts above |
 
 The corresponding files at these paths are drafts. Do not issue them as effective revisions; retrieve the preceding baseline from version history if needed and verify its approval status independently.
+
+
+## Release record — WI-008 revision B
+
+Approved by Jacob Honick, Owner, by explicit instruction in the project conversation on 2026-11-05. Effective 2026-11-05. Revision B replaces revision A for current use; retain the previous revision in version history as obsolete. Matching Markdown and Word copies issued on the basic-QMS working branch. No handwritten signature is implied.
+
+
+
+
+## Release record — QM-001 / QM-002 revision B
+
+Jacob Honick, Owner, explicitly approved the revised manual and policy in the project conversation on 2026-11-05. Both revisions are effective 2026-11-05; prior revision A copies are obsolete for current use and remain in history. Matching Markdown and Word copies are issued on the working branch. This records approval without creating a handwritten signature. Approval does not change their development-framework status or establish certification, quality-standard compliance or completed implementation.
+
+
+
+## Manual consolidation
+
+The sole current manual source is `00-manual/QM-001_Quality_Manual.md`; its DOCX is generated from that source. Revision C consolidates the separately maintained basic manual and scope addendum, whose files are removed from this branch. Earlier versions remain in Git history. Revision C is approved and effective 2026-11-05 by explicit owner instruction; revision B is obsolete for current use and retained in history. No competing active manual is maintained.
+
+
+
+
+
+## Equipment records release — 2026-11-05
+
+Jacob Honick, Owner, approved QF-020, QF-028 and QF-030 revision B and the customer-facing presentation changes by explicit project-conversation instruction. Effective 2026-11-05. Last calibration 2026-11-01; interval 12 months; next due 2027-11-01. TW-PIN-001 is Class ZZ minus in 0.001 in increments. Earlier templates are obsolete for current use. Other unreleased procedure revisions retain their status; dashes in their approval fields do not establish approval.
+
+
+
+## QF-027 revision B release — 2026-11-05
+
+Jacob Honick, Owner, approved QF-027 revision B by explicit project-conversation instruction. Effective 2026-11-05. The approved register lists the three actual production machines at the single Torchworx LLC facility. Unrecorded serial numbers, years, maintenance details and availability remain dashes. Prior revision A is obsolete for current use and retained in history. Approval does not establish an equipment inspection or maintenance event.
+

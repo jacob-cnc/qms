@@ -2,11 +2,10 @@
 |-------|-------|
 | Document No. | QP-003 |
 | Title | Purchasing and Supplier Management |
-| Revision | A |
-| Effective Date | 2026-08-07 |
+| Revision | B — draft, pending owner release |
+| Effective Date | - |
 | Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Approved By | - |
 
 ---
 
@@ -26,7 +25,7 @@ Applies to all external providers of material, special processes, calibration se
 |------|---------------|
 | Shop Owner | Evaluate and approve suppliers. Issue purchase orders with complete requirements. Monitor supplier performance. Initiate corrective actions for supplier nonconformances. |
 | Special Process Suppliers | Maintain NADCAP or customer-required certifications. Provide objective evidence of process conformance. |
-| Calibration Lab | Maintain ISO/IEC 17025 accreditation. Provide calibration certificates with traceability. |
+| Calibration Lab | Meet the applicable customer and QP-010 requirements. Provide accreditation, traceability and certificates where required. |
 
 ## 4. References
 
@@ -53,7 +52,7 @@ Applies to all external providers of material, special processes, calibration se
 2. Evaluate based on provider type:
    - **Material suppliers:** Valid certifications (ISO 9001 minimum), ability to provide certified test reports, traceability capability.
    - **Special process suppliers:** Verify NADCAP accreditation or customer approval for the specific process scope.
-   - **Calibration labs:** Verify ISO/IEC 17025 accreditation for the required measurement parameters.
+   - **Calibration services:** Verify capability and any customer-required ISO/IEC 17025 accreditation for the required measurement parameters, per QP-010.
    - **Subcontract machining:** Verify QMS certification, applicable equipment capability, and prior aerospace experience.
 3. Classify the supplier risk: Critical (sole source, flight-safety impact) or Standard.
 4. If evaluation is satisfactory, add the supplier to QF-019 Approved Supplier List with: name, scope of approval, approval date, method, certifications, risk classification, and next review date.
@@ -114,3 +113,6 @@ Applies to all external providers of material, special processes, calibration se
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+Revision B draft, prepared 2026-11-05: align calibration sourcing and requirements with QP-010 and customer requirements. Owner release/effective date pending.
+
+

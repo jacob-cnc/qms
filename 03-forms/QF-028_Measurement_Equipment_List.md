@@ -1,55 +1,116 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-028 |
 | Title | Measurement Equipment List |
-| Revision | A |
-| Effective Date | 2026-08-07 |
+| Revision | B |
+| Effective Date | 2026-11-05 |
 | Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Approved By | Jacob Honick, Owner |
 
 ---
 
-# Measurement Equipment List
+# QF-028 Measurement Equipment List
 
-**Last Updated:** _____ (YYYY-MM-DD) **Reviewed By:** _____________________
+**Updated:** 2026-11-05
+**Inventory:** 22 instruments and sets
+**Calibration:** In-house; last calibrated 2026-11-01; interval 12 months; next due 2027-11-01.
 
----
+A dash (-) indicates information not recorded. Customer-specific requirements take precedence.
 
-## Calibrated Instrument Register
+## Identifier convention
 
-| Asset ID | Description | Manufacturer | Model | Serial No. | Range | Resolution | Cal Interval | Cal Provider | Location | Status | Next Due |
-|----------|------------|-------------|-------|-----------|-------|-----------|-------------|-------------|----------|--------|----------|
-| ME-001 | 0-1" Outside Micrometer | Mitutoyo | 293-340 | [Serial] | 0-1" | 0.0001" | 12 months | External | Inspection bench | In-Cal | [Date] |
-| ME-002 | 1-2" Outside Micrometer | Mitutoyo | 293-341 | [Serial] | 1-2" | 0.0001" | 12 months | External | Inspection bench | In-Cal | [Date] |
-| ME-003 | 2-3" Outside Micrometer | Mitutoyo | 293-342 | [Serial] | 2-3" | 0.0001" | 12 months | External | Inspection bench | In-Cal | [Date] |
-| ME-004 | 0-6" Digital Caliper | Mitutoyo | 500-196 | [Serial] | 0-6" | 0.0005" | 12 months | External | Tool crib | In-Cal | [Date] |
-| ME-005 | 0-6" Digital Caliper | Mitutoyo | 500-196 | [Serial] | 0-6" | 0.0005" | 12 months | External | CNC-LATHE-001 | In-Cal | [Date] |
-| ME-006 | 12" Height Gauge | Mitutoyo | 192-150 | [Serial] | 0-12" | 0.001" | 12 months | External | Inspection bench | In-Cal | [Date] |
-| ME-007 | 1" Dial Indicator | Starrett | 25-131J | [Serial] | 0-1" | 0.001" | 12 months | External | Tool crib | In-Cal | [Date] |
-| ME-008 | 0.2" Dial Test Indicator | Starrett | 711-T1 | [Serial] | 0-0.2" | 0.0005" | 12 months | External | CNC-MILL-001 | In-Cal | [Date] |
-| ME-009 | Bore Gauge Set | Mitutoyo | 526-Series | [Serial] | 0.7-6" | 0.0001" | 12 months | External | Inspection bench | In-Cal | [Date] |
-| ME-010 | Thread Plug Gauge Set | Various | Various | [Serial] | Assorted | Go/No-Go | 24 months | External | Tool crib | In-Cal | [Date] |
-| ME-011 | Thread Ring Gauge Set | Various | Various | [Serial] | Assorted | Go/No-Go | 24 months | External | Tool crib | In-Cal | [Date] |
-| ME-012 | Gauge Block Set (81-pc) | Mitutoyo | 516-Series | [Serial] | 0.05-4" | Grade 2 | 24 months | External | Inspection bench | In-Cal | [Date] |
-| ME-013 | Surface Plate (18x24) | Standridge | Granite | [Serial] | 18x24" | Grade B | 24 months | External | Inspection area | In-Cal | [Date] |
-| ME-014 | Digital Depth Micrometer | Mitutoyo | 329-350 | [Serial] | 0-6" | 0.0001" | 12 months | External | Inspection bench | In-Cal | [Date] |
-| ME-015 | Pin Gauge Set (0.011-0.500) | Meyer | M-2 | [Serial] | .011-.500" | Class ZZ | 24 months | External | Tool crib | In-Cal | [Date] |
-| ME-016 | 6" Combination Square | Starrett | 11H-6 | [Serial] | 6" | 1/64" | Reference only | N/A | Tool crib | N/A | N/A |
-| ME-017 | Surface Roughness Tester | Mitutoyo | SJ-210 | [Serial] | 0.05-40 Ra | 0.01 Ra | 12 months | External | Inspection bench | In-Cal | [Date] |
+Each instrument or listed set has a permanent ID: `TW-[TYPE]-[NNN]`. Serial numbers remain separate. Keep IDs unique, do not reuse retired IDs or renumber existing assets when adding equipment.
 
----
+| Type | Equipment group | Assigned IDs | Entries |
+| --- | --- | --- | --- |
+| MIC | Micrometers (outside, inside and specialty) | TW-MIC-001–010 | 10 |
+| CAL | Calipers | TW-CAL-001–002 | 2 |
+| IND | Indicators | TW-IND-001–004 | 4 |
+| DEP | Depth instruments | TW-DEP-001–002 | 2 |
+| BOR | Telescoping bore/transfer gage set | TW-BOR-001 | 1 |
+| GB | Gage block set | TW-GB-001 | 1 |
+| STD | Setting standard | TW-STD-001 | 1 |
+| PIN | Gage pin set | TW-PIN-001 | 1 |
 
-## Status Definitions
+Identify tools with a durable non-damaging label, or identify the dedicated case where direct labeling is impractical. For sets, retain the parent ID and add stable member suffixes as individual pieces are inventoried or recorded, for example `TW-PIN-001-P001`; link that member to its actual size/marking. Maintain set-member identification where individual pieces are recorded.
 
-| Status | Meaning |
-|--------|---------|
-| In-Cal | Currently within calibration interval |
-| Overdue | Past calibration due date - DO NOT USE until recalibrated |
-| Out-of-Service | Damaged or retired - segregated from use |
+The identifier convention links equipment to calibration records and status. Standard references provide guidance only; no certification or quality-standard compliance is claimed.
 
----
+## Actual equipment inventory
 
-**Instructions:** Maintain as a current register of all measurement and test equipment. Update status immediately when calibration is performed or when instruments are acquired/retired. Overdue instruments must be quarantined until recalibrated. Refer to QP-010 Calibration Control for OOT handling and QF-030 for the calibration schedule.
+| Asset ID | Manufacturer | Instrument | Model / catalog / identifier | Range | Resolution / graduation | Serial / identifying marking |
+| --- | --- | --- | --- | --- | --- | --- |
+| TW-BOR-001 | Mitutoyo | Telescoping bore gage set | 155-905 | 8–150 mm | N/A (transfer gages) | - |
+| TW-CAL-001 | Mitutoyo | Digital caliper | 500-752-20 / CD-P6″S | 0–6 in | - | B20111449 |
+| TW-CAL-002 | Mitutoyo | Digital caliper | 500-753-20 / CD-P8″S | 0–200 mm | - | B22309263 |
+| TW-DEP-001 | Mitutoyo | Depth micrometer | - | - | 0.001 in (face marking) | 106988 |
+| TW-DEP-002 | Enco | Dial depth gage | 615-6130 | 0–10 in (dial) | 0.001 in | - |
+| TW-GB-001 | JIT | Steel gage block set, Federal Grade B | - | 0.100–4.000 in | N/A | 11997 |
+| TW-IND-001 | Starrett | Indicator | 708A | - | 0.0001 in | - |
+| TW-IND-002 | Mitutoyo | Indicator | 2424-1 | - | - | - |
+| TW-IND-003 | Starrett | Indicator | 25-441 | - | 0.001 in | - |
+| TW-IND-004 | Interapid | Indicator | 74.111372 | - | 0.0001 in | - |
+| TW-MIC-001 | MG | Outside micrometer | - | 5–6 in | - | - |
+| TW-MIC-002 | Mitutoyo | Digital outside micrometer | 293-185-30 | 0–1 in | 0.00005 in | 74158718 |
+| TW-MIC-003 | Brown & Sharpe | Thread micrometer | 210-1 | 0–1 in | - | - |
+| TW-MIC-004 | Starrett | Anvil micrometer | 220 | - | - | - |
+| TW-MIC-005 | Brown & Sharpe | Thread micrometer | - | 1–2 in | - | - |
+| TW-MIC-006 | Mitutoyo | Inside micrometer | 145-193 | - | - | - |
+| TW-MIC-007 | Starrett | Outside micrometer | 436 | 1–2 in | - | - |
+| TW-MIC-008 | Mitutoyo | Blade micrometer | 122-125-10 | 1–2 in | - | 71303721 |
+| TW-MIC-009 | JIT | Outside micrometer | - | 2–3 in | - | - |
+| TW-MIC-010 | Starrett | Outside micrometer | 226 | 3–4 in | - | - |
+| TW-PIN-001 | Meyer Gage | Gage pin set | M-1 | 0.061–0.250 in | 0.001 in increments; Class ZZ minus | - |
+| TW-STD-001 | Brown & Sharpe | Micrometer setting standard | - | 1 in nominal | N/A | - |
 
-**References:** QP-010 Calibration Control, QF-030 Calibration Schedule
+## Calibration status and scheduling
+
+All listed instruments and sets are calibrated in-house on a 12-month interval. Maintain calibration records under QP-010 and QF-020. Apply additional customer requirements where specified.
+
+| Asset ID | Provider | Last calibration | Recorded status | Recall interval | Next due |
+| --- | --- | --- | --- | --- | --- |
+| TW-BOR-001 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-CAL-001 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-CAL-002 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-DEP-001 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-DEP-002 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-GB-001 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-IND-001 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-IND-002 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-IND-003 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-IND-004 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-MIC-001 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-MIC-002 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-MIC-003 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-MIC-004 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-MIC-005 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-MIC-006 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-MIC-007 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-MIC-008 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-MIC-009 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-MIC-010 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-PIN-001 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+| TW-STD-001 | In-house | 2026-11-01 | In-house calibrated | 12 months | 2027-11-01 |
+
+## Equipment notes
+
+- TW-GB-001: reference temperature marked 20 °C.
+- TW-PIN-001: Meyer Gage M-1, 0.061–0.250 in, Class ZZ minus, 0.001 in increments.
+
+## Maintenance and use
+
+QF-028 is the inventory source for QF-030. Keep both synchronized by permanent asset ID. QF-020 records calibration events. Record actual check results in QF-020 or linked equipment/job records as available. The calibration interval is 12 months for all entries: last calibration 2026-11-01, next due 2027-11-01. Review intervals under QP-010 for use, condition, history and customer requirements; a shorter applicable customer interval takes precedence.
+
+Maintain equipment identification, specifications and set-member records as information is recorded. Select equipment suitable for each actual drawing tolerance. Customer-required certified/traceable/accredited calibration and methods take precedence. Withdraw damaged, unreliable or overdue instruments and assess affected product under QF-033.
+
+**References:** QP-010; QF-020; QF-030; QF-033.
+
+## Revision history
+
+| Rev | Date | Description | Approved By |
+| --- | --- | --- | --- |
+| A | 2026-08-07 | Initial example template | Shop Owner (historical) |
+| B | 2026-11-05 | Actual equipment inventory, grouped IDs, in-house calibration, annual recall and Class ZZ minus pins in 0.001 in increments; approved release | Jacob Honick, Owner |
+
+
+

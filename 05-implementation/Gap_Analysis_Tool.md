@@ -18,7 +18,7 @@ Use this tool to assess your current state of compliance against AS9100 Rev D re
 |------------|--------------------|--------------------|--------|-------|
 | 4.1 | Determine external/internal issues affecting QMS | QF-032 Context Analysis completed | | |
 | 4.2 | Identify interested parties and their requirements | QF-032 Section on interested parties | | |
-| 4.3 | Define QMS scope including justification for exclusions | QM-001 Section 1 (Design exclusion 8.3 justified) | | |
+| 4.3 | Review scope and actual limitations (guidance reference) | QM-001 §1.2; no design-exclusion statement is asserted | | |
 | 4.4 | Establish processes, sequence, interactions | QM-001 Process Map, process descriptions | | |
 
 ## Clause 5: Leadership

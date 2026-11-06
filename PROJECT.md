@@ -1,13 +1,13 @@
-# AS9100 Rev D Quality Management System
+# Torchworx LLC Quality Management System
 
 **Started:** 2025-07-14  
 **Owner:** Jacob Honick (Torchworx LLC)  
-**Repo:** (local — GitHub remote pending)  
+**Repo:** https://github.com/jacob-cnc/qms  
 **Status:** Active Development
 
 ## Purpose
 
-Complete AS9100 Rev D / ISO 9001:2015 Quality Management System documentation package for Torchworx LLC — a sole-proprietor aerospace CNC machine shop in Everett, WA — supporting certification by an accredited registrar.
+Maintain a practical quality system for Torchworx LLC, a single-member LLC providing precision machining to customers in a variety of industries. QM-001 is the sole quality manual; standards provide guidance and best practice, without any certification or quality-standard compliance claim. Certification remains a separate future goal.
 
 ## Scope
 
@@ -58,10 +58,9 @@ Each document exists as `.md` (source of truth) and `.docx` (generated output fo
 ## Key Constraints
 
 - All documents must satisfy AS9100 Rev D clauses 4–10
-- Clause 8.3 (Design & Development) declared non-applicable
 - Single-person shop: all role assignments to Shop Owner
-- Internal audit requires contracted external auditor (independence)
-- Minimum 7-year record retention for quality records
+- Owner self-checks are not independent AS9100 audits; arrange independent reviews when actual requirements call for them
+- Apply QM-001 retention rules and the longest applicable contractual/legal period
 - DOCX outputs must stay synchronized with markdown source
 
 ## Milestones
@@ -102,3 +101,9 @@ Per the Kiro PM handoff:
 - Kiro PM Handoff: `~/.kiro/steering/qms-pm-handoff-quick.md`
 - QMS Constitution: `~/.kiro/steering/qms-constitution.md`
 - Project Management Templates: `github.com/jacob-cnc/project-management`
+
+## Single-manual convention
+
+Maintain only `00-manual/QM-001_Quality_Manual.md` as the quality-manual source and its generated DOCX. Supporting policy/objectives, procedures and the courtesy survey cross-reference are not alternate manuals. Do not recreate copies in basic-QMS or customer folders. Prior manual/addendum versions remain in Git history. Consolidated revision C is approved and effective 2026-11-05; other approved documents retain their recorded status.
+
+

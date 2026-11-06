@@ -2,11 +2,10 @@
 |-------|-------|
 | Document No. | QP-013 |
 | Title | Training and Competence |
-| Revision | A |
-| Effective Date | 2026-08-07 |
+| Revision | B — draft, pending owner release |
+| Effective Date | - |
 | Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Approved By | - |
 
 ---
 
@@ -96,7 +95,7 @@ Applies to the Shop Owner (performing all production and quality roles) and any 
 ### 6.5 New Personnel (Contracted Workers)
 
 10. Before any contracted worker performs work affecting product quality, verify and record their qualifications.
-11. Contracted calibration labs must provide ISO/IEC 17025 accreditation evidence.
+11. Verify calibration-provider competence and obtain ISO/IEC 17025 accreditation evidence where required by the customer or applicable requirements under QP-010.
 12. Contracted auditors must provide auditor qualification evidence per QP-011.
 
 ### 6.6 Organizational Knowledge Management
@@ -133,3 +132,6 @@ Applies to the Shop Owner (performing all production and quality roles) and any 
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+Revision B draft, prepared 2026-11-05: align calibration sourcing and requirements with QP-010 and customer requirements. Owner release/effective date pending.
+
+

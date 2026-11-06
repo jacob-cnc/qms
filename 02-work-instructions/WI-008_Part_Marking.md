@@ -1,12 +1,11 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | WI-008 |
 | Title | Part Marking |
-| Revision | A |
-| Effective Date | 2026-08-06 |
+| Revision | B |
+| Effective Date | 2026-11-05 |
 | Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Approved By | Jacob Honick, Owner |
 
 ---
 
@@ -14,110 +13,81 @@
 
 ## 1. Purpose
 
-Define the step-by-step process for permanently marking parts with identification information to maintain traceability from raw material through final delivery and end-use.
+Define the hang-tag method used by Torchworx LLC to identify parts and show inspection status without permanently marking the part.
 
 ## 2. Scope
 
-Applies to all production parts unless the customer drawing explicitly prohibits marking or specifies "no marking." Marking is performed:
-- After final machining and before final inspection (WI-006)
-- On the surface and in the location specified by the customer drawing
-- If no marking location is specified on the drawing, mark on a non-functional surface that will not be visible in the final assembly (consult customer if uncertain)
+Applies to parts identified and inspected by Torchworx LLC. The standard method is a hang tag attached to the individual part. A tag supplements the job traveler and inspection records; it does not replace material-lot, drawing-revision, serial-number or other traceability required for the job.
 
-## 3. Required Tools and Equipment
+Additional customer requirements that differ from this part-marking strategy shall be reviewed, approved and put into use for the relevant jobs before the affected work or delivery. Record the requirements and approval in the job packet. Customer drawing, purchase order and specification requirements take precedence; obtain the customer's written authorization before using an alternative to a customer requirement.
 
-- Vibro-etch pen (electric engraver) — primary marking method
-- Ink stamp set and permanent ink pad — for non-critical cosmetic marking
-- Letter/number punches (if drawing specifies stamped marks)
-- Marking templates or stencils (for consistent character size and alignment)
-- Customer drawing (current revision — to determine marking requirements)
-- Job Traveler (QF-004) — to obtain part number, serial number, and job info
-- Magnifying glass or loupe (for verifying legibility on small parts)
-- Masking tape (to protect adjacent surfaces if needed)
-- Cleaning supplies (solvent wipe to prepare marking surface)
+## 3. Required Materials and Records
 
-## 4. Safety Precautions
+- Green hang tags labeled **INSPECTED**
+- Red hang tags labeled **REJECTED**
+- Suitable ties or other non-damaging tag attachments
+- Pen or other durable writing method
+- Current customer drawing, purchase order and applicable specifications
+- QF-004 Job Traveler and applicable inspection records
 
-- Wear safety glasses when using vibro-etch pen or punches (metal fragments may fly).
-- Secure small parts in a vise or fixture before marking — do not hold in hand while using vibro-etch or punches.
-- Vibro-etch pen tip gets hot during extended use — allow cool-down between parts if doing large batches.
-- Stamp punches require hammer blows — strike squarely to avoid punch slipping and causing injury or part damage.
-- Ensure marking does not create a stress concentration that could cause part failure in service (avoid marking on thin sections, fillet radii, or high-stress areas unless drawing requires it).
+## 4. Tag Content and Attachment
+
+Every green INSPECTED or red REJECTED tag shall show:
+
+- Part number
+- QC person's initials
+- Date of inspection
+
+Write all entries legibly. Use the actual inspection date and the initials of the person who performed the inspection. The owner may act as the QC person.
+
+Attach the tag securely to the part so it remains associated with that part during handling and storage. Use a location and attachment that do not scratch, distort, contaminate or interfere with the part. Do not attach loose tags near moving machinery; remove or secure attachments before machining and preserve part identity through the traveler and identified storage.
+
+Where a customer requires additional identification, include the required information and method in the job instructions. Maintain job, lot and individual-piece linkage in the traveler and inspection record as applicable; the part number alone does not establish that traceability.
 
 ## 5. Procedure
 
-### Determine Marking Requirements
-
-1. Review the customer drawing for marking requirements. Identify:
-   - What information is required (part number, revision, serial number, heat/lot number, date code, vendor mark)
-   - Where the marking is located (drawing will typically show marking location with a note or detail)
-   - What method is required (etched, stamped, ink, laser — if specified)
-   - Character size requirements (if specified, e.g., "0.125" characters minimum")
-2. If the drawing states "NO MARKING" or "DO NOT MARK," skip marking. Record on Job Traveler that marking was not required per drawing.
-3. If the drawing is silent on marking method but requires marking content, use vibro-etch as the default method.
-
-### Surface Preparation
-
-4. Clean the marking surface with solvent wipe to remove oil, coolant, or debris. The surface must be clean and dry for legible marking.
-5. If marking near a finished surface, apply masking tape to protect adjacent areas from accidental marks.
-6. If the marking area has a coating or plating, verify with the drawing whether marking goes on top of the coating or was performed before coating.
-
-### Marking Execution
-
-7. Position the part securely. Use a vise with soft jaws or a fixture to prevent movement.
-8. Mark the required information per drawing requirements:
-   - **Part Number:** Always include unless drawing states otherwise.
-   - **Revision Letter:** Include if drawing requires or if shop standard for traceability.
-   - **Serial Number:** Include if drawing requires. Obtain sequential serial number from the serial number log.
-   - **Heat/Lot Number:** Include if customer requires material traceability on the part.
-   - **Date Code:** Include if required (format per customer specification, e.g., MMYY or YYWW).
-   - **Vendor Identification:** Include shop identifier if customer requires (e.g., cage code).
-9. Marking method guidelines:
-   - **Vibro-etch:** Medium pressure, consistent speed. Characters minimum 0.060" high unless drawing specifies otherwise. Depth sufficient to be permanent but shallow enough not to affect part function (typically 0.001"-0.003" deep).
-   - **Ink stamp:** Apply even pressure. Verify ink is permanent (will not rub off with solvent or handling). Use only when drawing permits ink marking.
-   - **Punches:** Use appropriate character size set. Strike once firmly and squarely. Verify depth is sufficient for permanence without distorting the part.
-
-### Verification
-
-10. Inspect the marking for legibility. Every character must be clearly readable:
-    - Use magnifying glass for characters smaller than 0.100".
-    - Verify all required information is present and correct (compare to drawing and Job Traveler).
-    - Verify no characters are transposed, missing, or illegible.
-11. Verify marking did not damage the part:
-    - No distortion (especially on thin parts from punch force)
-    - No cracking around the marked area
-    - Marking within the designated zone (not encroaching on functional surfaces)
-12. Record on the Job Traveler (QF-004) that part marking is complete. Note the serial number (if applicable) for each part.
+1. Review the current drawing, purchase order and job traveler for identification and marking requirements. Resolve any conflict with the customer before proceeding.
+2. Maintain part identity and inspection status during processing. An uninspected part shall not receive a green INSPECTED tag.
+3. Perform the applicable inspection and record the results in the inspection record.
+4. For a part that passes the applicable inspection, complete and attach a green tag labeled **INSPECTED**, with the QC person's initials, inspection date and part number. Where further operations or inspection remain, show the completed stage and outstanding steps in the traveler; a green tag does not authorize shipment.
+5. For a part that fails inspection, complete and attach a red tag labeled **REJECTED**, with the QC person's initials, inspection date and part number. Remove any conflicting green tag, segregate the part in the HOLD area and record the nonconformance per QP-008/QF-011.
+6. Hold any part with uncertain identity or conformity pending review. Do not use a green tag to imply acceptance of an unresolved condition.
+7. Verify that the tag is legible, complete, correctly attached and consistent with the part and inspection record. Record tag status and any customer-specific marking completion on QF-004.
+8. Before shipment, confirm final inspection and release are complete, required customer marking is present, and tag information agrees with the job packet. A green INSPECTED tag does not replace the signed release or Certificate of Conformance.
 
 ## 6. Acceptance Criteria
 
-- All required marking information present per drawing
-- All characters legible and correctly formed
-- Marking in the correct location per drawing
-- Marking depth/method per drawing specification
-- No part damage (distortion, cracks, or function impairment) caused by marking
-- Character size meets minimum requirement (drawing spec or 0.060" shop default)
+- Correct tag color and wording: green **INSPECTED** for passed inspection or red **REJECTED** for failed inspection.
+- QC person's initials, actual inspection date and correct part number are present and legible.
+- Tag is securely attached to the correct part without damage.
+- Tag status agrees with the traveler and inspection results; required traceability remains intact.
+- Additional customer marking requirements have been approved, implemented and verified for the job.
+- No engraving, stamping, etching or other permanent marking is applied as a shop default. Use permanent marking only under the documented customer requirements and approved job instructions.
 
-## 7. Nonconformance Response
+## 7. Incorrect Tags, Rework and Status Changes
 
-If marking is incorrect or causes part damage:
-
-1. Assess the severity:
-   - **Minor (e.g., wrong revision, missing date code):** If space permits, add the correct marking adjacent to the incorrect mark. Cross out the incorrect mark with a single line (do not obliterate).
-   - **Incorrect on a surface that cannot have additional marks:** Initiate QF-011 per QP-008. Evaluate whether the part can be used with a deviation or must be scrapped.
-   - **Marking caused damage (crack, distortion):** Reject the part. Initiate QF-011 per QP-008. Evaluate marking method and force used — adjust process for remaining parts.
-2. If multiple parts are affected, quarantine the batch until correction or disposition is determined.
-3. Record the issue on the Job Traveler (QF-004).
+1. Hold the affected part if a tag is missing, illegible, incorrect or inconsistent with the inspection record. Verify identity and inspection status before replacing the tag; do not invent missing information.
+2. Record corrections or tag replacement in the job record so the original inspection result remains traceable. Remove obsolete or conflicting tags from use.
+3. A red REJECTED tag remains the status until authorized disposition and any required rework and reinspection are complete. Rejection is not itself a scrap decision.
+4. Following successful reinspection, replace the red tag with a green INSPECTED tag bearing the QC person's initials, actual reinspection date and part number. Keep the original nonconformance and disposition records.
+5. Repair, use-as-is or deviation from customer requirements requires prior written customer authorization. Preserve that authorization and identify the disposition in the job packet before release.
 
 ## 8. References
 
 - QP-005 — Production Planning and Control
+- QP-007 — Final Inspection and Release
 - QP-008 — Nonconforming Product Control
-- QF-004 — Job Traveler / Route Sheet
-- QF-011 — Nonconforming Material Report
+- QF-004 — Job Traveler
+- QF-005 — In-Process Inspection Record
+- QF-006 — Final Inspection Report
+- QF-011 — Nonconformance Report
 - WI-006 — Final Part Inspection
 
 ## 9. Revision History
 
 | Rev | Date | Description | Approved By |
-|-----|------|-------------|-------------|
+| --- | --- | --- | --- |
 | A | 2026-08-06 | Initial release | Shop Owner |
+| B | 2026-11-05 | Replace default permanent marking with attached green INSPECTED/red REJECTED hang tags, mandatory tag fields and customer-specific provisions; reconcile inspection and release status. Approved by owner instruction on 2026-11-05 | Jacob Honick, Owner |
+
+

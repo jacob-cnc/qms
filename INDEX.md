@@ -1,6 +1,8 @@
 # QMS Document Index
 
-**Torchworx LLC** — AS9100 Rev D Quality Management System **Total controlled documents:** 87 **Standard:** AS9100 Rev D (2016) / ISO 9001:2015
+**Torchworx LLC** — Quality System Document Index. Standards are guidance and best-practice references; no certification or quality-standard compliance is claimed.
+
+**Single manual:** [QM-001 Quality Manual](00-manual/QM-001_Quality_Manual.md), with a generated Word copy. Consolidated revision C is approved and effective 2026-11-05; there is no separately maintained basic manual or scope addendum.
 
 ---
 
@@ -24,7 +26,7 @@
 | --- | --- | --- |
 | 4.1 | Context of the Organization | QM-001 §2, QF-032 |
 | 4.2 | Interested Parties | QM-001 §2.2 |
-| 4.3 | Scope (incl. non-applicability) | QM-001 §1.2–1.3 |
+| 4.3 | Scope (guidance reference) | QM-001 §1.2 |
 | 4.4 | QMS Processes | QM-001 §4 (Process Map) |
 | 5.1 | Leadership Commitment | QM-001 §5 |
 | 5.2 | Quality Policy | QM-002 |
@@ -148,17 +150,17 @@
 | QF-017 | Supplier Evaluation Questionnaire | A | 📅 Annually |
 | QF-018 | Supplier Scorecard | A | 📅 Annually |
 | QF-019 | Approved Supplier List | A | 🔧 One-time |
-| QF-020 | Calibration Log | A | 📅 Per calibration |
+| QF-020 | Calibration Log | B | 📅 Per calibration |
 | QF-021 | Preventive Maintenance Record | A | 📅 Monthly |
 | QF-022 | Customer Complaint Form | A | ⚡ Triggered |
 | QF-023 | Risk Register | A | 📅 Quarterly |
 | QF-024 | Customer Property Log | A | ⚡ Triggered |
 | QF-025 | Document Change Request | A | ⚡ Triggered |
 | QF-026 | FOD Prevention Checklist | A | 📅 Daily |
-| QF-027 | Equipment List | A | 🔧 One-time |
-| QF-028 | Measurement Equipment List | A | 🔧 One-time |
+| QF-027 | Equipment List | B | 🔧 One-time |
+| QF-028 | Measurement Equipment List | B | 🔧 One-time |
 | QF-029 | Change Notification Form | A | ⚡ Triggered |
-| QF-030 | Calibration Schedule | A | 🔧 One-time |
+| QF-030 | Calibration Schedule | B | 🔧 One-time |
 | QF-031 | Suspect Counterfeit Material Report | A | ⚡ Triggered |
 | QF-032 | Context of the Organization Analysis | A | 🔧 One-time |
 | QF-033 | Out-of-Tolerance Impact Assessment | A | ⚡ Triggered |
@@ -220,4 +222,10 @@
 | AGENT-LOG.md | AI agent action log |
 | completion-reports/review-issues.md | Review findings tracker |
 | completion-reports/document-categories.md | Document input-type guide |
+
+
+
+
+
+
 
