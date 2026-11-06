@@ -160,7 +160,8 @@ def engine_version(program: str, minimum: int) -> str:
 
 
 def convert_one(job: Export, pandoc: str, browser: str, orientation: str,
-                timeout: int, overwrite: bool, no_sandbox: bool) -> None:
+                timeout: int, overwrite: bool, no_sandbox: bool,
+                engine: str = 'chromium') -> None:
     text = job.source.read_text(encoding='utf-8-sig')
     job.destination.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory(prefix='.qms-pdf-', dir=job.destination.parent) as folder:
@@ -188,7 +189,19 @@ def convert_one(job: Export, pandoc: str, browser: str, orientation: str,
         if no_sandbox:
             command.append('--no-sandbox')
         command.append(page.as_uri())
-        subprocess.run(command, check=True, capture_output=True, timeout=timeout)
+        if engine == 'weasyprint':
+            from weasyprint import HTML
+            from weasyprint.urls import URLFetcher
+            default_url_fetcher = URLFetcher()
+
+            def local_resources(url, *args, **kwargs):
+                if not url.startswith(('file:', 'data:')):
+                    raise ValueError('Remote resources are disabled: ' + url)
+                return default_url_fetcher(url, *args, **kwargs)
+
+            HTML(filename=str(page), url_fetcher=local_resources).write_pdf(str(staged))
+        else:
+            subprocess.run(command, check=True, capture_output=True, timeout=timeout)
         if not staged.is_file():
             raise ValueError('Browser completed without creating a PDF.')
         with staged.open('rb') as stream:
@@ -216,6 +229,8 @@ def parser() -> argparse.ArgumentParser:
     p.add_argument('--check', action='store_true', help='Check engine availability/versions only; write no files')
     p.add_argument('--pandoc', help='Pandoc executable name or path')
     p.add_argument('--browser', help='Chromium/Chrome executable name or path')
+    p.add_argument('--engine', choices=('chromium', 'weasyprint'), default='chromium',
+                   help='PDF renderer; WeasyPrint is an optional Python dependency')
     p.add_argument('--timeout', type=int, default=120, help='Seconds per engine invocation (default: 120)')
     p.add_argument('--no-sandbox', action='store_true', help='Disable browser sandbox when required by a trusted container runtime')
     return p
@@ -239,15 +254,22 @@ def main(argv: list[str] | None = None) -> int:
                 print(f'{len(jobs)} planned export(s); no files written.')
                 return 0
         pandoc = executable(args.pandoc, ('pandoc',))
-        browser = executable(args.browser, ('chromium', 'chromium-browser', 'google-chrome', 'chrome', 'msedge'))
-        for program, minimum in ((pandoc, 3), (browser, 131)):
+        browser = '' if args.engine == 'weasyprint' else executable(
+            args.browser, ('chromium', 'chromium-browser', 'google-chrome', 'chrome', 'msedge'))
+        for program, minimum in ((pandoc, 3),) + (((browser, 131),) if browser else ()):
             print(engine_version(program, minimum))
+        if args.engine == 'weasyprint':
+            try:
+                import weasyprint
+            except ImportError as exc:
+                raise ValueError('Install the optional engine: python -m pip install weasyprint') from exc
+            print('WeasyPrint ' + weasyprint.__version__)
         if args.check:
             return 0
         for job in jobs:
             try:
                 convert_one(job, pandoc, browser, args.orientation,
-                            args.timeout, args.overwrite, args.no_sandbox)
+                            args.timeout, args.overwrite, args.no_sandbox, args.engine)
             except (OSError, ValueError, subprocess.SubprocessError) as exc:
                 raise ValueError(f'{job.source}: {exc}') from exc
             print(f'Created: {job.destination}')
@@ -262,3 +284,4 @@ def main(argv: list[str] | None = None) -> int:
 
 if __name__ == '__main__':
     raise SystemExit(main())
+
