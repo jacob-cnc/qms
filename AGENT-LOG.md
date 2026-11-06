@@ -91,3 +91,8 @@ Applied owner revisions to QM-001: variety-of-industries context, metallic/non-m
 
 Recorded the owner's explicit approval of QM-001 and QM-002 revision B, effective 2026-11-05 (America/Los_Angeles). Removed draft status, updated register entries and next review dates, removed pending manual/policy entries, reconciled approval wording and regenerated Word copies. No handwritten signature or operational/certification claim was created. Other pending revisions remain unchanged. Owner requests that subsequent wording changes be presented in chat for approval/rework before application.
 
+
+## 2026-11-05 — Codex (QF-028 in-house provider wording)
+
+Updated QF-028 as revision B draft: example provider entries now read In-house (example); sample acceptance instruments are explicitly Example — unverified, not In-Cal; reference-only sample is also labeled as an example. Added customer-requirement precedence and a clear pending actual-inventory note. Updated pending register/status and regenerated matching Word copies. QF-030 intentionally unchanged until the owner supplies and confirms the actual QF-028 inventory; the dependency is recorded for follow-up. No actual equipment, calibration, dates or approval is asserted.
+

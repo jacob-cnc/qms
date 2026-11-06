@@ -94,3 +94,11 @@ None currently.
 
 Show proposed wording changes in chat for owner approval or rework before applying them. Record explicit approvals without inventing signatures. Approval of QM-001/QM-002 does not approve other pending document revisions.
 
+
+## Actual measuring-equipment inventory — 2026-11-05
+
+- [x] QF-028 revision B draft uses in-house calibration/verification examples with customer requirements taking precedence; all sample instruments are explicitly unverified examples.
+- [ ] Replace QF-028 example rows with owner-confirmed actual measuring equipment and actual status/interval/due dates.
+- [ ] Only after QF-028 reflects reality, update QF-030 to match its actual asset IDs, descriptions, intervals and due dates. QF-030 is unchanged and its current example rows are not a verified shop schedule.
+- [ ] Record QF-028 release approval/effective date when approved.
+
