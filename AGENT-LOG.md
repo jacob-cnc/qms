@@ -71,3 +71,8 @@ Reworked WI-008 as draft revision B to use attached green INSPECTED and red REJE
 
 Recorded Jacob Honick's explicit instruction to approve WI-008 revision B. Set approval and effective date to 2026-11-05 (America/Los_Angeles), removed draft status, updated the effective Master Document List entry and next review date, removed the pending WI entry, and regenerated matching Word copies. Approval is recorded from the owner's conversation instruction; no handwritten signature was created. Other pending document approvals remain unchanged.
 
+
+## 2026-11-05 — Codex (simplified in-house calibration draft)
+
+Revised QP-010 revision B draft to allow simple limited-scope comparison with suitable known-good references; retained brief actual-results records, fitness decisions and customer-required certification/traceability/accreditation. Simplified QF-039 and aligned QSM-001 §9. No reference, instrument, calibration result or formal release is asserted by these edits. Regenerated and checked Word copies. Existing proposed tube-specific plans may retain stricter checks until reviewed for the actual job.
+

@@ -68,3 +68,9 @@ None currently.
 - [x] WI-008 revision B approved by explicit owner instruction, effective 2026-11-05; Master Document List and matching Word copies updated.
 
 
+
+## In-house calibration refinement — 2026-11-05
+
+- [x] QP-010 B draft, QF-039 A draft and QSM-001 §9 aligned for simple known-good reference checks with customer requirements taking precedence.
+- [ ] Record owner release of QP-010/QF-039 before operational use; establish actual reference suitability and check results for the intended measurements.
+

@@ -136,9 +136,9 @@ Material and parts are bought only from the manufacturer, the mill or authorized
 1. Only instruments with a current calibration and a recorded fitness for the tolerance being checked are used to accept product. Each acceptance instrument has an ID, is listed on QF-028 Measurement Equipment List, and has a due date on QF-030.
 2. Calibration is performed by one of two routes:
    - by an **ISO/IEC 17025 accredited calibration laboratory** whose scope covers the instrument; or
-   - by the owner, in-house, within a **limited scope** (for example, caliper outside jaws over a stated length range), using certified, traceable reference standards. The documented method, readings, uncertainty and release decision are recorded on QF-039.
+   - by the owner, in-house, within a **limited scope** (for example, caliper outside jaws over a stated length range), using suitable known-good references with an established value and documented basis of confidence. The intended range, allowable error, actual readings and release decision are recorded on QF-039. Formal uncertainty evaluation is added when required by the customer or needed to establish suitability.
 
-   In-house calibration is not accredited calibration and is used only where the customer contract allows it. Gauge pins and other reference standards are bought with individual calibration certificates and recalled at set intervals.
+   In-house checks are not represented as certified, accredited or traceable calibration without supporting evidence and are used only where customer requirements allow them. Customer-required certification, traceability, accreditation, methods and intervals take precedence. Reference and gauge suitability must support the actual tolerance; nominal dimensions or a visual check alone are insufficient. Keep required or supplied certificates and assign recall intervals.
 3. Instruments are labeled with ID, calibration date and due date, and with their scope where limited. An instrument not yet released is labeled "NOT FOR ACCEPTANCE".
 4. A quick check against a reference is made before each inspection session. A failed check, damage or an overdue date takes the instrument out of use immediately. Product measured with it since the last good check is reassessed on QF-033, and the customer is told if shipped product may be affected.
 5. Calibration events are recorded on QF-020 Calibration Log, and certificates are filed by instrument ID.
@@ -247,5 +247,6 @@ I have reviewed this manual. It describes how Torchworx LLC operates, and I comm
 | Rev | Date | Description | Approved By |
 | --- | --- | --- | --- |
 | A | «signature date» | Initial release. Basic quality system for uncertified Tier 3 supply, derived from the QMS development set. Supersedes draft KMS-001. | Jacob Honick |
+
 
 
