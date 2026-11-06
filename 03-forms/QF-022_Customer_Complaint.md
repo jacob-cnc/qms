@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-022 |
 | Title | Customer Complaint Form |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -100,4 +101,8 @@ ___________________________________________________________________________
 
 **Instructions:** Open this form for any customer complaint, return, or quality escape notification. Respond to customer within 24 hours acknowledging receipt. Complete investigation within 10 business days. Track in NCR/CAR log.
 
-**References:** QP-008 Nonconforming Product Control, QF-011 NCR, QF-012 CAR
+**References:** QP-023 Customer Communication; QP-009 Corrective Action; QP-008 Nonconforming Product Control; QF-011 NCR; QF-012 CAR
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

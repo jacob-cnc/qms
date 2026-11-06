@@ -1,15 +1,13 @@
 # Markdown-to-PDF export
 
 `convert_md_to_pdf.py` exports Markdown directly to customer-facing PDF using
-Pandoc and headless Chromium/Chrome. It does not use or change the Word copies.
+Pandoc and either headless Chromium/Chrome (default) or optional WeasyPrint via `--engine weasyprint`. It does not use or change Word copies.
 
-The script was added without converting any repository documents. Syntax,
-dependency checks and non-rendering tests were run; the first real PDF export
-still needs a visual check before customer issue.
+QM-001 Rev C was previously exported and reviewed for layout; that PDF is now a historical review copy because the Markdown source has been revised. No new PDFs were generated in the customer-readiness revision batch. Future exports require layout/content review before issue.
 
 ## Setup
 
-- Python 3.10 or later (standard library only).
+- Python 3.10 or later. The default browser engine uses the standard library; the optional WeasyPrint engine requires its Python package and platform dependencies (`python -m pip install weasyprint`). The review export used WeasyPrint 70.0.
 - Pandoc 3 or later: https://pandoc.org/installing.html
 - Chromium or Google Chrome 131 or later. Page-number margin boxes require this version.
 
@@ -20,6 +18,7 @@ Check dependencies without creating anything:
 
 ```sh
 python convert_md_to_pdf.py --check
+python convert_md_to_pdf.py --engine weasyprint --check
 ```
 
 ## Preview the plan — no conversions
@@ -38,6 +37,8 @@ One document:
 
 ```sh
 python convert_md_to_pdf.py 00-manual/QM-001_Quality_Manual.md
+# Alternative engine:
+python convert_md_to_pdf.py 00-manual/QM-001_Quality_Manual.md --engine weasyprint
 ```
 
 Selected documents:

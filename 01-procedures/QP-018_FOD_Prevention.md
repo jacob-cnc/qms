@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QP-018 |
 | Title | FOD Prevention |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -74,9 +75,9 @@ Applies to all manufacturing areas, machining operations, assembly, and packagin
 
 ### FOD Awareness
 
-16. All persons performing work in the shop (including the Shop Owner and any contracted personnel) shall be aware of the importance of FOD prevention and their contribution to product safety per AS9100D Clause 8.5.4.
+16. The owner is the sole shop operator and maintains awareness of FOD prevention and its contribution to product safety. AS9100 clause 8.5.4 is a guidance reference only.
 17. Review FOD awareness annually. Document the review on QF-016 Training Record with topic "FOD Prevention Awareness."
-18. New contracted personnel working on-site must receive a FOD orientation briefing before beginning work.
+18. The owner reviews FOD precautions when the work or applicable customer requirements change.
 
 ## 7. Records Generated
 
@@ -89,3 +90,7 @@ Applies to all manufacturing areas, machining operations, assembly, and packagin
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

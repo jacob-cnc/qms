@@ -1,4 +1,17 @@
-﻿# Drawing Register
+| Field | Value |
+| --- | --- |
+| Document No. | REG-003 |
+| Title | Drawing Register |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
+
+---
+
+# Drawing Register
 
 ## Instructions
 
@@ -62,3 +75,7 @@ Review this register during management review to:
 ---
 
 *Reference: QP-015 Configuration Management, QP-001 Document Control*
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

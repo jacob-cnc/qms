@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QP-012 |
 | Title | Management Review |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -18,7 +19,7 @@ Define the process for conducting periodic, structured reviews of the QMS to ens
 
 ## 2. Scope
 
-Applies to the entire Quality Management System. Covers all required AS9100 management review inputs and outputs, adapted for a sole-proprietor operation conducting a structured self-review.
+Applies to the entire Quality Management System. Uses a structured owner self-review of actual performance and applicable customer requirements. AS9100 clause references are guidance only; no certification or standard compliance is claimed.
 
 ## 3. Responsibilities
 
@@ -38,19 +39,19 @@ Applies to the entire Quality Management System. Covers all required AS9100 mana
 ## 5. Definitions
 
 - **Management Review:** A formal, planned evaluation of the QMS by top management (Shop Owner) to assess performance, identify improvements, and make resource/strategic decisions.
-- **Sole-Proprietor Self-Review:** A structured, data-driven review process conducted by the Shop Owner serving as both management and worker, using documented evidence and predetermined agenda items to ensure objectivity.
+- **Owner Self-Review:** A structured, data-driven review process conducted by the Shop Owner serving as both management and worker, using documented evidence and predetermined agenda items to ensure objectivity.
 
 ## 6. Procedure
 
 ### 6.1 Frequency and Scheduling
 
-1. Conduct management review semi-annually (recommended for a new QMS). Minimum frequency: annually.
-2. Schedule the review after completion of the annual internal audit so that audit results are available as input.
+1. Conduct management review at least every quarter in which customer work is performed, and at least annually to review readiness and continuing suitability when no customer work is performed.
+2. Include the latest annual owner self-check and open actions when available; do not delay quarterly reviews while waiting for a self-check.
 3. Ad-hoc reviews may be conducted when significant changes occur (new customer requirements, major nonconformance trends, business changes).
 
 ### 6.2 Required Inputs (Prepare Before Review)
 
-4. Gather the following data before each review (per AS9100D Clause 9.3.2):
+4. Gather relevant available data before each review. The following agenda uses AS9100 clause 9.3.2 as guidance; mark unexercised or inapplicable activities accordingly:
    a. Status of actions from previous management reviews (9.3.2 a)
    b. Changes in external and internal issues relevant to the QMS (9.3.2 b)
    c. Information on QMS performance and effectiveness including (9.3.2 c):
@@ -69,7 +70,7 @@ Applies to the entire Quality Management System. Covers all required AS9100 mana
 
 ### 6.3 Conducting the Review (Self-Review Method)
 
-5. Block dedicated time (minimum 2 hours) with no shop interruptions.
+5. Set aside enough time for a useful review; brief minutes are sufficient when they capture the evidence, decisions and actions.
 6. Work through each input systematically using QF-015 Management Review Minutes template as the agenda.
 7. For each input area, document:
    - Current status/data (quantitative where possible)
@@ -95,7 +96,7 @@ Applies to the entire Quality Management System. Covers all required AS9100 mana
 ### 6.6 Records
 
 14. Complete and sign QF-015 Management Review Minutes.
-15. Retain management review records for a minimum of 5 years.
+15. Retain management review records under QP-001 and SUP-003 for at least ten years after completion, or longer when another applicable requirement governs.
 
 ## 7. Records Generated
 
@@ -109,3 +110,7 @@ Applies to the entire Quality Management System. Covers all required AS9100 mana
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Align quarterly/annual owner reviews and ten-year minimum retention with the manual.

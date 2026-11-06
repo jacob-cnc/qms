@@ -1,22 +1,27 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QP-024 |
 | Title | Work Transfer Control |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
-# QP-024 Work Transfer Control
+# QP-024 Work Transfer
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
 Define the process for planning, executing, and verifying transfers of work between manufacturing locations (internal or to/from subcontractors) to ensure product quality is maintained during the transition.
 
 ## 2. Scope
+
+Torchworx LLC operates one shop with one owner/operator. References to a receiving source describe a possible external customer-approved supplier or a change under review; they do not establish another Torchworx LLC site or additional shop workers.
 
 Applies to all planned or unplanned transfers of production work, including:
 - Transferring work to a subcontractor (outsourcing an operation previously done in-house)
@@ -60,14 +65,14 @@ Applies to all planned or unplanned transfers of production work, including:
 
 3. Before production begins at the receiving location, validate:
    - Equipment is capable of meeting drawing tolerances
-   - Personnel are trained/competent for the operations
+   - The owner is competent for in-shop operations; any external supplier has the qualifications required for its customer-approved scope
    - Inspection equipment is available and calibrated
    - For subcontractors: approved on the Approved Supplier List per QP-003
 4. Provide complete technical data package to the receiving location (current revision drawings, specifications, special process requirements).
 
 ### Product Verification After Transfer
 
-5. Perform First Article Inspection per QP-022 on the first production run at the receiving location.
+5. Perform full first-piece verification and full acceptance inspection by default after transfer. Complete formal FAI under QP-022 when required by the customer; use a different inspection extent only when specified or approved by the customer in writing.
 6. Compare FAI results against prior production data (when available) to confirm equivalent capability.
 7. If FAI fails, do not proceed to production quantities. Address root cause and re-validate.
 
@@ -95,3 +100,7 @@ Applies to all planned or unplanned transfers of production work, including:
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-035 |
 | Title | Supplier Corrective Action Request (SCAR) |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -93,6 +94,10 @@ Result: ☐ Effective — issue resolved ☐ Not effective — escalate
 
 ---
 
-**Instructions:** Issue this SCAR to suppliers when nonconforming material is received or audit findings require corrective action. Send to supplier contact with a response deadline. Verify effectiveness on next delivery or through follow-up audit. Escalate non-response per QP-006 Supplier Management.
+**Instructions:** Issue this SCAR to suppliers when nonconforming material is received or audit findings require corrective action. Send to supplier contact with a response deadline. Verify effectiveness on next delivery or through follow-up audit. Escalate non-response per QP-003 Purchasing and Supplier Management.
 
-**References:** QP-006 Supplier Management, QF-034 Supplier Audit Checklist
+**References:** QP-003 Purchasing and Supplier Management, QF-034 Supplier Audit Checklist
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

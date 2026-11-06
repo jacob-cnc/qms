@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-023 |
 | Title | Risk Register |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -14,7 +15,9 @@
 
 **Last Reviewed:** _____ (YYYY-MM-DD) **Reviewed By:** ___________
 
-**Scoring:** Likelihood (1-5) x Severity (1-5) = Risk Score. High >= 15, Medium 8-14, Low <= 7.
+**Scoring:** Likelihood (1-5) x Severity (1-5). Low 1–4; Medium 5–9; High 10–15; Critical 16–25, per QP-014 and SUP-002.
+
+**Use:** Listed topics are prompts for the owner's assessment, not completed assessments or evidence that suggested controls exist. The owner records actual controls, scores, decisions and review dates when assessed. “Additional Mitigation” contains considerations until adopted and implemented.
 
 ---
 
@@ -22,27 +25,31 @@
 
 | ID | Description | Category | L | S | Score | Current Controls | Additional Mitigation | Owner | Status | Last Review |
 |----|-------------|----------|---|---|-------|-----------------|----------------------|-------|--------|-------------|
-| R-001 | Sole operator incapacity (illness, injury) | Personnel | 3 | 5 | 15 | Cross-train family member on basic ops; documented procedures | Identify backup contractor; maintain procedure currency | Shop Owner | Open | _____ |
-| R-002 | CNC lathe breakdown | Equipment | 2 | 4 | 8 | Preventive maintenance per QP-019; spare parts stock | Service contract with dealer; backup manual lathe capability | Shop Owner | Open | _____ |
-| R-003 | CNC mill breakdown | Equipment | 2 | 4 | 8 | Preventive maintenance per QP-019; spare parts stock | Service contract with dealer; identify subcontract mill source | Shop Owner | Open | _____ |
-| R-004 | Manual mill breakdown | Equipment | 2 | 3 | 6 | Basic PM; robust older equipment | Identify replacement source; CNC mill as partial backup | Shop Owner | Open | _____ |
-| R-005 | Key customer loss | Financial | 2 | 4 | 8 | Customer satisfaction monitoring; quality delivery | Diversify customer base; maintain competitive pricing | Shop Owner | Open | _____ |
-| R-006 | Supplier failure (material) | Supply Chain | 2 | 3 | 6 | Approved supplier list; multiple sources for common materials | Maintain safety stock of common sizes; identify alternates | Shop Owner | Open | _____ |
-| R-007 | Supplier failure (special process) | Supply Chain | 2 | 4 | 8 | Approved supplier list with backup sources | Qualify second source for heat treat and plating | Shop Owner | Open | _____ |
-| R-008 | Calibration lapse | Operational | 2 | 3 | 6 | Cal schedule in QF-020; due date tracking | Calendar reminders; buffer scheduling before due dates | Shop Owner | Open | _____ |
-| R-009 | Drawing misinterpretation | Operational | 3 | 3 | 9 | Contract review per QP-001; customer clarification process | Pre-production review checklist; flag ambiguous dims | Shop Owner | Open | _____ |
-| R-010 | Material mix-up | Operational | 2 | 4 | 8 | Material identification per QP-005; cert traceability | Segregated storage; verify at each operation | Shop Owner | Open | _____ |
-| R-011 | Export control violation | Regulatory | 1 | 5 | 5 | Screen orders for ITAR/EAR; customer declarations | Annual training refresh; maintain awareness of regulations | Shop Owner | Open | _____ |
-| R-012 | Data loss / cyber event | Operational | 2 | 4 | 8 | Regular backups; antivirus; network security | Off-site backup copy; test restore annually | Shop Owner | Open | _____ |
-| R-013 | Capacity overload (delivery risk) | Operational | 3 | 3 | 9 | Realistic quoting; schedule visibility | Identify overflow subcontractor; manage lead time expectations | Shop Owner | Open | _____ |
-| R-014 | Quality escape to customer | Operational | 2 | 4 | 8 | Final inspection per QP-007; CoC per QP-009 | Double-check critical dims; customer feedback monitoring | Shop Owner | Open | _____ |
-| R-015 | Measurement error | Operational | 2 | 3 | 6 | Calibrated instruments; trained operator | Cross-check critical measurements with second method | Shop Owner | Open | _____ |
-| R-016 | Tooling failure during cut | Operational | 3 | 2 | 6 | Tool condition monitoring; conservative parameters | Spare tooling on hand; tool life tracking | Shop Owner | Open | _____ |
-| R-017 | Loss of NADCAP supplier | Supply Chain | 2 | 4 | 8 | Monitor supplier certification status | Pre-qualify alternate NADCAP suppliers | Shop Owner | Open | _____ |
-| R-018 | Regulatory change (AS9100 update) | Regulatory | 1 | 3 | 3 | Industry awareness; registrar communications | Budget for transition; maintain registrar relationship | Shop Owner | Monitoring | _____ |
+| R-001 | Sole operator incapacity | Owner capacity | - | - | - | - | Plan customer communication and pause/reschedule affected work; no alternate shop worker is assumed | Owner | Not assessed | - |
+| R-002 | CNC lathe breakdown | Equipment | - | - | - | - | Review maintenance and recovery options; any external source requires applicable customer approval | Owner | Not assessed | - |
+| R-003 | CNC mill breakdown | Equipment | - | - | - | - | Review maintenance and recovery options; any external source requires applicable customer approval | Owner | Not assessed | - |
+| R-004 | Manual mill breakdown | Equipment | - | - | - | - | Review maintenance and capability before rescheduling work | Owner | Not assessed | - |
+| R-005 | Key customer loss | Business | - | - | - | - | Review customer concentration and delivery commitments | Owner | Not assessed | - |
+| R-006 | Material supplier disruption | Supply chain | - | - | - | - | Confirm availability and customer-approved sourcing before acceptance | Owner | Not assessed | - |
+| R-007 | Outside-process supplier disruption | Supply chain | - | - | - | - | Confirm customer approval and required process scope before use | Owner | Not assessed | - |
+| R-008 | Calibration lapse | Measurement | - | - | - | - | Review QF-030 schedule and QP-010 suitability before use | Owner | Not assessed | - |
+| R-009 | Drawing misinterpretation | Job requirements | - | - | - | - | Review requirements under QP-002 and resolve ambiguity with the customer | Owner | Not assessed | - |
+| R-010 | Material mix-up | Traceability | - | - | - | - | Review identification and receiving records under QP-004 and QP-005 | Owner | Not assessed | - |
+| R-011 | Export/data restrictions | Applicable requirements | - | - | - | - | Review order restrictions and ability to protect required data before acceptance | Owner | Not assessed | - |
+| R-012 | Data loss | Records | - | - | - | - | Review backups and retrieval under QP-001 and SUP-003 | Owner | Not assessed | - |
+| R-013 | Capacity overload | Owner capacity | - | - | - | - | Review lead time and single-operator workload before commitments | Owner | Not assessed | - |
+| R-014 | Quality escape | Conformity | - | - | - | - | Review full inspection under QP-007 and certificate release on QF-010 | Owner | Not assessed | - |
+| R-015 | Measurement error | Measurement | - | - | - | - | Confirm available methods and customer requirements under QP-010 | Owner | Not assessed | - |
+| R-016 | Tooling failure | Production | - | - | - | - | Review tool condition and effects on affected product | Owner | Not assessed | - |
+| R-017 | Loss of a customer-required supplier approval | Supply chain | - | - | - | - | Check applicable approval/certification scope before use and obtain customer direction | Owner | Not assessed | - |
+| R-018 | Changed customer or applicable legal requirements | Requirements | - | - | - | - | Review changes before accepting affected work; standards are guidance unless imposed | Owner | Not assessed | - |
 
 ---
 
-**Instructions:** Review at least annually during management review (QF-015). Update scores when controls change or events occur. Add new risks as identified. Remove risks only when root cause is eliminated.
+**Instructions:** Review at least quarterly and during management review (QF-015). Update scores when controls change or events occur. Add new risks as identified. Remove risks only when root cause is eliminated.
 
-**References:** QP-020 Risk Management Procedure, QF-015 Management Review Minutes
+**References:** QP-014 Risk Management, QF-015 Management Review Minutes
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Remove unsupported implemented-control claims and additional-worker assumptions; align risk scoring and assessment prompts.

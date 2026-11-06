@@ -1,137 +1,52 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | WI-003 |
 | Title | Manual Mill Setup and Operation |
-| Revision | A |
-| Effective Date | 2026-08-06 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # WI-003 Manual Mill Setup and Operation
 
-## 1. Purpose
+## 1. Scope
 
-Define the step-by-step process for setting up and operating MAN-MILL-001 (Manual Mill) to produce conforming parts safely using manual machining techniques.
+Applies to MAN-MILL-001, the Grizzly G0704 manual mill in the single Torchworx LLC shop. The owner confirms the actual machine, available tooling, workholding and measurement methods for each job. Optional accessories and automated features are not assumed.
 
-## 2. Scope
+## 2. Preparation and Safety
 
-Applies to all production, prototype, and tooling work performed on MAN-MILL-001 including:
-- Milling (face, slot, pocket, profile)
-- Drilling, boring, reaming, and tapping
-- Fixture and soft jaw machining for CNC support
-- Any manual operation where the operator controls feed by hand or uses power feed
+1. Review the current drawing, purchase order and QF-004 traveler. Confirm that the features can be produced and verified with owner-confirmed available equipment.
+2. Check maintenance and machine condition under QP-019. Resolve conditions affecting safe operation or conformity before use.
+3. Clean mounting surfaces and select suitable workholding. Verify secure grip, support, alignment and tool clearance for the actual tolerances.
+4. Wear suitable eye protection, secure loose clothing and hair, and keep hands clear of rotating tools. Stop the spindle before setup changes, tool changes, chip removal or measurement. Remove drawbar wrenches and setup tools before starting. Do not leave the running machine unattended.
 
-## 3. Required Tools and Equipment
+## 3. Operation
 
-- Workholding: vise, clamps, V-blocks, angle plate, rotary table (as required)
-- Cutting tools: end mills, face mills, drills, reamers, taps (per drawing/plan)
-- Edge finder or wiggler
-- Dial indicator and magnetic base (for tramming and alignment)
-- Dial calipers, micrometers, depth mic (for in-process measurement)
-- Speed/feed reference chart (posted on machine or in shop reference binder)
-- Parallels, 1-2-3 blocks, gauge blocks (as needed for setup)
-- Personal protective equipment: safety glasses, closed-toe shoes
-- Current revision customer drawing and Job Traveler (QF-004)
+5. Verify head/workholding alignment using an owner-selected method appropriate to the job. Record significant setup criteria in the job notes.
+6. Select suitable tools, speeds, feeds and cut sequence using manufacturer information and general industry practice as guidance, within the machine's actual capability.
+7. Install tools manually with the spindle stopped. Establish datums using an available owner-confirmed method; verify position and clearance before cutting.
+8. Produce and fully inspect the first piece under WI-005 before continuing. Verify the next piece after a change that could affect conformity.
+9. Perform full inspection by default under QP-006 and QP-007, recording results on QF-005/QF-006. A different inspection extent requires a customer-specified or customer-approved written plan.
+10. Stop for any abnormal condition or nonconformance, hold affected product under QP-008, and correct/re-verify before continuing.
+11. Deburr and clean parts as required, sign off QF-004, apply status tags under WI-008 and clean the machine safely. Record maintenance needs.
 
-## 4. Safety Precautions
+## 4. References
 
-- Verify machine PM is current (check PM log on machine).
-- Never leave the machine unattended with the spindle running.
-- Secure all workholding firmly. Perform pull test before cutting.
-- Remove the drawbar wrench from the spindle top before starting the motor.
-- Never adjust workholding, change tools, or measure while the spindle is running.
-- Use appropriate speeds and feeds — reference the posted chart. Excessive speed can break tools and launch fragments.
-- Chips from manual milling can be sharp and hot. Use a brush to clear chips, not hands.
-- Ensure power feed engagement lever is disengaged before starting spindle if not needed.
-- Secure table locks on unused axes to prevent table movement during cuts.
-- Long hair tied back. No gloves near rotating cutter. No loose sleeves.
+- QP-005 Production Planning and Control; QP-006 In-Process Inspection; QP-007 Final Inspection and Product Release
+- QP-008 Nonconforming Product Control; QP-019 Preventive Maintenance
+- QF-004 Job Traveler; QF-005 In-Process Inspection Record; QF-006 Final Inspection Report; QF-027 Equipment List
+- WI-005 First Piece Inspection; WI-008 Part Marking
 
-## 5. Procedure
-
-### Pre-Setup
-
-1. Review the Job Traveler (QF-004) and customer drawing. Identify the operation, features to produce, and tolerances.
-2. Verify machine PM is current. If overdue, notify Shop Owner per QP-018.
-3. Clean the table, T-slots, and vise (if mounted) from prior job.
-
-### Tramming and Alignment
-
-4. Verify head tram (spindle perpendicularity to table). Check with a dial indicator in the spindle sweeping a 6" circle on the table. Tram must be within 0.001" (or tighter if required). Adjust head if needed.
-5. Mount the vise or workholding. Indicate the fixed jaw parallel to the X-axis within 0.0005". Secure mounting bolts.
-
-### Workholding Setup
-
-6. Load the workpiece into the vise or fixture. Use parallels for proper Z-height positioning. Seat the part on parallels (tap down, verify with feeler gauge if needed).
-7. Tighten the vise firmly. Verify the part does not rock or lift.
-8. For clamp setups, verify clamp pressure is directly over the support point — never cantilevered.
-
-### Tool Selection and Speed/Feed
-
-9. Select the cutter per drawing requirements (type, diameter, material — HSS or carbide).
-10. Determine speed (RPM) and feed rate using the posted speed/feed chart based on material and cutter diameter.
-11. Set spindle speed to the calculated RPM (use the nearest available belt position or variable speed dial).
-12. Install the tool in the spindle. Verify collet or end mill holder is clean and properly seated. Tighten drawbar.
-
-### Datum Setting
-
-13. Pick up the X and Y datum using an edge finder or wiggler on the reference edges of the part.
-14. Zero the DRO (or dial handwheels) at the datum point.
-15. Set Z datum by touching the tool to the top of the part (or reference surface) and zeroing.
-
-### Operation Execution
-
-16. Plan the cut sequence: roughing passes first, then finishing passes to final dimension.
-17. Take roughing passes leaving 0.005"–0.010" for finish (or as specified on the setup sheet).
-18. Measure the part after roughing to verify approach to final dimension. Adjust depth of cut for finish pass.
-19. Take finish pass to final dimension. Use climb milling for finish cuts where machine backlash allows (better surface finish). Otherwise use conventional milling.
-20. For drilled/bored holes: center drill first, then drill to size (or pilot drill then final drill). Ream or bore to final size if tolerance requires.
-21. Measure final dimensions with appropriate instruments. Compare to drawing tolerances.
-
-### In-Process Measurement
-
-22. Measure critical dimensions after each feature is completed (do not wait until all features are done).
-23. Record measurements on QF-005 per QP-006 requirements.
-24. If a dimension is approaching tolerance limit, stop and verify setup before continuing.
-
-### Cleanup and Teardown
-
-25. When all operations are complete, remove the part. Deburr edges as required.
-26. Perform final in-process measurement per QP-006.
-27. Remove tools and workholding if job is complete. Return to storage.
-28. Clean the machine — brush chips from table and T-slots, wipe down ways, verify coolant/oil levels.
-
-## 6. Acceptance Criteria
-
-- All dimensions within drawing tolerance as verified by in-process measurement
-- Surface finish meets drawing requirements (visual comparison or measured)
-- No tool marks, chatter marks, or burrs on finished surfaces (beyond drawing allowance)
-- All features present per drawing (holes, slots, profiles)
-
-## 7. Nonconformance Response
-
-If any dimension is out of tolerance or a feature is incorrect:
-
-1. **STOP** — assess whether the condition is correctable.
-2. If material can still be removed to bring the feature into tolerance (e.g., undersize hole can be bored larger), correct and re-measure.
-3. If the condition is over-cut or otherwise not correctable, tag the part and move to Quarantine. Initiate QF-011 per QP-008.
-4. Record the nonconformance on the Job Traveler (QF-004).
-5. If the error was due to a setup issue (tram, datum, workholding), correct the setup before producing the next part.
-
-## 8. References
-
-- QP-005 — Production Planning and Control
-- QP-006 — In-Process Inspection
-- QP-008 — Nonconforming Product Control
-- QP-018 — Equipment Maintenance
-- QF-004 — Job Traveler / Route Sheet
-- QF-005 — In-Process Inspection Record
-- QF-011 — Nonconforming Material Report
-
-## 9. Revision History
+## 5. Revision History
 
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-06 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Reflect the Grizzly G0704 manual mill and owner-confirmed methods without assumed accessories.

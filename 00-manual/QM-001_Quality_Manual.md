@@ -2,10 +2,12 @@
 | --- | --- |
 | Document No. | QM-001 |
 | Title | Quality Manual |
-| Revision | C |
-| Effective Date | 2026-11-05 |
-| Prepared By | Shop Owner |
+| Revision | D |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
 | Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -28,7 +30,7 @@ This is the single quality manual for Torchworx LLC. It consolidates the basic o
 | Business Type | LLC - Precision CNC and Manual Machining |
 | Equipment | CNC lathe: CTMACH CQ6133; CNC mill: 3040 three-axis CNC mill (Mach3 control); manual mill: Grizzly G0704 |
 | E-mail | torchworxjacob@gmail.com |
-| Owner / sole employee | Jacob Honick; performs management, production, inspection and quality functions |
+| Sole owner / operator | Jacob Honick; performs management, production, inspection and quality functions |
 | Experience / formation | Workshop operated for more than 10 years; Torchworx LLC formed 2025-03-05 |
 | Ownership | US-owned single-member LLC; owner is a US citizen by birth |
 | Certification status | None held; no quality-standard compliance claimed. AS9100 / ISO 9001 are future goals only |
@@ -120,7 +122,7 @@ Retain quality records for at least 10 years after shipment, or longer when QP-0
 
 ### 3.4 Code of Conduct
 
-This section serves as the employee manual equivalent for ethics and product conformity. Anyone performing work for Torchworx LLC, now the owner and in future any employee or helper, shall:
+The owner performs all shop work and is responsible for ethics and product conformity. The owner shall:
 
 1. Record actual measurements and results honestly. Never falsify, back-date or pre-sign a record, certificate, inspection result or approval.
 2. Never ship a part known or suspected not to conform without the customer's written authorization.
@@ -135,7 +137,7 @@ Contributions to product conformity and safety include: working to the correct d
 
 ### 3.6 Acknowledgment
 
-The owner signs and dates an acknowledgment of Sections 3.4 and 3.5 on QF-016 Training Record when this manual is adopted and after each revision. Any future employee signs it before starting work.
+The owner signs and dates an acknowledgment of Sections 3.4 and 3.5 on QF-016 Training Record when this manual is adopted and after each revision.
 
 ## 4. Process Interaction and Document Cross-Reference
 
@@ -292,9 +294,11 @@ The following blank forms/templates are available for development and use as app
 
 This is a single-member LLC. The Owner fulfills all management and operational roles. There is no delegation of authority to employees because there are no employees. External services may be arranged where needed for the accepted work; no provider engagement is established by this manual.
 
-The owner is the sole employee and is responsible and accountable for every activity in this manual: contract review, purchasing, production, inspection, product release, nonconformance disposition, calibration, document control and corrective action. Because one person makes and inspects the product, Section 6.7 adds deliberate safeguards: written inspection plans, recorded actual values, and a review of the completed job packet before release.
+The owner is the sole shop operator and is responsible and accountable for every activity in this manual: contract review, purchasing, production, inspection, product release, nonconformance disposition, calibration, document control and corrective action. Because one person makes and inspects the product, Section 6.7 adds deliberate safeguards: written inspection plans, recorded actual values, and a review of the completed job packet before release.
 
 The owner's competence comes from more than 10 years of operating this workshop. New skills, methods or equipment are recorded on QF-016 when used for customer work. Work outside demonstrated competence is not accepted unless the competence is gained or the work is bought from a qualified, customer-approved source.
+
+**Owner competency signoff:** Jacob Honick, Owner — 2026-08-10. QF-036 records the owner's competency assessment for the functions performed; it does not establish unlisted equipment or an unconfirmed capability.
 
 ### 5.2 Roles Fulfilled by Shop Owner
 
@@ -338,7 +342,7 @@ AS9100, ISO 9001 and other standard references are guidance and best-practice re
 
 - As a single-person operation, internal communication is inherent
 - Documented decisions (NCR dispositions, CARs, management review minutes) serve as the formal record
-- QMS changes are effective immediately upon document revision approval
+- The document header distinguishes the QMS baseline effective date from the dated approval of its current revision; the master list identifies the approved revision to use
 
 **External Communication:**
 
@@ -360,7 +364,7 @@ AS9100, ISO 9001 and other standard references are guidance and best-practice re
 | Nonconforming Product (QP-008) | R, A | I | - | I |
 | Corrective Action (QP-009) | R, A | I | - | I |
 | Calibration (QP-010) | R, A | R when used | - | - |
-| Reviews / audits (QP-011 development reference; §6.11 current controls) | Coordinate; R, A for owner self-checks | - | R if engaged for an independent audit | - |
+| Reviews / audits (QP-011 owner self-check; §6.11 current controls) | Coordinate; R, A for owner self-checks | - | R if engaged for an independent audit | - |
 | Management Review (QP-012) | R, A | - | - | - |
 | Training (QP-013) | R, A | - | - | - |
 | Risk Management (QP-014) | R, A | - | - | - |
@@ -411,7 +415,7 @@ Conflicts or unclear requirements are resolved with the customer in writing **be
 
 #### 6.4.1 Supplier Selection and Approval
 
-Suppliers of material, tooling that affects conformity, calibration services and outside processing are evaluated and listed on QF-019 Approved Supplier List, with the scope each supplier is approved for. The basis for approval is recorded on QF-017: certification such as ISO 9001, AS9100, ISO/IEC 17025 or NADCAP where relevant, ability to supply the required certifications, past performance, or customer direction. Customer-directed sources are used where specified.
+Any supplier used for customer work requires explicit customer approval, either individually or by a certification type accepted by the customer, when applicable. Record the customer, approval evidence and scope on QF-017 and QF-019 before use. Verify any required certification is current and covers the specified scope. The owner also confirms suitability for the actual order. No universal ISO, AS9100, NADCAP or aerospace-experience requirement applies unless required by the customer or other applicable requirements. QP-003 governs this process.
 
 Raw material is bought from the mill or an established distributor able to supply material certifications. Torchworx LLC does not buy material from unknown brokers.
 
@@ -459,7 +463,7 @@ Each job has a traveler (QF-004) listing the operations, drawing revision, mater
 1. **First piece:** the first part of each setup, and after any setup, program or tool change that can affect a feature, is fully inspected to the drawing and recorded on QF-005 before production continues.
 2. **In-process:** the planned characteristics are checked at the hold points on the traveler.
 3. **Final:** every drawing and purchase order characteristic is verified and recorded on QF-006 before release.
-4. **No sampling.** Torchworx LLC does not use sampling plans such as MIL-STD-1916 or ANSI Z1.4. **Every part is inspected (100%) for every drawing and purchase order acceptance characteristic** unless the customer approves a different plan in writing. This is practical for low-volume work.
+4. **Full inspection by default.** **Every part is inspected (100%) for every drawing and purchase order acceptance characteristic** unless a different plan is specified by the customer or approved by the customer in writing and retained in the job file. This is practical for low-volume work.
 5. **Actual values** are recorded, not just "OK", for each dimensional characteristic, together with the instrument ID, date and inspector. A result is never rounded into tolerance. Results too close to a limit to decide reliably, given the measurement capability, are placed on hold for better measurement.
 6. Where a feature cannot be verified with available equipment, a qualified, customer-approved inspection service is used or the method is agreed with the customer **before** the order is accepted.
 7. An AS9102 First Article Inspection is performed only when the purchase order requires it.
@@ -501,13 +505,13 @@ Before shipment the owner reviews the completed job packet: traveler, inspection
 
 ### 6.11 Monitoring, Review and Improvement
 
-1. At least every quarter in which customer work is performed, the owner reviews on-time delivery, rejects and returns, NCRs and corrective actions, customer feedback, calibration status and supplier performance. The review and the actions decided are recorded on QF-015 (brief minutes are enough).
+1. At least every quarter in which customer work is performed, and at least annually when no customer work is performed, the owner reviews on-time delivery, rejects and returns, NCRs and corrective actions, customer feedback, calibration status and supplier performance. The review and the actions decided are recorded on QF-015 (brief minutes are enough).
 2. Once a year the owner checks the shop's actual practice against this manual and records the gaps and actions on QF-038. This self-check is not independent, and it is not represented as an AS9100 internal audit.
 3. Customers are notified before any change that could affect their product: change of location, of a key process or process supplier, or of ownership.
 
 ### 6.12 Flowdown to Suppliers
 
-Applicable customer requirements are flowed down on purchase orders to suppliers whose work affects the customer's product. These include specifications, certifications, traceability, right of access and record retention. Outside processing is not used without the customer's agreement when the purchase order restricts it.
+Applicable customer requirements are flowed down on purchase orders to suppliers whose work affects the customer's product. These include specifications, certifications, traceability, right of access and record retention. Supplier use for customer work requires explicit customer approval, individually or by a customer-accepted certification type when applicable, under Section 6.4 and QP-003.
 
 ## 7. References
 
@@ -535,4 +539,6 @@ Revision B, approved and effective 2026-11-05: broaden industry/material scope; 
 
 Revision C, approved and effective 2026-11-05: consolidate the separate quality manuals and superseded scope addendum into this single manual; retain session revisions and remap supporting references. Approved by Jacob Honick, Owner, by explicit instruction in the project conversation; no handwritten signature is implied. Revision B remains in history.
 
+## Revision D Approval
 
+Approved 2026-11-05 by Jacob Honick, Owner. Align the owner-operated basic QMS with customer-approved suppliers, full inspection, owner competence signoff and consistent controls.

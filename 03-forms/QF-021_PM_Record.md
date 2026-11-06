@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-021 |
 | Title | Preventive Maintenance Record |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -68,3 +69,7 @@
 **Instructions:** Complete per QP-019 PM schedule. Check all applicable items. Record actual measurements where specified. If any item fails, document corrective action. Machine must not be used if safety items (E-stop, guards) fail until corrected.
 
 **References:** QP-019 Preventive Maintenance Procedure
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

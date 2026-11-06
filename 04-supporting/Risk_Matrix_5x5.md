@@ -1,13 +1,17 @@
-﻿# Risk Matrix 5x5 Reference
-
 | Field | Value |
-|-------|-------|
+| --- | --- |
 | Document No. | SUP-002 |
 | Title | Risk Matrix 5x5 Reference |
-| Revision | A |
-| Effective Date | [Date] |
-| Prepared By | [Shop Owner Name] |
-| Approved By | [Shop Owner Name] |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
+
+---
+
+# Risk Matrix 5x5 Reference
 
 ## Purpose
 
@@ -31,7 +35,7 @@ This document defines the risk assessment scoring criteria used throughout the Q
 | 2 | Minor | Rework required, minor schedule delay (<1 day), minimal cost |
 | 3 | Moderate | Scrap, missed delivery date, customer complaint |
 | 4 | Major | Customer escape, regulatory finding, significant cost (>$1000) |
-| 5 | Critical | Safety event, loss of AS9100 certification, loss of customer |
+| 5 | Critical | Safety event, severe product-conformity impact or loss of customer |
 
 ## 5x5 Risk Matrix
 
@@ -50,14 +54,14 @@ This document defines the risk assessment scoring criteria used throughout the Q
 | Level | Score Range | Color | Required Action |
 |-------|-------------|-------|-----------------|
 | Low | 1-4 | Green | Accept risk. Monitor during management review. No immediate action required. |
-| Medium | 5-9 | Yellow | Mitigate within 90 days. Assign action owner. Review monthly. |
+| Medium | 5-9 | Yellow | Mitigate within 60 days. Assign action owner. Review monthly. |
 | High | 10-15 | Orange | Mitigate within 30 days. Corrective action plan required. Review weekly until reduced. |
 | Critical | 16-25 | Red | Immediate action required. Stop affected processes if safety-related. Escalate to customer if applicable. Daily review until reduced below Critical. |
 
 ## Reassessment Criteria
 
 Risks shall be reassessed:
-- During each management review (minimum annually per QP-012)
+- During each management review (quarterly when customer work is performed, and at least annually otherwise, per QP-012)
 - After any nonconformity or customer complaint related to the risk area
 - After implementation of mitigation actions (to confirm effectiveness)
 - When process changes, new equipment, or new work types are introduced
@@ -72,3 +76,7 @@ Risks shall be reassessed:
 ---
 
 *Reference: QP-014 Risk Management, QF-023 Risk Register*
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Align risk levels and mitigation timing with QP-014; remove implied certification status.

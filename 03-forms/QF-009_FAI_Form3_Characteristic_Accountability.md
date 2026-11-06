@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-009 |
 | Title | FAI Form 3 - Characteristic Accountability |
-| Revision | A |
-| Effective Date | 2026-08-06 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -103,4 +104,8 @@ ___________________________________________________________________________
 
 **Instructions:** Record all ballooned characteristics from the drawing. Use additional sheets if more than 50 characteristics. All characteristics must pass for FAI acceptance. Attach to Form 1 and Form 2.
 
-**References:** AS9102 First Article Inspection, QP-006 Inspection and Testing
+**References:** AS9102 First Article Inspection, QP-022 First Article Inspection
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

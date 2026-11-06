@@ -1,4 +1,17 @@
-﻿# NCR/CAR Log
+| Field | Value |
+| --- | --- |
+| Document No. | REG-002 |
+| Title | NCR/CAR Log |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
+
+---
+
+# NCR/CAR Log
 
 ## Instructions
 
@@ -63,3 +76,7 @@ This register tracks all Nonconformance Reports (NCRs) and Corrective Action Rep
 ---
 
 *Reference: QP-008 Nonconforming Product, QP-009 Corrective Action, QF-011 NCR, QF-012 CAR*
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

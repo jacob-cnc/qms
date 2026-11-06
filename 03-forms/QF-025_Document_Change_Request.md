@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-025 |
 | Title | Document Change Request |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -56,7 +57,7 @@ If yes, list affected documents: _______________________________________________
 
 **Does this change affect customers?** $([char]0x2610) Yes $([char]0x2610) No
 
-If yes, customer notification required per QP-001 Section 6.
+If yes, evaluate customer notification and approval requirements per QP-025 Control of Changes.
 
 ---
 
@@ -75,3 +76,7 @@ If yes, customer notification required per QP-001 Section 6.
 **Instructions:** Complete this form for any proposed change to a controlled QMS document. Submit to Shop Owner (document control authority) for review and approval per QP-001 Document Control.
 
 **References:** QP-001 Document Control
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

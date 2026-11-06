@@ -1,16 +1,19 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QM-003 |
 | Title | Quality Objectives |
-| Revision | A |
-| Effective Date | 2025-07-14 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QM-003 Quality Objectives
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
@@ -59,7 +62,7 @@ These objectives apply to all QMS processes and are tracked by the Shop Owner us
 
 ### 4.5 Calibration Compliance
 
-- **Why it matters:** Out-of-calibration equipment may produce nonconforming product; 100% compliance is an AS9100 expectation
+- **Why it matters:** Out-of-calibration equipment may produce nonconforming product; on-time calibration supports reliable acceptance measurements and applicable customer requirements
 - **Data source:** Calibration Log (QF-020) and Calibration Schedule (QF-030)
 - **Escalation:** Any missed calibration triggers Out-of-Tolerance Impact Assessment (QF-033) per QP-010
 
@@ -106,3 +109,7 @@ All revisions to this document follow QP-001 Document Control and QP-025 Control
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2025-07-14 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

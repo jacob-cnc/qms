@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-002 |
 | Title | Purchase Order |
-| Revision | A |
-| Effective Date | 2026-08-06 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -52,13 +53,13 @@
 
 ## Quality Clauses (flow-down to supplier)
 
-The following requirements apply to this purchase order:
+Identify the applicable numbered clauses in Special Instructions or attach SUP-001 with the applicable clauses selected. Apply all customer-required flowdowns; clauses are not automatically imposed on unrelated tooling or general purchases.
 
 1. All applicable specifications, drawings, and process requirements flow down to supplier and sub-tier suppliers.
-2. Right of access is granted to our organization, our customer, and regulatory authorities to all facilities and records related to this order.
+2. Right of access is granted to Torchworx LLC, the customer, and regulatory authorities to all facilities and records related to this order.
 3. Supplier shall notify purchaser of any nonconforming product before shipment.
 4. Quality records shall be retained for a minimum of 10 years.
-5. Supplier shall have counterfeit part prevention controls in place per AS6174 or equivalent.
+5. Supplier shall prevent counterfeit material/parts; apply AS6174 or another specified standard when required by the order.
 6. All requirements of this PO shall be flowed down to sub-tier suppliers.
 7. Supplier shall notify purchaser of any changes to product, process, or suppliers that affect this order.
 8. Certificate of Conformance required with each shipment.
@@ -81,6 +82,10 @@ ___________________________________________________________________________
 
 ---
 
-**Instructions:** Issue this PO for all external purchases of material, tooling, and outside processing. Quality clauses above are pre-printed and apply to every PO. Add special instructions as needed for the specific order. Retain copy in purchasing file.
+**Instructions:** Issue this PO for all external purchases of material, tooling, and outside processing. Select and record applicable quality clauses based on the purchase and accepted customer requirements. Supplier use for customer work requires customer approval under QP-003. Add special instructions as needed for the specific order. Retain copy in purchasing file.
 
-**References:** QP-004 Purchasing and Supplier Control
+**References:** QP-003 Purchasing and Supplier Management
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

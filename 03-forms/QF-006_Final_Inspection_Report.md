@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-006 |
 | Title | Final Inspection Report |
-| Revision | A |
-| Effective Date | 2026-08-06 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -80,4 +81,8 @@
 
 **Instructions:** Complete final inspection after all operations are finished. Verify all drawing characteristics. If any characteristic fails, initiate NCR per QP-008 before releasing part. File with job documentation and attach to C of C.
 
-**References:** QP-006 Inspection and Testing, QP-008 Nonconforming Product Control
+**References:** QP-007 Final Inspection and Product Release, QP-008 Nonconforming Product Control
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

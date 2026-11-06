@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-026 |
 | Title | FOD Prevention Checklist |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -49,6 +50,10 @@ ___________________________________________________________________________
 
 ---
 
-**Instructions:** Complete this checklist at the end of each production day (or shift). Any item marked not OK must be corrected before leaving the shop. File completed checklists monthly. This checklist supports FOD prevention per WI-009 and AS9100D Section 8.5.4.
+**Instructions:** Complete this checklist at the end of each production day (or shift). Any item marked not OK must be corrected before leaving the shop. File completed checklists monthly. This checklist supports FOD prevention per QP-018; AS9100 clause 8.5.4 is guidance only.
 
-**References:** WI-009 FOD Prevention, QP-012 Work Environment Control
+**References:** QP-018 FOD Prevention, QP-018 FOD Prevention
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

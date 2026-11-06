@@ -2,16 +2,18 @@
 | --- | --- |
 | Document No. | QF-030 |
 | Title | Calibration Schedule |
-| Revision | B |
-| Effective Date | 2026-11-05 |
-| Prepared By | Shop Owner |
+| Revision | C |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
 | Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QF-030 Calibration Schedule
 
-**Updated:** 2026-11-05. Schedule synchronized with QF-028. All 22 entries are calibrated in-house; last calibration 2026-11-01, interval 12 months, next due 2027-11-01.
+**Last Updated:** 2026-08-10. Schedule synchronized with QF-028. All 22 entries are calibrated in-house; last calibration 2026-11-01, interval 12 months, next due 2027-11-01.
 
 ## Schedule derived from QF-028
 
@@ -59,5 +61,6 @@ Monthly review date / reviewer / actions: ______
 | A | 2026-08-07 | Initial example calendar | Shop Owner (historical) |
 | B | 2026-11-05 | Synchronize 22 QF-028 entries, in-house calibration and annual recall; Class ZZ minus pins in 0.001 in increments; approved release | Jacob Honick, Owner |
 
+## Revision C Approval
 
-
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | WI-009 |
 | Title | Packaging and Shipping |
-| Revision | A |
-| Effective Date | 2026-08-06 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -30,8 +31,8 @@ Applies to all completed parts that have passed final inspection (WI-006) and ar
 - Protective wrapping: VCI (Vapor Corrosion Inhibitor) paper, VCI poly bags, or oil coating (per material type)
 - Packaging materials: bubble wrap, foam inserts, corrugated boxes, dividers
 - Shipping labels and packing list forms
-- QF-010 Shipping Record (blank)
-- Certificate of Conformance template (C of C)
+- QF-004 Job Traveler — Shipment Record (blank)
+- QF-010 Certificate of Conformance (C of C)
 - Completed QF-006 Final Inspection Report (copy for documentation package)
 - Material certifications (copies to include if required by PO)
 - Tape, strapping, zip ties (for securing packages)
@@ -108,7 +109,7 @@ Applies to all completed parts that have passed final inspection (WI-006) and ar
 
 ### Shipping Record and Handoff
 
-15. Complete QF-010 Shipping Record with: date, customer, PO number, part number, quantity, carrier, tracking number.
+15. Complete QF-004 Job Traveler — Shipment Record with: date, customer, PO number, part number, quantity, carrier, tracking number.
 16. Retain copies of all documentation (C of C, inspection reports, certs) in the job folder.
 17. Arrange carrier pickup or deliver to shipping location. Obtain carrier receipt or tracking confirmation.
 18. Notify the customer that the shipment is in transit (email tracking number if applicable).
@@ -120,7 +121,7 @@ Applies to all completed parts that have passed final inspection (WI-006) and ar
 - Packaging prevents part damage and movement during transit
 - All required documentation present and accurate
 - Labels correct (address, part number, PO, quantity)
-- Shipping record (QF-010) completed
+- Shipment record on the job traveler (QF-004) completed
 
 ## 7. Nonconformance Response
 
@@ -137,14 +138,15 @@ If an issue is discovered during packaging or shipping preparation:
 3. If packaging is inadequate and parts are at risk of transit damage:
    - Re-package with appropriate protection before shipping.
    - If unsure about customer packaging requirements, contact customer for guidance.
-4. Record any shipping issues or delays on QF-010.
+4. Record any shipping issues or delays on QF-004 Job Traveler and the job communication record.
 
 ## 8. References
 
-- QP-020 — Packaging, Preservation, and Delivery
+- QP-020 — Handling, Storage, Packaging and Shipping
+- QF-010 — Certificate of Conformance
 - QP-008 — Nonconforming Product Control
 - QF-006 — Final Inspection Report
-- QF-010 — Shipping Record
+- QF-004 — Job Traveler — Shipment Record
 - QF-011 — Nonconforming Material Report
 - WI-006 — Final Part Inspection
 
@@ -153,3 +155,7 @@ If an issue is discovered during packaging or shipping preparation:
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-06 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Use the job traveler for shipment records and QF-010 only for the Certificate of Conformance.

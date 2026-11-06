@@ -1,99 +1,54 @@
-# QMS Recurring Task Tracker
-
-**Owner:** Jacob Honick  
-**Last reviewed:** ___________  
-**Purpose:** Single-view planner, tracker, and log for all recurring QMS obligations. Use this to ensure nothing falls through the cracks.
-
----
-
-## Daily
-
-| Task | Form | Procedure | Last Completed | Notes |
-|------|------|-----------|----------------|-------|
-| FOD/Housekeeping checklist | QF-026 | QP-018 §6 | ___ / ___ / ___ | Start of each work day |
+| Field | Value |
+| --- | --- |
+| Document No. | REG-005 |
+| Title | QMS Recurring Tasks |
+| Revision | A |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
-## Per Calibration Event (driven by QF-030 schedule)
+# QMS Recurring Tasks
 
-| Task | Form | Procedure | Last Completed | Next Due | Notes |
-|------|------|-----------|----------------|----------|-------|
-| Record calibration results | QF-020 | QP-010 §6.7 | ___ / ___ / ___ | ___ / ___ / ___ | Log as each instrument returns from lab |
+**Owner:** Jacob Honick
 
----
+**Last Updated:** 2026-08-10
 
-## Monthly
+Use this planner to record actual completion; blank rows do not assert that an activity has been performed. The owner performs all shop roles. Document reviews are annual; operational checks follow the frequencies below.
 
-| Task | Form | Procedure | Last Completed | Next Due | Notes |
-|------|------|-----------|----------------|----------|-------|
-| Preventive Maintenance | QF-021 | QP-019 | ___ / ___ / ___ | ___ / ___ / ___ | All 3 machines + air compressor |
-| Review calibration schedule | QF-030 | QP-010 §6.5 | ___ / ___ / ___ | ___ / ___ / ___ | Send instruments 2 weeks before due |
-
----
-
-## Quarterly
-
-| Task | Form | Procedure | Last Completed | Next Due | Notes |
-|------|------|-----------|----------------|----------|-------|
-| Risk Register review | QF-023 | QP-014 §6.5 | ___ / ___ / ___ | ___ / ___ / ___ | Review all risks, update ratings, add new |
-| Drawing Register review | Drawing Register | QP-015 §6 (Periodic Review) | ___ / ___ / ___ | ___ / ___ / ___ | Confirm no obsolete drawings on floor |
-| Configuration status review | — | QP-015 | ___ / ___ / ___ | ___ / ___ / ___ | Quarterly per procedure |
-
----
-
-## Semi-Annually
-
-| Task | Form | Procedure | Last Completed | Next Due | Notes |
-|------|------|-----------|----------------|----------|-------|
-| Management Review | QF-015 | QP-012 | ___ / ___ / ___ | ___ / ___ / ___ | All 9.3.2 inputs required. Block 2+ hours. |
-
----
-
-## Annually
-
-| Task | Form | Procedure | Last Completed | Next Due | Notes |
-|------|------|-----------|----------------|----------|-------|
-| Internal Audit (contracted) | QF-013, QF-014 | QP-011 | ___ / ___ / ___ | ___ / ___ / ___ | Must use independent external auditor |
-| Supplier re-evaluation | QF-017, QF-018 | QP-003 §6 | ___ / ___ / ___ | ___ / ___ / ___ | All active suppliers on ASL |
-| Training Matrix review | QF-036 | QP-013 | ___ / ___ / ___ | ___ / ___ / ___ | Update competencies, identify gaps |
-| Quality Objectives review | QF-037 | QM-003, QP-012 | ___ / ___ / ___ | ___ / ___ / ___ | Are targets still relevant? Met? Raise the bar? |
-| Context Analysis update | QF-032 | QM-001 §2.1 | ___ / ___ / ___ | ___ / ___ / ___ | Review internal/external issues |
-| Approved Supplier List review | QF-019 | QP-003 §6 | ___ / ___ / ___ | ___ / ___ / ___ | Verify certifications current |
-| FOD awareness refresher | QF-016 | QP-018 §6 (FOD Awareness) | ___ / ___ / ___ | ___ / ___ / ___ | Document on training record |
-| Calibration interval review | QF-030 | QP-010 §6.2 | ___ / ___ / ___ | ___ / ___ / ___ | Adjust intervals based on OOT history |
-
----
-
-## As-Needed (but track completion)
-
-| Task | Form | Trigger | Last Completed | Notes |
-|------|------|---------|----------------|-------|
-| Training record entry | QF-016 | Any training event | ___ / ___ / ___ | Include: topic, method, evidence |
-| Improvement Log update | QF-038 | Improvement identified or mgmt review | ___ / ___ / ___ | Continuous improvement evidence |
-| PDF export review | — | Approved Markdown revision selected for customer review | ___ / ___ / ___ | Use `convert_md_to_pdf.py` only when export is requested; review layout before issue |
-| Master Document List update | MDL | Document added/revised/retired | ___ / ___ / ___ | Keep in sync with actual files |
-
----
+| Frequency / Trigger | Task | Record / Reference | Last Completed | Next Due / Notes |
+|---|---|---|---|---|
+| Each production day | FOD / housekeeping check | QF-026; QP-018 | | |
+| Before machine use | Check actual machine condition and applicable maintenance | QF-021; QF-027; QP-019 | | |
+| Monthly while machines are in use / scheduled interval | Review and complete applicable maintenance for the three listed machines | QF-021; QF-027; QP-019 | | |
+| Before measurement / monthly schedule review | Confirm instrument status and upcoming calibration | QF-028; QF-030; QP-010 | | |
+| Each calibration event | Record in-house check, or external service when required, and update recall | QF-020; QF-030; QP-010 | | |
+| Weekly and whenever documents, records or programs are added/changed | Back up electronic records to external hard drive | QP-001; SUP-003; REG-004 | | |
+| Monthly / quarterly per objective | Collect actual KPI data and summarize quarterly | QM-003; QF-037 | | |
+| Each quarter with customer work; at least annually otherwise | Owner management review of actual performance and actions | QF-015; QP-012 | | |
+| Quarterly | Risk and configuration status review | QF-023; REG-003; QP-014; QP-015 | | |
+| Annually | Owner QMS self-check; no independent AS9100 audit is implied | QF-013; QF-014; QF-038; QP-011 | | |
+| Annually | Test retrieval from backup and record result | QP-001; SUP-003 | | |
+| Annually and when requirements change | Review active supplier approvals, scope and performance | QF-017; QF-018; QF-019; QP-003 | | |
+| Annually and when scope changes | Owner competence, awareness and training review | QF-016; QF-036; QP-013 | | |
+| Annually | Review controlled documents, objectives, context and retention | REG-001; QM-003; QF-032; SUP-003 | | |
+| Annually / customer requirements | Review calibration intervals; current default is 12 months | QF-030; QP-010 | | |
+| On change / event | Update master list, job records, training or improvement actions | REG-001; QF-016; QF-038 | | |
 
 ## Completion Log
 
-Record each completed periodic task here for audit evidence:
-
-| Date | Task | Form # Used | Outcome / Notes | Initials |
-|------|------|-------------|-----------------|----------|
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| Date | Task | Record / Reference | Result / Action | Owner Initials |
+|---|---|---|---|---|
 | | | | | |
 | | | | | |
 | | | | | |
 | | | | | |
 
----
+Retain this log under QP-001 and SUP-003. Record only actual completion dates. PDF exports are performed only when requested and reviewed before customer issue; they are not a recurring production obligation.
 
-## Audit Tip
+## Revision A Approval
 
-An auditor will ask: "How do you ensure recurring tasks are completed on time?" This document IS your answer. Keep it current — fill in dates as tasks are completed, and review the "Next Due" columns weekly.
+Approved 2026-11-05 by Jacob Honick, Owner. Control the owner’s recurring-task tracker and align current inspection, review, calibration and backup obligations.

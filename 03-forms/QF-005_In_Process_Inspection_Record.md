@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-005 |
 | Title | In-Process Inspection Record |
-| Revision | A |
-| Effective Date | 2026-08-06 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -55,6 +56,10 @@
 
 ---
 
-**Instructions:** Complete during or immediately after machining operation. Record all critical characteristics per inspection plan. If any measurement is out of tolerance, stop production and disposition per QP-008. Attach to job traveler.
+**Instructions:** Complete during or immediately after machining operation. Record full inspection of all applicable characteristics on every part by default; a different extent must be specified or approved in writing by the customer and referenced in the job plan. If any measurement is out of tolerance, stop production and disposition per QP-008. Attach to job traveler.
 
-**References:** QP-006 Inspection and Testing, QP-008 Nonconforming Product Control
+**References:** QP-006 In-Process Inspection, QP-008 Nonconforming Product Control
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

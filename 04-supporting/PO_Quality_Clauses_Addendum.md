@@ -1,22 +1,26 @@
-﻿# Purchase Order Quality Clauses Addendum
-
 | Field | Value |
-|-------|-------|
+| --- | --- |
 | Document No. | SUP-001 |
 | Title | Purchase Order Quality Clauses Addendum |
-| Revision | A |
+| Revision | B |
 | Effective Date | 2026-08-10 |
-| Prepared By | Jacob Honick |
-| Approved By | Jacob Honick |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
+
+---
+
+# Purchase Order Quality Clauses Addendum
 
 ## Purpose
 
-This addendum is attached to all purchase orders issued by Torchworx LLC. By accepting the purchase order, the supplier agrees to comply with all clauses listed below. These clauses apply to the supplier and shall be flowed down to all sub-tier suppliers providing product or services related to the order.
+Use this addendum when applicable to the purchase. The purchase order identifies the numbered clauses that apply, including every customer-required flowdown. Acceptance of the order includes its selected clauses. Applicable requirements also flow to relevant sub-tier suppliers; unrelated tooling and general purchases do not automatically receive every clause.
 
 ## Quality Clauses
 
 ### Clause 1: Compliance with Specifications
-Supplier shall comply with all specifications, drawings, standards, and other technical requirements referenced on or attached to the purchase order. The latest revision applies unless a specific revision is stated. Supplier shall not make substitutions without prior written approval.
+Supplier shall comply with all specifications, drawings, standards, and other technical requirements referenced on or attached to the purchase order. The purchase order shall identify the applicable revision; resolve an unspecified revision with the owner before work begins. Supplier shall not make substitutions without prior written approval.
 
 ### Clause 2: Right of Access
 Right of access is granted to Torchworx LLC, its customers, and regulatory authorities (including FAA, EASA, DCMA, and customer representatives) to all facilities, records, and personnel involved in the order. This includes the supplier's premises and any sub-tier supplier locations.
@@ -28,7 +32,7 @@ Supplier shall notify Torchworx LLC within 24 hours of discovery of any nonconfo
 Supplier shall retain all quality records related to this order for a minimum of 10 years or life-of-program, whichever is longer. Records include but are not limited to: inspection reports, material certifications, test results, traceability records, and process records.
 
 ### Clause 5: Counterfeit Parts Prevention
-Supplier shall maintain controls to prevent the use and introduction of counterfeit parts and materials in accordance with AS6174 and AS6081. Supplier shall only source from OCMs, authorized distributors, or sources approved by Torchworx LLC. Suspect or confirmed counterfeit parts shall be quarantined and reported to Torchworx LLC within 24 hours.
+Supplier shall maintain controls to prevent the use and introduction of counterfeit parts and materials using suitable controls; AS6174, AS6081 or other standards apply when specified by the order. Supplier shall only source from OCMs, authorized distributors, or sources approved within the applicable customer requirements and authorized by Torchworx LLC under QP-003. Suspect or confirmed counterfeit parts shall be quarantined and reported to Torchworx LLC within 24 hours.
 
 ### Clause 6: Flow-Down to Sub-Tier Suppliers
 All applicable requirements of this purchase order, including these quality clauses, applicable customer requirements, and regulatory requirements, shall be flowed down to sub-tier suppliers. Supplier retains full responsibility for sub-tier compliance.
@@ -47,7 +51,7 @@ Where applicable, supplier shall comply with DFARS 252.225-7009 (Restriction on 
 
 ## Applicability
 
-These clauses apply to all purchase orders unless specifically excluded in writing on the individual order. Additional clauses may be specified on the purchase order as required by specific customer contracts or regulatory requirements.
+Only the clauses identified as applicable on the individual purchase order apply. The owner ensures that customer-required clauses are included. Additional clauses may be specified on the purchase order as required by specific customer contracts or regulatory requirements.
 
 ## Supplier Acknowledgment
 
@@ -56,3 +60,7 @@ Acceptance of the purchase order constitutes acceptance of all quality clauses c
 ---
 
 *Reference: QP-003 Purchasing and Supplier Management*
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

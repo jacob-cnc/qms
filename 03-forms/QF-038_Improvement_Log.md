@@ -1,16 +1,19 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-038 |
 | Title | Improvement Log |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # Improvement Log
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 **Year:** ________ **Maintained By:** _____________________
 
@@ -48,4 +51,8 @@
 
 **Instructions:** Log all continual improvement actions identified from any source. This log is a required input to management review per AS9100D clause 10.3. Quantify benefits where possible (time saved, defects reduced, cost avoided). Review open items quarterly and update status. Close items when completed and benefit is confirmed.
 
-**References:** QP-014 Management Review, QP-009 Corrective Action
+**References:** QP-012 Management Review, QP-009 Corrective Action
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

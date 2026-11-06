@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-033 |
 | Title | Out-of-Tolerance Impact Assessment |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -84,4 +85,8 @@ Date notified: _____ Customer contact: ___________
 
 **Instructions:** Complete this assessment whenever a measurement instrument is found out of tolerance during calibration. Determine the affected period and evaluate all product measured during that time. Follow QP-010 Section 6 for OOT handling procedures. Initiate CAR if nonconforming product may have been shipped.
 
-**References:** QP-010 Calibration Control, QF-028 Measurement Equipment List
+**References:** QP-010 Calibration and Measurement Control, QF-028 Measurement Equipment List
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

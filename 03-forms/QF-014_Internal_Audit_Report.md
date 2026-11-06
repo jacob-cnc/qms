@@ -1,20 +1,27 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-014 |
 | Title | Internal Audit Report |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
-# QF-014 Internal Audit Report
+# QF-014 Internal Audit Report — Owner QMS Self-Check
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
+
+Default use is the owner self-check under QP-011. It is not independent and is not an AS9100 compliance assessment. Record actual criteria and evidence; identify a separately arranged external assessment explicitly when applicable.
 
 **Audit Date(s):** _____ to _____ (YYYY-MM-DD)
 
-**Auditor Name:** ___________ **Qualifications:** ___________
+**Owner / Assessor:** ___________ **Assessment type:** ☐ Owner self-check ☐ Customer-required external assessment
+
+**External assessor qualifications (only when applicable):** ___________
 
 **Audit Scope (clauses/processes covered):**
 
@@ -85,6 +92,10 @@ ___________________________________________________________________________
 
 ---
 
-**Instructions:** Complete this report following each internal audit. Attach QF-013 checklist as evidence. Issue CARs for major findings. Track minor findings to closure within 30 days. File in audit records.
+**Instructions:** Use this report when documenting the annual owner self-check or a separately arranged assessment under QP-011. Attach QF-013 checklist as evidence. Issue CARs for major findings. Track minor findings to closure within 30 days. File in audit records.
 
-**References:** QP-012 Internal Audit Procedure, QF-013 Internal Audit Checklist
+**References:** QP-011 Internal Audit, QF-013 Internal Audit Checklist
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

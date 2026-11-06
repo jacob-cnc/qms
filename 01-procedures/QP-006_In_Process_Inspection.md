@@ -1,16 +1,19 @@
 | Field | Value |
-|-------|-------|
+| --- | --- |
 | Document No. | QP-006 |
 | Title | In-Process Inspection |
-| Revision | B — draft, pending owner release |
-| Effective Date | - |
-| Prepared By | Shop Owner |
-| Approved By | - |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QP-006 In-Process Inspection
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
@@ -57,9 +60,9 @@ Applies to all in-process inspection activities including first piece inspection
 ### In-Process Checkpoints
 
 6. During production runs, perform dimensional checks at intervals appropriate to the operation:
-   - Minimum: first piece, mid-run (for batches greater than 10 pieces), and last piece.
-   - For tight tolerances (less than 0.001" total tolerance): check every 3-5 pieces.
-   - After any tool change or offset adjustment: re-verify the next piece.
+   - Default: inspect every part for all characteristics produced at that operation.
+   - Use a different inspection extent only when specified by the customer or expressly accepted by the customer in writing; record the requirement and plan on the traveler.
+   - After any tool change or offset adjustment: re-verify the next piece before continuing.
 7. Record checkpoint measurements on QF-005.
 
 ### Inspection Hold Points
@@ -74,7 +77,7 @@ Applies to all in-process inspection activities including first piece inspection
 ### Statistical Process Control
 
 10. When batch sizes exceed 25 pieces and customer or internal requirements specify SPC:
-    - Measure the critical characteristic(s) on each piece (or per sampling plan).
+    - Measure the specified characteristic(s) on each piece unless the customer specifies or approves a different plan in writing. SPC does not replace full acceptance inspection by default.
     - Plot data on X-bar/R chart or individual/moving range chart as appropriate.
     - Investigate any out-of-control condition (point beyond control limits, run of 7, trend of 7).
 11. SPC data is recorded on QF-005 or an attached data sheet referenced by the QF-005 number.
@@ -106,5 +109,6 @@ Applies to all in-process inspection activities including first piece inspection
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
 
-Revision B draft, prepared 2026-11-05: correct calibration procedure references to QP-010. Owner approval/effective date pending.
+## Revision B Approval
 
+Approved 2026-11-05 by Jacob Honick, Owner. Release approved Rev B; correct references and make full inspection the default unless the customer specifies or approves an alternative.

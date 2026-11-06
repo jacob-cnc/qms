@@ -1,12 +1,13 @@
 | Field | Value |
-|-------|-------|
+| --- | --- |
 | Document No. | QF-011 |
 | Title | Nonconforming Material Report |
-| Revision | A |
-| Effective Date | 2026-08-06 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -134,3 +135,7 @@ ___________________________________________________________________________
 **Instructions:** Complete this form whenever nonconforming product is identified at any stage. Follow QP-008 Nonconforming Product Control for disposition authority, customer notification triggers, and corrective action escalation criteria. File completed NCR in the job folder and log in NCR/CAR Log.
 
 **References:** QP-008 Nonconforming Product Control
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

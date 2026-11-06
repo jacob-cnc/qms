@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-004 |
 | Title | Job Traveler / Route Sheet |
-| Revision | A |
-| Effective Date | 2026-08-06 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -102,10 +103,20 @@
 
 **Ship Date:** _____ **Packing Slip Number:** ___________
 
+**Carrier:** ___________ **Tracking / Handoff Reference:** ___________
+
+**Quantity Shipped:** _____ **Customer PO:** ___________
+
+**Shipment Notes:** ___________
+
 **Released By:** _____________________ Date: ___________
 
 ---
 
-**Instructions:** This traveler accompanies the part through all operations. Each operator signs off their operation upon completion. Do not proceed to next operation without prior operation sign-off. File completed traveler in job folder.
+**Instructions:** This traveler accompanies the part through all operations. The owner performs and signs off each applicable operation upon completion. Unused operations are marked N/A; this form does not imply multiple operators. Do not proceed to next operation without prior operation sign-off. File completed traveler in job folder.
 
-**References:** QP-005 Production Control, WI-001 CNC Mill Setup, WI-002 CNC Lathe Setup
+**References:** QP-005 Production Planning and Control, WI-001 CNC Mill Setup, WI-002 CNC Lathe Setup
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

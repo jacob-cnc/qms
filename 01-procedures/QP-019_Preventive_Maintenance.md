@@ -1,87 +1,51 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QP-019 |
 | Title | Preventive Maintenance |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QP-019 Preventive Maintenance
 
-## 1. Purpose
+## 1. Purpose and Scope
 
-Define the preventive maintenance (PM) program for production equipment to ensure machines remain capable of producing conforming product and to minimize unplanned downtime.
+Keep the three production machines in QF-027 suitable for accepted work: CNC-MILL-001 (3040 Mach3 mill), CNC-LATHE-001 (CTMACH CQ6133 lathe) and MAN-MILL-001 (Grizzly G0704 manual mill), all at the single shop. Measurement equipment is controlled under QP-010.
 
-## 2. Scope
+## 2. Responsibility and Planning
 
-Applies to all production equipment including CNC mills, CNC lathes, manual mills, surface grinders, and inspection equipment that directly affects product quality.
+The owner performs condition checks, sets applicable maintenance tasks and intervals, records completed work and confirms capability before use. Use manufacturer information, machine condition, usage, job requirements and general industry practice to select suitable tasks. Do not assume automated features, accessories, special test equipment or outsourced service arrangements not confirmed by the owner.
 
-## 3. Responsibilities
+Before use, check cleanliness, lubrication needs, workholding/tool security and actual safeguards/controls. At least monthly while in use, review machine condition and applicable maintenance needs; perform scheduled tasks at the owner-established intervals recorded in QF-027 or linked QF-021 records. Job/customer requirements may require additional checks before production.
 
-| Role | Responsibility |
-|------|---------------|
-| Shop Owner | Establish PM schedule, perform or arrange maintenance activities, record all maintenance, assess product impact when unplanned maintenance reveals a machine condition that may have affected product |
+## 3. Maintenance and Verification
 
-## 4. References
+1. Select tasks appropriate to the actual machine, such as cleaning, lubrication, wear/looseness checks and condition of fitted components. Identify the machine and applicable items on QF-021; mark unused checklist items N/A.
+2. Establish accuracy/alignment checks suited to the actual job and available owner-confirmed methods. This procedure does not prescribe a ballbar service or automatic-turret verification.
+3. Stop use when a condition could affect safety or conformity. Correct it and verify suitable operation before returning to production, including full first-piece verification when the condition could affect product.
+4. Record date, work performed, findings, action, owner initials, machine status and next maintenance due date/interval on QF-021 or its linked record.
+5. Assess potentially affected product when a fault or maintenance finding could have affected previous work. Hold it and inspect every affected part for relevant characteristics by default; use a different extent only if specified or approved by the customer in writing. Apply QP-008 and customer notification where needed.
 
-- QF-021 — Preventive Maintenance Record
-- QF-027 — Equipment List
-- QP-004 — Calibration Control
-- QP-008 — Nonconforming Product Control
-- AS9100 Rev D Clause 7.1.3 (Infrastructure)
+## 4. Records and References
 
-## 5. Definitions
+Retain maintenance and product-impact records under QP-001 and SUP-003; apply the longest required retention period.
 
-- **Preventive Maintenance (PM):** Scheduled maintenance activities performed at defined intervals to prevent equipment failure and maintain capability.
-- **Unplanned Maintenance:** Corrective action performed on equipment due to breakdown, abnormal operation, or condition discovered during use.
-- **Accuracy Verification:** Periodic check of machine positioning accuracy and repeatability (e.g., ballbar test, indicator sweep of spindle runout).
+- QF-021 Preventive Maintenance Record; QF-027 Equipment List
+- QP-001 Document Control; QP-006 In-Process Inspection; QP-008 Nonconforming Product Control; QP-010 Calibration and Measurement Control
+- WI-005 First Piece Inspection; SUP-003 Record Retention Schedule
+- AS9100 clause 7.1.3, for guidance only
 
-## 6. Procedure
-
-### PM Scheduling
-
-1. Maintain the Equipment List (QF-027) identifying all production machines, their PM intervals, and scheduled activities.
-2. PM intervals per machine type:
-   - **CNC Mill:** Lubrication check (weekly), coolant concentration (weekly), way covers/bellows inspection (monthly), spindle runout check (quarterly), ballbar or equivalent accuracy verification (annually).
-   - **CNC Lathe:** Lubrication check (weekly), chuck jaw condition (monthly), tailstock alignment (quarterly), turret repeatability check (semi-annually), ballbar or equivalent accuracy verification (annually).
-   - **Manual Mill:** Lubrication (weekly), gibs and backlash check (monthly), spindle bearing condition (semi-annually).
-3. Record scheduled PM activities on QF-021 when completed, including date, activity performed, findings, and any corrective action taken.
-
-### Accuracy Verification
-
-4. Perform accuracy verification per the intervals in Step 2. Record results on QF-021.
-5. If accuracy verification reveals degradation beyond machine specification, take the machine out of production until corrected and re-verified.
-6. Perform a look-back on product produced since the last passing verification to assess potential nonconformance. Initiate QP-008 if product may be affected.
-
-### Unplanned Maintenance
-
-7. When a machine fails or operates abnormally during production:
-   - Stop production on that machine.
-   - Record the failure/condition on QF-021 (date, symptom, corrective action taken).
-   - Before returning the machine to production, verify it produces conforming product (first-piece inspection at minimum).
-8. Assess whether the condition could have affected previously produced parts (look-back). Document the assessment on QF-021.
-
-### Impact Assessment on Product
-
-9. If maintenance (planned or unplanned) reveals a condition that could have produced nonconforming product:
-   - Identify the time window during which the condition may have existed.
-   - Identify all parts produced on that machine during that window.
-   - Inspect representative samples or all parts if feasible.
-   - Initiate NCR per QP-008 for any confirmed nonconformances.
-
-## 7. Records Generated
-
-| Form No. | Title | When Completed |
-|----------|-------|----------------|
-| QF-021 | Preventive Maintenance Record | At completion of each PM activity or unplanned maintenance |
-| QF-027 | Equipment List | Maintained as living document; updated when equipment is added/removed |
-
-## 8. Revision History
+## 5. Revision History
 
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Use owner-confirmed machine-specific maintenance; remove unconfirmed automated features and prescribed specialist tests.

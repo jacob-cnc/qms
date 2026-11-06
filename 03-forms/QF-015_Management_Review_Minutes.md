@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-015 |
 | Title | Management Review Minutes |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -36,7 +37,7 @@
 
 ___________________________________________________________________________
 
-**Internal changes (equipment, personnel, processes, facilities):**
+**Internal changes (equipment, owner capacity, processes, facility):**
 
 ___________________________________________________________________________
 
@@ -157,6 +158,10 @@ ___________________________________________________________________________
 
 ---
 
-**Instructions:** Complete annually (minimum) per QP-013. Address ALL required inputs per AS9100 9.3.2. Record decisions with assigned owners and due dates. File in management review records.
+**Instructions:** Complete at least each quarter with customer work, and at least annually when no customer work is performed, per QP-012. Address applicable inputs and mark unexercised or inapplicable activities accordingly; AS9100 clause labels are guidance only. Record decisions with assigned owners and due dates. File in management review records.
 
-**References:** QP-013 Management Review Procedure
+**References:** QP-012 Management Review
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

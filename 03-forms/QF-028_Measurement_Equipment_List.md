@@ -2,16 +2,18 @@
 | --- | --- |
 | Document No. | QF-028 |
 | Title | Measurement Equipment List |
-| Revision | B |
-| Effective Date | 2026-11-05 |
-| Prepared By | Shop Owner |
+| Revision | C |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
 | Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QF-028 Measurement Equipment List
 
-**Updated:** 2026-11-05
+**Last Updated:** 2026-08-10
 **Inventory:** 22 instruments and sets
 **Calibration:** In-house; last calibrated 2026-11-01; interval 12 months; next due 2027-11-01.
 
@@ -112,5 +114,6 @@ Maintain equipment identification, specifications and set-member records as info
 | A | 2026-08-07 | Initial example template | Shop Owner (historical) |
 | B | 2026-11-05 | Actual equipment inventory, grouped IDs, in-house calibration, annual recall and Class ZZ minus pins in 0.001 in increments; approved release | Jacob Honick, Owner |
 
+## Revision C Approval
 
-
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

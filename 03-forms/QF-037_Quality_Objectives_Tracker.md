@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-037 |
 | Title | Quality Objectives Tracker |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -22,8 +23,8 @@
 |-----------|--------|:---------:|:-------:|:---------:|:-------:|:---------:|:-------:|:---------:|:-------:|:------:|
 | On-Time Delivery (OTD) | >= 95% | | ☐ | | ☐ | | ☐ | | ☐ | |
 | First-Pass Yield | >= 98% | | ☐ | | ☐ | | ☐ | | ☐ | |
-| Customer Complaints | <= 2/year | | ☐ | | ☐ | | ☐ | | ☐ | |
-| CAR Closure (on-time) | 100% | | ☐ | | ☐ | | ☐ | | ☐ | |
+| Customer Complaints | < 2 per quarter | | ☐ | | ☐ | | ☐ | | ☐ | |
+| CAR Closure (average days) | <= 30 calendar days | | ☐ | | ☐ | | ☐ | | ☐ | |
 | Calibration Compliance | 100% | | ☐ | | ☐ | | ☐ | | ☐ | |
 | Supplier Quality (accept rate) | >= 98% | | ☐ | | ☐ | | ☐ | | ☐ | |
 
@@ -48,6 +49,10 @@
 
 ---
 
-**Instructions:** Update quarterly with actual performance data. Compare against targets and prior year trends. Objectives that miss target require action plans documented in the Actions column. This tracker is a required input to management review per QP-014. KPIs are defined in QM-003 Quality Policy and Objectives.
+**Instructions:** Collect monthly or quarterly data as specified in QM-003 and summarize each quarter using the same KPI definitions. Calculate quarterly percentage KPIs from total counts for the period, rather than averaging monthly percentages. CAR closure is average days from initiation to verified closure; the Annual column is a year-end summary, not a different target. Compare against targets and prior year trends. Objectives that miss target require action plans documented in the Actions column. This tracker is a required input to management review per QP-012. KPIs are defined in QM-003 Quality Objectives.
 
-**References:** QM-003 Quality Policy and Objectives, QP-014 Management Review
+**References:** QM-003 Quality Objectives, QP-012 Management Review
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Align complaint and corrective-action targets and KPI definitions with QM-003.

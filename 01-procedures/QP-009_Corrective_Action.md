@@ -1,16 +1,19 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QP-009 |
 | Title | Corrective Action |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QP-009 Corrective Action
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
@@ -25,7 +28,7 @@ Applies to all corrective actions initiated from internal nonconformances, custo
 | Role | Responsibility |
 |------|---------------|
 | Shop Owner | Initiate CARs, perform root cause analysis, implement corrective actions, verify effectiveness, close CARs, issue Supplier CARs (SCARs) |
-| Contracted Auditor | May identify findings that require corrective action during internal audits |
+| External Assessor (only when arranged) | May identify findings during an assessment required by the customer or selected by the owner |
 
 ## 4. References
 
@@ -78,7 +81,7 @@ Applies to all corrective actions initiated from internal nonconformances, custo
 
 ### 6.4a Similar Process/Product Review
 
-11a. Per AS9100D 10.2.1, determine if similar nonconformities exist, or could potentially occur, in other processes, products, or operations.
+11a. Using AS9100 clause 10.2.1 as guidance, determine if similar nonconformities exist, or could potentially occur, in other processes, products, or operations.
 11b. If the identified root cause could produce failures in similar processes (e.g., same tooling approach on different part numbers, same material from same supplier), extend the corrective action scope or initiate additional CARs for those areas.
 11c. Document the similar-process review and its conclusions on QF-012.
 
@@ -116,3 +119,7 @@ Applies to all corrective actions initiated from internal nonconformances, custo
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

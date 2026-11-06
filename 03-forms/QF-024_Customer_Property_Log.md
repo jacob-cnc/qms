@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-024 |
 | Title | Customer Property Log |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -57,6 +58,10 @@ Customer property includes any item provided by the customer for use in fulfilli
 
 ---
 
-**Instructions:** Log all customer property upon receipt. Inspect and record condition. Identify and store appropriately. Report any loss, damage, or unsuitability to customer immediately. Return property in same or agreed condition. Maintain records for minimum 7 years after return.
+**Instructions:** Log all customer property upon receipt. Inspect and record condition. Identify and store appropriately. Report any loss, damage, or unsuitability to customer immediately. Return property in same or agreed condition. Retain records under QP-001 and SUP-003 for at least ten years after the relevant last shipment or property return, whichever is later, and longer when another applicable requirement governs.
 
-**References:** QP-005 Production Control Procedure (Section: Customer Property)
+**References:** QP-021 Customer Property
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

@@ -1,15 +1,19 @@
 | Field | Value |
-|-------|-------|
+| --- | --- |
 | Document No. | QP-010 |
 | Title | Calibration and Measurement Control |
-| Revision | B — draft, pending owner release |
-| Effective Date | - |
-| Prepared By | Shop Owner |
-| Approved By | - |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QP-010 Calibration and Measurement Control
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
@@ -17,7 +21,7 @@ Define the process for managing measurement equipment to ensure equipment used t
 
 ## 2. Scope
 
-Applies to all measurement and test equipment used to verify product conformance, including micrometers, calipers, gauges, indicators, gauge blocks, and any CMM or optical measurement systems. This includes personally-owned measurement equipment when used for product acceptance decisions, and customer-furnished measurement equipment used in production.
+Applies to all measurement and test equipment used to verify product conformance, as identified in QF-028 Measurement Equipment List. No additional measurement capability is implied by this procedure. This includes personally-owned measurement equipment when used for product acceptance decisions, and customer-furnished measurement equipment used in production.
 
 ## 3. Responsibilities
 
@@ -37,7 +41,7 @@ Applies to all measurement and test equipment used to verify product conformance
 
 ## 5. Definitions
 
-- **Calibration:** Comparison of a measurement instrument against a known standard of higher accuracy, with adjustment if necessary, and documentation of results.
+- **Calibration:** An in-house comparison/check against a suitable known-good standard or reference, with adjustment when appropriate and a record of the check. Apply any additional customer-required method, certification or traceability requirements before use on that work.
 - **Calibration Interval:** The time period between scheduled calibrations for a specific instrument.
 - **Out-of-Tolerance (OOT):** Condition where an instrument is found to read outside its specified accuracy during calibration.
 - **Traceability:** A documented chain of calibrations linking a measurement to recognized standards, with associated measurement uncertainty. Required when specified by the customer or other applicable requirements; not claimed for a shop check without supporting evidence.
@@ -125,7 +129,8 @@ Maintain the following recall process:
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
-| B — draft | 2026-11-05 | Proposed general in-house calibration/verification using known-good standards and existing records; dedicated caliper form removed; customer requirements govern; approval pending | - |
+| B | 2026-11-05 | Approved general in-house calibration/verification using known-good standards and existing records; dedicated caliper form removed; customer requirements govern | Jacob Honick, Owner |
 
+## Revision B Approval
 
-
+Approved 2026-11-05 by Jacob Honick, Owner. Release approved Rev B; retain known-good in-house checks with customer-required calibration controls taking precedence.

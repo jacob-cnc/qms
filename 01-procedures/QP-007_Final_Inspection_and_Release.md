@@ -1,16 +1,19 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QP-007 |
 | Title | Final Inspection and Product Release |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QP-007 Final Inspection and Product Release
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
@@ -55,7 +58,7 @@ Applies to all finished parts and assemblies prior to shipment or delivery to th
 ### Final Dimensional Inspection
 
 2. Perform final inspection per WI-006 Final Part Inspection.
-3. Measure all drawing characteristics on the finished part. Record results on QF-006 Final Inspection Report.
+3. Default to full inspection: verify every drawing dimension, note and acceptance characteristic on every finished part. Use a different extent only when specified by the customer or approved by the customer in writing, with the requirement and plan recorded in the job file. Record results on QF-006 Final Inspection Report.
 4. Verify surface finish, thread gages, and visual requirements as applicable.
 5. Compare all measured values to drawing tolerances:
    - If all characteristics conform: proceed to documentation review.
@@ -111,3 +114,7 @@ Applies to all finished parts and assemblies prior to shipment or delivery to th
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

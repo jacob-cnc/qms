@@ -1,4 +1,17 @@
-﻿# CNC Program Log
+| Field | Value |
+| --- | --- |
+| Document No. | REG-004 |
+| Title | CNC Program Log |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
+
+---
+
+# CNC Program Log
 
 ## Instructions
 
@@ -46,7 +59,7 @@ This register tracks all CNC programs created for production use. Update when ne
 
 **Primary storage:** CNC machine controller memory or dedicated shop computer in `CNC_Programs/[Machine]/[Part Number]/` folder structure.
 
-**Backup location:** External USB drive or network backup, updated minimum monthly. Label backup media with date of last update.
+**Backup location:** External hard drive, updated weekly and whenever programs or records are added or changed under QP-001 and SUP-003. Test retrieval at least annually; record actual completion on REG-005.
 
 **Archive (superseded programs):** Move to `CNC_Programs/Archive/[Part Number]/` with original filename. Do not delete - may be needed for reference or if drawing reverts.
 
@@ -65,3 +78,7 @@ This register tracks all CNC programs created for production use. Update when ne
 ---
 
 *Reference: QP-015 Configuration Management, WI-004 CNC Program Verification*
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

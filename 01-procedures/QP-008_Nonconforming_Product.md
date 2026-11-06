@@ -1,16 +1,19 @@
 | Field | Value |
-|-------|-------|
+| --- | --- |
 | Document No. | QP-008 |
 | Title | Nonconforming Product Control |
-| Revision | A |
-| Effective Date | 2026-08-06 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QP-008 Nonconforming Product Control
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
@@ -24,8 +27,8 @@ Applies to all nonconforming material, in-process parts, and finished product di
 
 | Role | Responsibility |
 |------|---------------|
-| Shop Owner | Identify, document, segregate, and disposition all nonconforming product. Determine customer notification requirements. Authorize rework/repair disposition. |
-| Contracted Calibration Lab | Report out-of-tolerance conditions that may have produced nonconforming product |
+| Shop Owner | Identify, document, segregate, and disposition all nonconforming product. Determine customer notification requirements. Authorize rework to the original requirements; obtain prior written customer approval for repair or use-as-is. |
+| External calibration provider, only when used | Report relevant out-of-tolerance conditions for the service supplied; no current laboratory engagement is implied |
 
 ## 4. References
 
@@ -49,7 +52,7 @@ Applies to all nonconforming material, in-process parts, and finished product di
 ### Identification
 
 1. When a nonconformance is identified at any stage (receiving inspection, in-process, final inspection, or customer return), immediately stop work on the affected part(s).
-2. Mark the nonconforming part(s) with a red tag or red marker dot. Do not mix with conforming product.
+2. Attach a red **REJECTED** hang tag under WI-008, showing the owner’s QC initials, inspection date and part number. Do not use marker dots or mix rejected parts with conforming product. A yellow **HOLD** tag is permitted for material awaiting verification or documentation; it does not authorize acceptance or shipment.
 3. Move the nonconforming part(s) to the Quarantine Area.
 
 ### Documentation
@@ -67,7 +70,7 @@ Applies to all nonconforming material, in-process parts, and finished product di
    - **Rework:** Part can be brought into conformance by additional machining or processing within the original drawing requirements.
    - **Repair:** Part can be brought to usable condition but will not fully meet original drawing requirements. Requires customer approval before proceeding.
    - **Use-As-Is:** Part does not meet drawing requirements but is acceptable for the intended function. Requires customer approval (written) before release.
-   - **Scrap:** Part cannot be reworked or repaired. Mark with "SCRAP" in permanent marker. Dispose of to prevent reuse.
+   - **Scrap:** Part cannot be reworked or repaired. Keep the red REJECTED hang tag attached, record the scrap disposition on QF-011 and render the part unusable before disposal. Do not use marker identification.
    - **Return to Supplier:** Nonconformance is attributable to incoming material or outside processing. Initiate supplier notification and return per QP-003 Purchasing and Supplier Management.
 
 7. Record the selected disposition on QF-011. Sign and date as Disposition Authority.
@@ -114,3 +117,7 @@ Applies to all nonconforming material, in-process parts, and finished product di
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-06 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

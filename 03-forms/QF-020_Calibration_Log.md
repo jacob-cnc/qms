@@ -1,11 +1,13 @@
 | Field | Value |
-|-------|-------|
+| --- | --- |
 | Document No. | QF-020 |
 | Title | Calibration Log |
-| Revision | B |
-| Effective Date | 2026-11-05 |
-| Prepared By | Shop Owner |
+| Revision | C |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
 | Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -81,11 +83,10 @@ All 22 listed instruments and sets are calibrated in-house. Interval: 12 months.
 
 **Result Key:** In-Tol = Within tolerance, no adjustment | Adj-In-Tol = Adjusted and verified in tolerance | OOT = Out of tolerance
 
-**References:** QP-010 Calibration Procedure, QF-033 OOT Investigation (if applicable)
+**References:** QP-010 Calibration Procedure, QF-033 Out-of-Tolerance Impact Assessment (if applicable)
 
 Revision B approved and effective 2026-11-05 by Jacob Honick, Owner: record in-house calibration dated 2026-11-01, annual interval and next due 2027-11-01; approved presentation.
 
+## Revision C Approval
 
-
-
-
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

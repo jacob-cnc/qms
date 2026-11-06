@@ -2,10 +2,12 @@
 | --- | --- |
 | Document No. | WI-008 |
 | Title | Part Marking |
-| Revision | B |
-| Effective Date | 2026-11-05 |
-| Prepared By | Shop Owner |
+| Revision | C |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
 | Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -16,6 +18,8 @@
 Define the hang-tag method used by Torchworx LLC to identify parts and show inspection status without permanently marking the part.
 
 ## 2. Scope
+
+Incoming raw-stock identity and yellow HOLD material-control status are addressed in WI-007. Inspection-status tags remain green INSPECTED or red REJECTED. When raw stock has no assigned part number, WI-007 requires a dash in that field and a traceable material/lot reference; finished-part tags require the actual part number.
 
 Applies to parts identified and inspected by Torchworx LLC. The standard method is a hang tag attached to the individual part. A tag supplements the job traveler and inspection records; it does not replace material-lot, drawing-revision, serial-number or other traceability required for the job.
 
@@ -90,4 +94,6 @@ Where a customer requires additional identification, include the required inform
 | A | 2026-08-06 | Initial release | Shop Owner |
 | B | 2026-11-05 | Replace default permanent marking with attached green INSPECTED/red REJECTED hang tags, mandatory tag fields and customer-specific provisions; reconcile inspection and release status. Approved by owner instruction on 2026-11-05 | Jacob Honick, Owner |
 
+## Revision C Approval
 
+Approved 2026-11-05 by Jacob Honick, Owner. Retain green INSPECTED/red REJECTED hang tags and distinguish incoming material HOLD/identity controls.

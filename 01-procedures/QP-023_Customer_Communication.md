@@ -1,16 +1,19 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QP-023 |
 | Title | Customer Communication and Complaints |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
-# QP-023 Customer Communication and Complaints
+# QP-023 Customer Communication
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
@@ -69,7 +72,7 @@ Applies to all customer communications related to quality, delivery, product con
 
 ### Record Retention
 
-10. Retain customer complaint records (QF-022) and associated corrective actions for a minimum of 7 years or as specified by customer/contract, whichever is longer.
+10. Retain customer complaint records (QF-022) and associated corrective actions under QP-001 and SUP-003 for at least ten years after the relevant last shipment or record completion, applying the longest customer, contract, program or legal requirement.
 
 ## 5. Post-Delivery Activities
 
@@ -91,7 +94,7 @@ Applies to all customer communications related to quality, delivery, product con
 ### Record Retention After Delivery
 
 15. Retain manufacturing records (inspection data, material certs, process records, FAI) for the greater of:
-    - 7 years after delivery, OR
+    - 10 years after the relevant last delivery, OR
     - The period specified by customer contract/purchase order, OR
     - As required by applicable regulations
 16. Records subject to retention include: inspection reports, material certifications, NCRs/CARs, FAI packages, and traceability data.
@@ -107,3 +110,7 @@ Applies to all customer communications related to quality, delivery, product con
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

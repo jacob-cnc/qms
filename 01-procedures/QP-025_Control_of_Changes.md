@@ -1,16 +1,19 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QP-025 |
 | Title | Control of Changes |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QP-025 Control of Changes
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
@@ -55,7 +58,7 @@ Applies to all changes that could affect product conformity, including customer-
 
 ### Risk Assessment
 
-2. Initiate QF-029 Change Evaluation Record. Document:
+2. Initiate QF-029 Change Notification Form. Document:
    - Description of the proposed change
    - Reason/trigger for the change
    - Affected part numbers, operations, and specifications
@@ -78,14 +81,14 @@ Applies to all changes that could affect product conformity, including customer-
    - Drawing Register (per QP-015) for customer drawing revisions
    - CNC Program Log (per QP-015) for program changes
    - Process plans, routers, or work instructions as applicable
-9. Communicate the change to all personnel involved in the affected operations before production resumes.
+9. The owner reviews the change before resuming affected operations and communicates applicable requirements to the customer and customer-approved suppliers.
 
 ### Re-Validation / FAI Trigger Assessment
 
 10. Determine if the change triggers FAI per QP-022 criteria:
-    - Design change affecting form, fit, or function — FULL FAI
-    - Process change that could affect conformity — FAI or documented first-piece
-    - Supplier change for material or outside processing — verify material conformity at minimum
+    - Design change affecting form, fit, or function — full first-piece and acceptance inspection by default; formal FAI only when required by the customer under QP-022
+    - Process change that could affect conformity — documented full first-piece verification; formal FAI when required by the customer under QP-022
+    - Supplier change for material or outside processing — obtain required customer approval under QP-003 and verify all applicable material/process requirements
 11. Perform required re-validation before releasing production quantities.
 12. Record re-validation results on QF-029 (reference FAI number if applicable).
 
@@ -112,3 +115,7 @@ Applies to all changes that could affect product conformity, including customer-
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

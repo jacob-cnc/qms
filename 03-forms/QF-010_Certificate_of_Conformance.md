@@ -1,18 +1,18 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-010 |
 | Title | Certificate of Conformance |
-| Revision | A |
-| Effective Date | 2026-08-06 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # Certificate of Conformance
 
-**[Company Logo / Letterhead Placeholder]**
 
 **Torchworx LLC**
 1721 63rd ST SE, Everett, WA 98203 · 614-670-3079 · torchworxjacob@gmail.com
@@ -46,7 +46,7 @@
 
 ## Statement of Conformity
 
-We hereby certify that the items described above have been manufactured, inspected, and tested in accordance with the requirements of the referenced purchase order and drawing, and conform to all specified requirements.
+Torchworx LLC certifies that the items described above have been manufactured, inspected, and tested in accordance with the requirements of the referenced purchase order and drawing, and conform to all specified requirements.
 
 ---
 
@@ -86,6 +86,10 @@ We hereby certify that the items described above have been manufactured, inspect
 
 ---
 
-**Instructions:** Issue this certificate with every shipment. Attach supporting documentation as required by customer PO (material cert, inspection report, FAI if applicable). Retain copy in job folder per QP-009.
+**Instructions:** Issue this certificate with every shipment. Attach supporting documentation as required by customer PO (material cert, inspection report, FAI if applicable). Retain copy in job folder per QP-001.
 
-**References:** QP-006 Inspection and Testing, QP-009 Records Control
+**References:** QP-007 Final Inspection and Product Release, QP-001 Document Control
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

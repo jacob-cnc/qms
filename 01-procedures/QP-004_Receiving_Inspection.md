@@ -1,16 +1,19 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QP-004 |
 | Title | Receiving Inspection |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QP-004 Receiving Inspection
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
@@ -45,12 +48,12 @@ Applies to all incoming raw material, hardware, outside-processed parts (heat tr
 ### Receipt and Identification
 
 1. Upon receipt, compare the packing slip to the purchase order (QF-002) for correct part number, material specification, quantity, and revision.
-2. Verify the supplier is on the Approved Supplier List (QF-019). If not, quarantine the material and do not proceed until resolved.
-3. Assign a receiving number or lot identifier for traceability. Mark the material with the identifier.
+2. Verify the supplier is on QF-019 within the applicable customer-approved scope under QP-003. If not, hold the material and do not proceed until resolved.
+3. Assign a receiving number or lot identifier for traceability. Maintain the identifier on an attached material tag under WI-007; do not use direct marker identification.
 
 ### Documentation Review
 
-4. Verify the following documentation is present and complete per WI-007:
+4. Verify the documentation required by the actual order/customer is present and complete, following WI-007 for raw material. Apply the following as applicable:
    - Certificate of Conformance (C of C) from the supplier
    - Certified Material Test Report (CMTR) for raw material, showing chemical and mechanical properties meet the specification
    - Process certifications for outside processing (heat treat, plating, NDT reports)
@@ -61,7 +64,7 @@ Applies to all incoming raw material, hardware, outside-processed parts (heat tr
 
 6. Perform visual inspection for damage, contamination, corrosion, or incorrect packaging.
 7. Verify material identification markings match the CMTR and purchase order (heat number, alloy, size).
-8. For dimensioned items (bar stock, plate), verify at least one critical dimension (diameter, thickness) against the purchase order specification.
+8. Full receiving inspection is the default: verify every received piece for all applicable acceptance characteristics, including specified dimensions. A different extent requires a customer-specified or customer-approved written plan in the job record. Review lot-based material/process documentation for every applicable lot.
 9. For outside-processed parts, verify visual appearance is consistent with the process specification (color, coating uniformity, marking legibility).
 
 ### Counterfeit Detection
@@ -97,3 +100,7 @@ Applies to all incoming raw material, hardware, outside-processed parts (heat tr
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

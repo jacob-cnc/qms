@@ -1,16 +1,19 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QP-017 |
 | Title | Product Safety |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QP-017 Product Safety
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
@@ -46,7 +49,7 @@ Applies to all products manufactured or processed that have been identified as s
 
 1. At contract review/order entry, review customer drawings, purchase orders, and specifications for safety-critical designations (S-critical notes, inverted delta symbols, "Safety" callouts, or customer-specific notation).
 2. Flag identified safety-critical items on the Job Traveler and Work Order. Note the specific characteristic(s) designated as safety-critical.
-3. Communicate safety-critical status to all personnel involved in that job before production begins.
+3. The owner reviews safety-critical status before accepting and starting the job and communicates applicable requirements to the customer and customer-approved external suppliers. No additional shop personnel are implied.
 
 ### Awareness and Controls
 
@@ -67,7 +70,7 @@ Applies to all products manufactured or processed that have been identified as s
 ### Reporting Obligations
 
 10. If safety-critical nonconforming product has already been shipped, immediately notify the customer per QP-023.
-11. Retain all records related to safety-critical nonconformances for the life of the part or as specified by customer/contract, whichever is longer.
+11. Retain all records related to safety-critical nonconformances under QP-001 and SUP-003 for at least ten years after the relevant last shipment, the life of the part, or the customer/contract/legal requirement, whichever is longest.
 
 ## 7. Records Generated
 
@@ -81,3 +84,7 @@ Applies to all products manufactured or processed that have been identified as s
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

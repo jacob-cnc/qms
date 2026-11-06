@@ -1,118 +1,62 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QP-003 |
 | Title | Purchasing and Supplier Management |
-| Revision | B — draft, pending owner release |
-| Effective Date | - |
-| Prepared By | Shop Owner |
-| Approved By | - |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QP-003 Purchasing and Supplier Management
 
-## 1. Purpose
+## 1. Purpose and Scope
 
-Define the process for evaluating, approving, and monitoring suppliers, and for controlling purchasing activities to ensure externally provided products and services conform to requirements.
+Control suppliers and purchases that affect customer product. Torchworx LLC is an owner-operated, single-member LLC. Suppliers are external organizations, not shop employees.
 
-## 2. Scope
+## 2. Responsibility
 
-Applies to all external providers of material, special processes, calibration services, and subcontracted machining operations that affect product quality.
+The owner reviews supplier suitability, obtains required customer approval, issues purchase orders, checks deliveries and maintains the records.
 
-## 3. Responsibilities
+## 3. Supplier Approval
 
-| Role | Responsibility |
-|------|---------------|
-| Shop Owner | Evaluate and approve suppliers. Issue purchase orders with complete requirements. Monitor supplier performance. Initiate corrective actions for supplier nonconformances. |
-| Special Process Suppliers | Maintain NADCAP or customer-required certifications. Provide objective evidence of process conformance. |
-| Calibration Lab | Meet the applicable customer and QP-010 requirements. Provide accreditation, traceability and certificates where required. |
+Any supplier used for customer work requires explicit customer approval, either individually or by a certification type accepted by the customer, when applicable. Record the customer, approval basis, permitted scope and supporting approval reference on QF-017 and QF-019 before use. Approval for one customer or scope does not authorize use for another.
 
-## 4. References
+When approval is by certification type, verify that the supplier's current certification covers the required scope and satisfies the customer's stated criteria. Torchworx LLC does not impose a universal ISO 9001, AS9100, NADCAP or aerospace-experience requirement. Apply certification, accreditation and traceability requirements when specified by the customer or other applicable requirements. Calibration providers are controlled under QP-010.
 
-- QF-002 — Purchase Order
-- QF-017 — Supplier Evaluation Questionnaire
-- QF-018 — Supplier Scorecard
-- QF-019 — Approved Supplier List
-- QF-035 — Supplier Corrective Action Request
-- QP-004 — Receiving Inspection
-- QP-016 — Counterfeit Parts Prevention
-- AS9100 Rev D Clause 8.4
+The owner confirms capability for the specific purchase. Customer approval does not replace verification that the material or service meets the order.
 
-## 5. Definitions
+## 4. Purchasing and Flowdown
 
-- **Approved Supplier List (ASL):** The controlled list of suppliers authorized to provide material, processes, or services for production work.
-- **Critical Supplier:** A supplier whose product or service directly affects flight safety or whose failure would halt production (sole source, special process).
-- **Flow-Down:** The act of passing applicable customer and regulatory requirements to the supplier via purchase order clauses.
+1. Use QF-002 to identify the material or service, quantity, delivery needs and applicable drawing/specification revision.
+2. Identify applicable customer requirements, including inspection, certifications, traceability, record retention, right of access, special-process requirements and restrictions on sub-tier suppliers. Apply SUP-001 clauses only as identified on the purchase order.
+3. Provide only the customer data needed for the order, to suppliers approved by that customer. Follow customer restrictions on data, export controls and controlled information.
+4. Do not authorize substitutions, source changes or departures from customer requirements without the required written customer approval.
+5. Verify incoming products and services under QP-004. Control suspect or nonconforming items under QP-008 and QP-016.
 
-## 6. Procedure
+## 5. Monitoring and Records
 
-### Supplier Evaluation and Approval
+Review supplier approval scope and any required certification before use. Review active suppliers at least annually and when quality, delivery or approval changes warrant it. QF-018 may summarize actual delivery and quality history. Hold further use when suitability or customer approval cannot be established. Use QF-035 for corrective action when warranted.
 
-1. Before placing an initial order, evaluate the potential supplier using QF-017 Supplier Evaluation Questionnaire.
-2. Evaluate based on provider type:
-   - **Material suppliers:** Valid certifications (ISO 9001 minimum), ability to provide certified test reports, traceability capability.
-   - **Special process suppliers:** Verify NADCAP accreditation or customer approval for the specific process scope.
-   - **Calibration services:** Verify capability and any customer-required ISO/IEC 17025 accreditation for the required measurement parameters, per QP-010.
-   - **Subcontract machining:** Verify QMS certification, applicable equipment capability, and prior aerospace experience.
-3. Classify the supplier risk: Critical (sole source, flight-safety impact) or Standard.
-4. If evaluation is satisfactory, add the supplier to QF-019 Approved Supplier List with: name, scope of approval, approval date, method, certifications, risk classification, and next review date.
+Keep QF-017 approval evidence, QF-019 status, applicable purchase orders and receiving records. QF-034 is available when a supplier review or audit is required; it is not a mandatory annual supplier audit. Retain records under QP-001 and SUP-003.
 
-### Purchase Order Requirements
+## 6. References
 
-5. Issue purchase orders using QF-002. Every PO shall include:
-   - Part number, drawing number, and revision
-   - Material specification and grade (where applicable)
-   - Quantity and required delivery date
-   - Inspection and acceptance criteria
-   - Applicable quality clauses (flow-down of customer and regulatory requirements)
-   - Requirement for certificates of conformance and/or material test reports
-   - Right of access (customer or regulatory authority) when contractually required
-6. For special processes, specify the process specification, class/type, and NADCAP job audit requirements.
+- QF-002 Purchase Order; QF-017 Supplier Evaluation; QF-018 Supplier Scorecard; QF-019 Approved Supplier List
+- QF-034 Supplier Audit Checklist; QF-035 Supplier Corrective Action Request
+- QP-001 Document Control; QP-004 Receiving Inspection; QP-008 Nonconforming Product Control; QP-010 Calibration and Measurement Control; QP-016 Counterfeit Parts Prevention
+- SUP-001 Purchase Order Quality Clauses Addendum; SUP-003 Record Retention Schedule
+- AS9100 clause 8.4, for guidance only; no certification or compliance claim
 
-### Counterfeit Parts Prevention
-
-7. Purchase material only from approved suppliers on the ASL.
-8. Require full material traceability (heat lot, batch, manufacturer) on all metallic raw material.
-9. Do not purchase from brokers or unapproved distributors unless authorized OEM/mill traceability documentation is provided and verified.
-10. Report suspected counterfeit material per QP-016 Counterfeit Parts Prevention.
-11. For defense contracts subject to DFARS 252.246-7007, report confirmed or suspect counterfeit parts to the Government-Industry Data Exchange Program (GIDEP) and notify the customer and contracting officer per contract requirements.
-
-### Supplier Monitoring
-
-11. Maintain QF-018 Supplier Scorecard for each active supplier. Track:
-    - Quality performance (NCRs, receiving rejections)
-    - Delivery performance (on-time percentage)
-    - Responsiveness (turnaround on requests and corrective actions)
-    - Overall rating (acceptable / needs improvement / unacceptable)
-12. Review supplier performance annually (or more frequently for Critical suppliers).
-
-### Performance Thresholds and Actions
-
-13. If quality rating drops below 90% or delivery below 85%, issue QF-035 Supplier Corrective Action Request.
-14. If a supplier fails to respond to a SCAR within 30 days, or the same nonconformance recurs, change supplier status to Conditional.
-15. If Conditional status is not resolved within 90 days, suspend or remove the supplier from the ASL.
-
-### Re-Evaluation
-
-16. Re-evaluate all approved suppliers at a minimum of once per year.
-17. Re-evaluation considers scorecard data, certification currency, and any open corrective actions.
-18. Update QF-019 with new review date and any status changes.
-
-## 7. Records Generated
-
-| Form No. | Title | When Completed |
-|----------|-------|----------------|
-| QF-002 | Purchase Order | For every purchase of material, services, or subcontracted work |
-| QF-017 | Supplier Evaluation Questionnaire | For initial supplier evaluation |
-| QF-018 | Supplier Scorecard | Updated after each delivery or annually at minimum |
-| QF-019 | Approved Supplier List | Updated upon supplier approval, status change, or removal |
-| QF-035 | Supplier Corrective Action Request | When supplier performance thresholds are not met |
-
-## 8. Revision History
+## 7. Revision History
 
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
-Revision B draft, prepared 2026-11-05: align calibration sourcing and requirements with QP-010 and customer requirements. Owner release/effective date pending.
 
+## Revision B Approval
 
+Approved 2026-11-05 by Jacob Honick, Owner. Release approved Rev B; simplify supplier control to customer approval and applicable order requirements.

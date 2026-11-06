@@ -2,16 +2,18 @@
 | --- | --- |
 | Document No. | QF-027 |
 | Title | Equipment List |
-| Revision | B |
-| Effective Date | 2026-11-05 |
-| Prepared By | Shop Owner |
+| Revision | C |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
 | Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QF-027 Equipment List
 
-**Updated:** 2026-11-05
+**Last Updated:** 2026-08-10
 **Facility:** Torchworx LLC, 1721 63rd ST SE, Everett, WA 98203
 
 ## Production Equipment Register
@@ -61,4 +63,6 @@ Job requirements and actual equipment capability govern suitability for the work
 | A | 2026-08-07 | Initial example template | Shop Owner (historical) |
 | B | 2026-11-05 | Record actual 3040 Mach3 mill, CTMACH CQ6133 lathe and Grizzly G0704 manual mill at the single shop facility; retain asset IDs and correct QP-019 reference | Jacob Honick, Owner |
 
+## Revision C Approval
 
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

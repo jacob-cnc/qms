@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-003 |
 | Title | Receiving Inspection Record |
-| Revision | A |
-| Effective Date | 2026-08-06 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -84,4 +85,8 @@ ___________________________________________________________________________
 
 **Instructions:** Complete this form for all incoming material and purchased parts. Verify certifications against PO requirements. If any check fails, reject material and initiate NCR per QP-008. File with job documentation.
 
-**References:** QP-004 Purchasing and Supplier Control, QP-008 Nonconforming Product Control
+**References:** QP-004 Receiving Inspection; QP-003 Purchasing and Supplier Management, QP-008 Nonconforming Product Control
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

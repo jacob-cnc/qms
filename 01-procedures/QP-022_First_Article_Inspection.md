@@ -1,16 +1,19 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QP-022 |
 | Title | First Article Inspection |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QP-022 First Article Inspection
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
@@ -18,7 +21,7 @@ Define the process for performing First Article Inspection (FAI) to verify that 
 
 ## 2. Scope
 
-Applies to new parts, parts affected by design changes, process changes, production breaks exceeding 2 years, source/facility changes, and any other trigger requiring re-verification of process capability.
+Applies when the customer order requires formal FAI. Full first-piece inspection and full final inspection remain the default under QP-006, WI-005, QP-007 and WI-006 even when a formal FAI package is not required.
 
 ## 3. Responsibilities
 
@@ -33,7 +36,7 @@ Applies to new parts, parts affected by design changes, process changes, product
 - QF-009 — FAI Form 3 (Characteristic Accountability)
 - QP-015 — Configuration Management
 - QP-025 — Control of Changes
-- AS9102 Rev B — First Article Inspection Requirements (NOTE: Apply the revision specified by the customer contract. If customer specifies Rev C per DS/EN 9102:2024, use that revision.)
+- AS9102 — use the revision and reporting format required by the customer. A standard reference alone does not assert compliance or establish a formal FAI obligation.
 - AS9100 Rev D Clause 8.5.1.1
 
 ## 5. Definitions
@@ -46,18 +49,11 @@ Applies to new parts, parts affected by design changes, process changes, product
 
 ### FAI Triggers
 
-1. Perform a full FAI when ANY of the following conditions apply:
-   - New part number being produced for the first time
-   - Design change affecting form, fit, or function (new drawing revision with dimensional changes)
-   - Process change that could affect product conformity (new machine, new tooling method, new supplier for outside processing)
-   - Production break exceeding 2 years since last production run
-   - Change of manufacturing source or facility
-   - Natural or man-made event that may have adversely affected the manufacturing process (e.g., flood, fire, power surge, equipment collision/damage)
-   - Customer or contract requirement specifying FAI
+1. Review the order and applicable customer specifications for formal FAI requirements and triggers. Where imposed, apply the required standard revision, full/partial scope, production-break rules and customer approval hold points. New parts, design/process/source changes and interruptions prompt this review; they do not by themselves impose an AS9102 package when the customer has not required one.
 
 ### Partial FAI Criteria
 
-2. A partial FAI may be performed (instead of full FAI) when:
+2. When formal FAI is required, a partial FAI may be performed only when permitted by the applicable customer requirements and required standard revision, and when:
    - A design change affects only specific characteristics AND
    - Previously verified characteristics and associated production methods remain unchanged AND
    - The customer has not required a full FAI
@@ -95,3 +91,7 @@ Applies to new parts, parts affected by design changes, process changes, product
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Apply formal FAI when required by the customer; retain full first-piece and acceptance inspection by default.

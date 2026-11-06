@@ -1,18 +1,21 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-036 |
 | Title | Training Matrix |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # Training Matrix
 
-**Date of Last Assessment:** _____ (YYYY-MM-DD) **Assessed By:** _____________________
+**Date of Last Assessment:** 2026-08-10 **Assessed By:** Jacob Honick, Owner
+
+**Person covered by all rows:** Jacob Honick, sole owner/operator. Role titles identify functions performed by the same person.
 
 ---
 
@@ -50,10 +53,16 @@ ___________________________________________________________________________
 
 ___________________________________________________________________________
 
-**Sign-off:** _____________________ Date: ___________
+**Owner competency signoff:** Jacob Honick, Owner — 2026-08-10
+
+The owner confirms the listed competencies based on workshop experience and demonstrated work. Future reviews and training are recorded when performed; this signoff does not establish unlisted equipment or unconfirmed capabilities.
 
 ---
 
-**Instructions:** Review this matrix at least annually during management review. Update status when training is completed or when competence is demonstrated through work performance. Maintain training records (certificates, OJT documentation) to support competence claims. Per AS9100D 7.2, ensure all personnel are competent for their assigned tasks.
+**Instructions:** Review this matrix at least annually during management review. Update status when training is completed or when competence is demonstrated through work performance. Maintain training records (certificates, OJT documentation) to support competence claims. AS9100 clause 7.2 is guidance only. The owner confirms competence for the work accepted and signs updated assessments.
 
 **References:** QP-013 Training and Competence
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Record the sole owner’s competency assessment and signoff dated 2026-08-10.

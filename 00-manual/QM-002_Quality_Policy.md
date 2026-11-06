@@ -2,10 +2,12 @@
 | --- | --- |
 | Document No. | QM-002 |
 | Title | Quality Policy |
-| Revision | B |
-| Effective Date | 2026-11-05 |
-| Prepared By | Shop Owner |
+| Revision | C |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
 | Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -46,7 +48,9 @@ On adoption, make the applicable policy available to persons performing work and
 | Field | Entry |
 | --- | --- |
 | Owner | Jacob Honick |
-| Approval / effective date | Approved by owner instruction / 2026-11-05 |
+| Effective date | 2026-08-10 |
+| Revision approval date | 2026-11-05 |
+| Approved by | Jacob Honick, Owner |
 | Signature, if recorded | |
 
 No historic template date or printed name establishes approval of this revision.
@@ -55,8 +59,8 @@ No historic template date or printed name establishes approval of this revision.
 
 - QM-001 Quality Manual — single consolidated manual and operating controls
 - QM-003 Quality Objectives
-- QP-011 Internal Audit — development guidance; QM-001 §6.11 defines current reviews, and owner self-checks are not independent AS9100 audits
-- QP-012 Management Review — development guidance
+- QP-011 Internal Audit — Owner QMS Self-Check; QM-001 §6.11 defines current reviews, and owner self-checks are not independent AS9100 audits
+- QP-012 Management Review
 - AS9100 Rev D Clause 5.2 — guidance and best-practice reference only
 
 ## 6. Revision History
@@ -69,4 +73,6 @@ No historic template date or printed name establishes approval of this revision.
 
 Approval recorded from Jacob Honick's explicit instruction in the project conversation on 2026-11-05; no handwritten signature was created.
 
+## Revision C Approval
 
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

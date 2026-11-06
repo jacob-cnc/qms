@@ -1,16 +1,19 @@
 | Field | Value |
-|-------|-------|
+| --- | --- |
 | Document No. | QP-014 |
 | Title | Risk Management (Strategic and Operational) |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QP-014 Risk Management (Strategic and Operational)
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
@@ -119,10 +122,10 @@ Applies to:
     - Are there customer-identified critical/safety characteristics?
 17. Document the job risk assessment on the Job Traveler (QF-004) risk field or on a separate job risk assessment note attached to the traveler.
 18. For jobs assessed as elevated risk, define additional controls:
-    - Increased inspection frequency (100% vs. sampling)
+    - Additional verification of high-risk characteristics; full inspection remains the default unless the customer specifies or approves a different plan
     - First-piece verification hold points
     - Additional setup verification steps
-    - Supervisor/peer review of CNC program (if available)
+    - A separate, deliberate owner review of the CNC program before prove-out
     - Contingency material procurement
 
 ### 6.7 Operational Risk Criteria and Acceptance
@@ -144,7 +147,7 @@ Applies to:
 
 23. Maintain QF-023 Risk Register as a living document, updated at each review (Part A).
 24. Maintain job-level risk assessments on travelers or attached notes (Part B).
-25. Retain superseded Risk Register versions for audit trail (minimum 3 years).
+25. Retain superseded risk assessments and register versions under QP-001 and SUP-003 for at least ten years after completion or the relevant last shipment, applying the longest applicable requirement.
 
 ## 7. Records Generated
 
@@ -157,3 +160,7 @@ Applies to:
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

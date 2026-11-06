@@ -1,16 +1,19 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QP-016 |
 | Title | Counterfeit Parts Prevention |
-| Revision | A |
-| Effective Date | 2026-08-07 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
 # QP-016 Counterfeit Parts Prevention
+
+Standards and clause references are guidance only and do not claim certification or standard compliance. Applicable customer, contractual and legal requirements govern accepted work.
 
 ## 1. Purpose
 
@@ -31,7 +34,7 @@ Applies to all externally sourced raw materials, fasteners, hardware, tooling in
 - QF-031 — Suspect Counterfeit Material Report
 - QP-003 — Purchasing and Supplier Management
 - QP-008 — Nonconforming Product Control
-- Approved Supplier List (06-registers/)
+- QF-019 — Approved Supplier List
 - GIDEP (Government-Industry Data Exchange Program)
 - AS9100 Rev D Clause 8.1.4
 - SAE AS6174 (Counterfeit Materiel)
@@ -46,9 +49,9 @@ Applies to all externally sourced raw materials, fasteners, hardware, tooling in
 
 ### Sourcing Strategy
 
-1. Purchase raw material, fasteners, and hardware ONLY from OEM manufacturers or their authorized/franchised distributors as listed on the Approved Supplier List.
-2. When an authorized source is unavailable, obtain documented traceability to the OEM (original mill certificates, lot traceability, authorized reseller documentation) before accepting material.
-3. Include counterfeit prevention flow-down requirements on all purchase orders to suppliers.
+1. Purchase from sources approved for the applicable customer and scope under QP-003 and listed on QF-019. Use original manufacturers or established authorized distributors where suitable; meet any customer source restrictions.
+2. Verify required material identity, certifications and traceability before accepting material. If a source or documentation does not meet customer requirements, hold the purchase and obtain customer direction before use.
+3. Include applicable counterfeit-prevention requirements on purchase orders affecting customer product; flow down any customer-required standards or reporting obligations.
 
 ### Receiving Verification
 
@@ -90,3 +93,7 @@ Applies to all externally sourced raw materials, fasteners, hardware, tooling in
 | Rev | Date | Description | Approved By |
 |-----|------|-------------|-------------|
 | A | 2026-08-07 | Initial release | Shop Owner |
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.

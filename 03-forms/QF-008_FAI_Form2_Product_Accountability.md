@@ -1,12 +1,13 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-008 |
 | Title | FAI Form 2 - Product Accountability |
-| Revision | A |
-| Effective Date | 2026-08-06 |
-| Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Revision | B |
+| Effective Date | 2026-08-10 |
+| Prepared By | Owner |
+| Approved By | Jacob Honick, Owner |
+| Revision Approval Date | 2026-11-05 |
+| Next Review | 2027-08-10 |
 
 ---
 
@@ -32,7 +33,7 @@
 
 ## Special Processes
 
-| # | Process | Specification | Supplier | NADCAP # | Cert Reference | P/F |
+| # | Process | Specification | Supplier | Required Approval / Cert (if applicable) | Cert Reference | P/F |
 |---|---------|---------------|----------|----------|----------------|-----|
 | 1 | ___________ | ___________ | ___________ | ___________ | ___________ | ☐P ☐F |
 | 2 | ___________ | ___________ | ___________ | ___________ | ___________ | ☐P ☐F |
@@ -63,4 +64,8 @@
 
 **Instructions:** Complete Form 2 to document all materials and special processes used in first article production. Verify all certifications match PO and drawing requirements. Attach material certs and process certs as supporting documentation.
 
-**References:** AS9102 First Article Inspection, QP-004 Purchasing and Supplier Control
+**References:** AS9102 First Article Inspection, QP-003 Purchasing and Supplier Management
+
+## Revision B Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Standardize control metadata and annual review, remove fixed page counts and align applicable references and wording.
