@@ -96,3 +96,8 @@ Recorded the owner's explicit approval of QM-001 and QM-002 revision B, effectiv
 
 Updated QF-028 as revision B draft: example provider entries now read In-house (example); sample acceptance instruments are explicitly Example — unverified, not In-Cal; reference-only sample is also labeled as an example. Added customer-requirement precedence and a clear pending actual-inventory note. Updated pending register/status and regenerated matching Word copies. QF-030 intentionally unchanged until the owner supplies and confirms the actual QF-028 inventory; the dependency is recorded for follow-up. No actual equipment, calibration, dates or approval is asserted.
 
+
+## 2026-11-05 — Codex (single-manual consolidation)
+
+Owner requested one accurate quality manual. Consolidated approved QM-001 revision B wording with practical operating controls from the separate basic manual into `00-manual/QM-001_Quality_Manual.md`, revision C draft pending release. Kept approved policy/context/external-service wording, ethics, scope limits, customer-approved sources, hang-tag controls, simplified in-house calibration, records and reviews. Removed competing basic-manual and superseded scope-addendum Markdown/Word files and stale Word lock file; prior versions remain in history. Remapped the separate courtesy attachment (renamed to QA-1003_QM-001_Cross_Reference), survey answers, policy, master register, readiness/DCR/assessment and project/index/handoff/status. Historic entries above retain former names as history only. Generated matching Word copies and audited active references. QF-030 equipment schedule intentionally unchanged pending actual QF-028 inventory. No new operational results, signatures or certification claims were created.
+

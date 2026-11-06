@@ -35,7 +35,7 @@ Identify and meet customer, contractual and legal requirements applicable to the
 
 ## 2. Policy Use and Implementation
 
-QSM-001 §3.1 contains the current basic operating policy and governs where the development documents differ. QM-001, the procedures, forms and objectives provide a development framework and guidance for the applicable controls. A document reference does not establish that a process has been implemented, a review completed or an outside service contracted.
+QM-001 §3.1 contains the quality policy, and QM-001 §6 defines the consolidated operating controls. Supporting procedures, forms and objectives provide guidance for the applicable controls. A document reference does not establish that a process has been implemented, a review completed or an outside service contracted.
 
 ## 3. Communication and Review
 
@@ -53,10 +53,9 @@ No historic template date or printed name establishes approval of this revision.
 
 ## 5. References
 
-- QSM-001 Basic Quality System Manual — current basic operating controls
-- QM-001 Quality Manual — development framework
+- QM-001 Quality Manual — single consolidated manual and operating controls
 - QM-003 Quality Objectives
-- QP-011 Internal Audit — development guidance; owner self-checks are not independent AS9100 audits
+- QP-011 Internal Audit — development guidance; QM-001 §6.11 defines current reviews, and owner self-checks are not independent AS9100 audits
 - QP-012 Management Review — development guidance
 - AS9100 Rev D Clause 5.2 — guidance and best-practice reference only
 
@@ -69,4 +68,5 @@ No historic template date or printed name establishes approval of this revision.
 
 
 Approval recorded from Jacob Honick's explicit instruction in the project conversation on 2026-11-05; no handwritten signature was created.
+
 

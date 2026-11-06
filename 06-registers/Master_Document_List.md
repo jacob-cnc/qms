@@ -145,10 +145,10 @@ Prepared 2026-11-05; DCR-2026-11-05-CAL. Above revision-A entries are not replac
 | QP-003 | B | 01-procedures/QP-003_Purchasing_and_Supplier_Management.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
 | QP-013 | B | 01-procedures/QP-013_Training_and_Competence.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
 | QF-028 | B | 03-forms/QF-028_Measurement_Equipment_List.md | Draft; in-house provider examples; actual inventory and owner release pending |
+| QM-001 | C | 00-manual/QM-001_Quality_Manual.md | Consolidated single-manual draft; replaces competing manuals; owner release pending |
 | QP-010 | B | 01-procedures/QP-010_Calibration.md | Draft; owner approval/date pending |
 | QP-006 | B | 01-procedures/QP-006_In_Process_Inspection.md | Draft; corrected calibration references |
 | QF-020 | B | 03-forms/QF-020_Calibration_Log.md | Draft; corrected calibration references |
-| QSM-001 | A | 07-basic-qms/QSM-001_Basic_Quality_System_Manual.md | New; basic quality system for uncertified Tier 3 supply; governs where it differs from the development set; effective on owner signature. Supersedes draft KMS-001 |
 
 The corresponding files at these paths are drafts. Do not issue them as effective revisions; retrieve the preceding baseline from version history if needed and verify its approval status independently.
 
@@ -164,4 +164,9 @@ Approved by Jacob Honick, Owner, by explicit instruction in the project conversa
 
 Jacob Honick, Owner, explicitly approved the revised manual and policy in the project conversation on 2026-11-05. Both revisions are effective 2026-11-05; prior revision A copies are obsolete for current use and remain in history. Matching Markdown and Word copies are issued on the working branch. This records approval without creating a handwritten signature. Approval does not change their development-framework status or establish certification, quality-standard compliance or completed implementation.
 
+
+
+## Manual consolidation
+
+The sole current manual source is `00-manual/QM-001_Quality_Manual.md`; its DOCX is generated from that source. Revision C consolidates the separately maintained basic manual and scope addendum, whose files are removed from this branch. Earlier versions remain in Git history. The approved revision B is retained in history pending approval of revision C; no competing active manual is maintained.
 

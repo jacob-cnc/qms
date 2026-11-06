@@ -1,6 +1,8 @@
 # QMS Document Index
 
-**Torchworx LLC** — AS9100 Rev D Quality Management System **Total controlled documents:** 87 **Standard:** AS9100 Rev D (2016) / ISO 9001:2015
+**Torchworx LLC** — Quality System Document Index. Standards are guidance and best-practice references; no certification or quality-standard compliance is claimed.
+
+**Single manual:** [QM-001 Quality Manual](00-manual/QM-001_Quality_Manual.md), with a generated Word copy. Consolidated revision C is pending release; there is no separately maintained basic manual or scope addendum.
 
 ---
 
@@ -24,7 +26,7 @@
 | --- | --- | --- |
 | 4.1 | Context of the Organization | QM-001 §2, QF-032 |
 | 4.2 | Interested Parties | QM-001 §2.2 |
-| 4.3 | Scope (incl. non-applicability) | QM-001 §1.2–1.3 |
+| 4.3 | Scope (guidance reference) | QM-001 §1.2 |
 | 4.4 | QMS Processes | QM-001 §4 (Process Map) |
 | 5.1 | Leadership Commitment | QM-001 §5 |
 | 5.2 | Quality Policy | QM-002 |
@@ -220,4 +222,5 @@
 | AGENT-LOG.md | AI agent action log |
 | completion-reports/review-issues.md | Review findings tracker |
 | completion-reports/document-categories.md | Document input-type guide |
+
 

@@ -217,11 +217,11 @@ def convert_md_to_docx(md_path, docx_path=None):
             i += 1
             continue
         
-        if line.startswith('### '):
+        if line.startswith('### ') or line.startswith('#### '):
             p = doc.add_paragraph()
             p.space_before = Pt(8)
             p.space_after = Pt(3)
-            run = p.add_run(line[4:].strip())
+            run = p.add_run(line.split(' ', 1)[1].strip())
             run.font.name = FONT_BODY
             run.font.size = FONT_SIZE_H3
             run.font.color.rgb = RGBColor.from_string(COLOR_ACCENT)
@@ -419,4 +419,5 @@ if __name__ == '__main__':
         md_input = sys.argv[1]
         docx_output = sys.argv[2] if len(sys.argv) > 2 else None
         convert_md_to_docx(md_input, docx_output)
+
 

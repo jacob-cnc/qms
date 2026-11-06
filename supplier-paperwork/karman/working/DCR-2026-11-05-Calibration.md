@@ -7,7 +7,7 @@ Prepared: 2026-11-05. Owner requested preparation; formal release approval not y
 
 QP-010 A → B permits general in-house calibration/verification using known-good standards where customer requirements permit. No definition of reference values or fixed shop method is prescribed. Customer-required certification, traceability, accreditation, methods and reporting take precedence. Use QF-020 or linked equipment/job records; the proposed dedicated caliper form has been withdrawn and deleted.
 
-QP-006 A → B and QF-020 A → B correct references and align record use. QSM-001, the Master Document List, job plan, measurement register, readiness records, survey instructions and job packet are updated to remove the withdrawn form and prescribed caliper method.
+QP-006 A → B and QF-020 A → B correct references and align record use. QM-001, the Master Document List, job plan, measurement register, readiness records, survey instructions and job packet are updated to remove the withdrawn form and prescribed caliper method.
 
 ## Impact and release
 
@@ -18,4 +18,5 @@ Before release: confirm customer requirements and actual measurement suitability
 Shop Owner release signature/date: ______
 Assigned effective date / revisions / distribution record: ______
 Customer acceptance reference, if required: ______
+
 
