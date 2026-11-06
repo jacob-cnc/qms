@@ -1,63 +1,62 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-030 |
 | Title | Calibration Schedule |
-| Revision | A |
-| Effective Date | 2026-08-07 |
+| Revision | B — draft, pending owner release |
+| Effective Date | Pending owner release |
 | Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Approved By | Pending |
 
 ---
 
-# Calibration Schedule — Year: ________
+# QF-030 Calibration Schedule
 
-**Reviewed By:** _____________________ **Date:** _____ (YYYY-MM-DD)
+**Updated:** 2026-11-05. Equipment and identifiers are taken from QF-028, not the former example calendar. All 22 entries have owner-reported in-house calibration on **2026-11-01**. Recall intervals and due dates have not been assigned; no target month, on-time completion result or overdue status is invented.
 
----
+## Schedule derived from QF-028
 
-## 12-Month Calibration Calendar
+| Asset ID | Instrument / manufacturer | Provider | Last calibration | Recall interval | Next due |
+| --- | --- | --- | --- | --- | --- |
+| TW-BOR-001 | Telescoping bore gage set — Mitutoyo | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-CAL-001 | Digital caliper — Mitutoyo | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-CAL-002 | Digital caliper — Mitutoyo | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-DEP-001 | Depth micrometer — Mitutoyo | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-DEP-002 | Dial depth gage — Enco | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-GB-001 | Steel gage block set, Federal Grade B — JIT | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-IND-001 | Indicator — Starrett | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-IND-002 | Indicator — Mitutoyo | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-IND-003 | Indicator — Starrett | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-IND-004 | Indicator — Interapid | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-MIC-001 | Outside micrometer — MG | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-MIC-002 | Digital outside micrometer — Mitutoyo | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-MIC-003 | Thread micrometer — Brown & Sharpe | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-MIC-004 | Anvil micrometer — Starrett | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-MIC-005 | Thread micrometer — Brown & Sharpe | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-MIC-006 | Inside micrometer — Mitutoyo | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-MIC-007 | Outside micrometer — Starrett | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-MIC-008 | Blade micrometer — Mitutoyo | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-MIC-009 | Outside micrometer — JIT | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-MIC-010 | Outside micrometer — Starrett | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-PIN-001 | Gage pin set — Meyer Gage | In-house | 2026-11-01 | Not assigned | Not assigned |
+| TW-STD-001 | Micrometer setting standard — Brown & Sharpe | In-house | 2026-11-01 | Not assigned | Not assigned |
 
-| Asset ID | Description | Interval | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
-|----------|------------|----------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ME-001 | 0-1" Micrometer | 12 mo | | | | | | | | | | | | |
-| ME-002 | 1-2" Micrometer | 12 mo | | | | | | | | | | | | |
-| ME-003 | 2-3" Micrometer | 12 mo | | | | | | | | | | | | |
-| ME-004 | Digital Caliper | 12 mo | | | | | | | | | | | | |
-| ME-005 | Digital Caliper | 12 mo | | | | | | | | | | | | |
-| ME-006 | Height Gauge | 12 mo | | | | | | | | | | | | |
-| ME-007 | Dial Indicator | 12 mo | | | | | | | | | | | | |
-| ME-008 | Dial Test Indicator | 12 mo | | | | | | | | | | | | |
-| ME-009 | Bore Gauge Set | 12 mo | | | | | | | | | | | | |
-| ME-010 | Thread Plug Gauges | 24 mo | | | | | | | | | | | | |
-| ME-011 | Thread Ring Gauges | 24 mo | | | | | | | | | | | | |
-| ME-012 | Gauge Block Set | 24 mo | | | | | | | | | | | | |
-| ME-013 | Surface Plate | 24 mo | | | | | | | | | | | | |
-| ME-014 | Depth Micrometer | 12 mo | | | | | | | | | | | | |
-| ME-015 | Pin Gauge Set | 24 mo | | | | | | | | | | | | |
-| ME-017 | Surface Roughness Tester | 12 mo | | | | | | | | | | | | |
+## Scheduling actions
 
----
+- Owner to assign interval and next due date for every row under QP-010 and applicable customer requirements.
+- Once assigned, calculate the due date from the actual calibration date and approved interval and schedule recall before it becomes due.
+- Review monthly and after calibration, damage, status changes or inventory changes. Use QF-028 as the source for IDs and equipment details; use QF-020/linked records for actual events.
+- Record current scheduling status as **Due date unassigned** until recall dates are entered. The owner-reported calibration date is not evidence of a customer-required certificate or job-specific acceptance capability.
+- Remove retired equipment from the active schedule while retaining its history; never reuse its ID. Quarantine overdue/unreliable equipment under QP-010.
 
-## Color Coding Key
+Monthly review date / reviewer / actions: ______
+Interval assignment approval / date / record: ______
 
-| Symbol | Meaning |
-|--------|---------|
-| **X** | Target calibration month |
-| **G** | Completed on time (green) |
-| **Y** | Due this month (yellow) |
-| **R** | Overdue (red) |
+**References:** QF-028; QF-020; QP-010.
 
----
+## Revision history
 
-## Rescheduling Notes
+| Rev | Date | Description | Approved By |
+| --- | --- | --- | --- |
+| A | 2026-08-07 | Initial example calendar | Shop Owner (historical) |
+| B — draft | 2026-11-05 | Replace example assets with the 22 QF-028 permanent IDs and owner-reported in-house calibration date; recall intervals/due dates pending | Pending |
 
-___________________________________________________________________________
-
-___________________________________________________________________________
-
----
-
-**Instructions:** At the start of each year, mark target calibration month with X for each instrument based on its interval and last calibration date. Update monthly: mark G when completed, Y when due, R if overdue. Overdue instruments must be quarantined per QP-010 until recalibrated.
-
-**References:** QP-010 Calibration Control, QF-028 Measurement Equipment List

@@ -67,11 +67,12 @@ References below identify existing document coverage, not verified implementatio
 
 - QM-001 is the single consolidated manual, revision C approved and effective 2026-11-05. No competing basic manual or scope addendum is maintained.
 - QM-002 revision B is the companion policy. Standard references provide guidance only; no certification or full-standard compliance is claimed.
-- Customer/job requirements and actual instrument suitability remain to be confirmed. QP-010 and QF-028 release/inventory tasks remain open.
-- QF-030 must be updated only after QF-028 contains the actual equipment.
+- QF-028 lists all 22 actual owner-supplied entries, recorded in-house calibrated 2026-11-01 per owner. Job suitability, recall dates, pending technical details and QP-010/QF-028/QF-030 document release remain open.
+- QF-030 is synchronized to QF-028; recall intervals and due dates require assignment.
 - Verify actual policy communication, awareness acknowledgment, backup retrieval and job controls before stating they have been completed.
 - Use current QM-001 section references in the survey answers and courtesy attachment; do not submit internal working documents as completed evidence.
 
 No supplier approval, completed survey, signature, assessment score, certificate or operational history is established by consolidation.
+
 
 

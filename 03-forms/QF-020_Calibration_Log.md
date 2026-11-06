@@ -15,7 +15,36 @@
 
 ---
 
-## Calibration Records
+## Opening entries — owner-reported in-house calibration
+
+Recorded 2026-11-05 from the owner's explicit instruction and date confirmation. All listed instruments/sets were reported in-house calibrated on 2026-11-01. Equipment details and source-ID aliases are maintained in QF-028. These entries record the owner's statement; detailed results, operator identity, methods, recall intervals and certificates were not provided. Do not infer pass/fail readings or external certification.
+
+| Asset ID | Calibration date | Provider | Reported result / basis | Operator / detailed record | Next due |
+| --- | --- | --- | --- | --- | --- |
+| TW-BOR-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-CAL-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-CAL-002 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-DEP-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-DEP-002 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-GB-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-IND-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-IND-002 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-IND-003 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-IND-004 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-MIC-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-MIC-002 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-MIC-003 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-MIC-004 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-MIC-005 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-MIC-006 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-MIC-007 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-MIC-008 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-MIC-009 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-MIC-010 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-PIN-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+| TW-STD-001 | 2026-11-01 | In-house | In-house calibrated — owner reported | Not supplied | Not assigned |
+
+## Future Calibration Records
 
 | Asset ID | Description | Cal Date | Next Due Date | Standard / Reference Used | Result | If OOT: Action Taken | Technician / Lab | Check Record / Cert Number |
 |----------|------------|----------|---------------|--------------------------|--------|---------------------|-----------------|-------------|
@@ -55,5 +84,6 @@
 **References:** QP-010 Calibration Procedure, QF-033 OOT Investigation (if applicable)
 
 Revision B draft, prepared 2026-11-05: correct calibration procedure references to QP-010 and allow in-house check-record references without mandatory certificates. Owner approval/effective date pending.
+
 
 

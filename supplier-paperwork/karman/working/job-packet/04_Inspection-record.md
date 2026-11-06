@@ -12,10 +12,10 @@ Inspector / actual date: ______  Setup/program revision: ______
 
 ## Instrument and session readiness
 
-Caliper actual asset ID / release record / due date: ______
+Planned caliper: TW-CAL-001 (Mitutoyo 500-752-20, serial B20111449; in-house calibration 2026-11-01 per owner). Confirm actual instrument / job suitability / assigned due date: ______
 QF-020 or linked calibration/verification record: ______
 Customer/job-specific measurement instructions or restrictions, if applicable: ______
-Pin actual asset IDs / certificates / actual sizes / uncertainty / recall dates: ______
+Existing pin-set ID: TW-PIN-001 (Meyer Gage M-1; in-house calibration 2026-11-01 per owner). Selected member IDs / sizes / class / customer-required evidence / recall dates: ______
 Approved pin decision-rule review: ______  Depth-reference/check method: ______
 Temperature / clean-part and gauge condition checks: ______
 Do not measure for acceptance while any required instrument remains unverified, overdue or unsuitable.
@@ -37,4 +37,5 @@ Inspection-interfering burrs/damage or requirement discrepancies: ______
 NCR/hold/rework/customer concession and reinspection references: ______
 Inspector conclusion / signature/date: ______
 Final release is separate and may occur only after the completed job packet review.
+
 

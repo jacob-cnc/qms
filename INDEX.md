@@ -158,9 +158,9 @@
 | QF-025 | Document Change Request | A | ⚡ Triggered |
 | QF-026 | FOD Prevention Checklist | A | 📅 Daily |
 | QF-027 | Equipment List | A | 🔧 One-time |
-| QF-028 | Measurement Equipment List | A | 🔧 One-time |
+| QF-028 | Measurement Equipment List | B — draft | 🔧 One-time |
 | QF-029 | Change Notification Form | A | ⚡ Triggered |
-| QF-030 | Calibration Schedule | A | 🔧 One-time |
+| QF-030 | Calibration Schedule | B — draft | 🔧 One-time |
 | QF-031 | Suspect Counterfeit Material Report | A | ⚡ Triggered |
 | QF-032 | Context of the Organization Analysis | A | 🔧 One-time |
 | QF-033 | Out-of-Tolerance Impact Assessment | A | ⚡ Triggered |
@@ -222,6 +222,7 @@
 | AGENT-LOG.md | AI agent action log |
 | completion-reports/review-issues.md | Review findings tracker |
 | completion-reports/document-categories.md | Document input-type guide |
+
 
 
 

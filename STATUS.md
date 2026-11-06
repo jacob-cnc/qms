@@ -18,8 +18,9 @@
 
 - [x] Consolidate manual content, remove competing manual/addendum files, remap survey references and regenerate Word copies.
 - [x] Owner approved consolidated QM-001 revision C, effective 2026-11-05; document register and matching Word copies updated.
-- [ ] Replace QF-028 example rows with actual measuring equipment and confirmed status.
-- [ ] Only after QF-028 reflects reality, update QF-030 from its actual asset IDs, descriptions, intervals and due dates. QF-030 is unchanged by consolidation.
+- [x] Replaced QF-028 examples with all 22 owner-listed instruments/sets; assigned thematic permanent IDs; all recorded in-house calibrated 2026-11-01 per owner.
+- [x] QF-030 contains exactly the 22 QF-028 IDs and the same owner-reported calibration date.
+- [ ] Assign recall intervals/due dates to all 22 entries; confirm pending technical details, set contents and physical labels.
 - [ ] Record release of QP-010 and QF-028 when approved; establish actual instrument suitability before acceptance use.
 - [ ] Complete QF-016 ethics/product-safety acknowledgment and a backup retrieval test.
 - [ ] Confirm survey profile, website, address, material certificates, DoD/CUI/DFARS applicability and actual DCMA site-survey history.
@@ -31,4 +32,9 @@ Show proposed wording changes in chat for owner review. The present consolidatio
 
 Future certification work, including registrar selection and independent certification audits, is separate from the basic supplier-survey workstream.
 
+
+
+## Equipment update — 2026-11-05
+
+QF-020 opening entries record owner-reported in-house calibration on 2026-11-01 for all 22 entries. No readings, operator identity, certificates, intervals or job release were supplied or invented. Uploaded IDs are aliases; current records use the thematic IDs. QF-028/QF-030 revision B release remains pending. The calibration-date instruction does not approve other pending procedures.
 
