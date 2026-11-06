@@ -174,7 +174,7 @@ Before shipment the owner reviews the completed job packet: traveler, inspection
 
 ## 11. Nonconforming Product (MRB)
 
-1. A failed or suspect part is identified immediately with a red **HOLD / NONCONFORMING** tag, moved to the HOLD area, and recorded on QF-011 Nonconforming Material Report.
+1. A failed or suspect part is identified immediately with a red **REJECTED** hang tag bearing the QC person’s initials, inspection date and part number (WI-008), moved to the HOLD area, and recorded on QF-011 Nonconforming Material Report.
 2. The owner acts as the Material Review authority and may decide only the following:
    - **rework** to meet the original drawing, followed by full reinspection; or
    - **scrap**.
@@ -247,4 +247,5 @@ I have reviewed this manual. It describes how Torchworx LLC operates, and I comm
 | Rev | Date | Description | Approved By |
 | --- | --- | --- | --- |
 | A | «signature date» | Initial release. Basic quality system for uncertified Tier 3 supply, derived from the QMS development set. Supersedes draft KMS-001. | Jacob Honick |
+
 

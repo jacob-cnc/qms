@@ -61,3 +61,9 @@ None currently.
 - [x] Aligned inspection-service customer approval; removed first-person plural from survey narrative; corrected courtesy cross-reference wording and DoD applicability; replaced static manual page label with Word page fields.
 - [x] Courtesy attachment remains unnumbered, without a revision or Master Document List entry, per owner instruction.
 - [ ] Confirm actual DoD applicability and DCMA site-survey history before answering Q40; confirm Q41–47 individually.
+
+## Part marking update — 2026-11-05
+
+- [x] WI-008 revision B drafted to match actual attached green INSPECTED/red REJECTED hang tags, mandatory fields and customer requirements; QSM-001 red-tag wording aligned.
+- [ ] Record actual WI-008 owner release/effective date and update the effective Master Document List entry before issuing revision B as released.
+

@@ -61,3 +61,8 @@ Applied all requested QSM-001 wording revisions; removed design/special-process 
 ## 2026-11-05 — Codex (review corrections)
 
 Fixed the six reported review items, with the owner's exception that the survey cross-reference is an unnumbered courtesy attachment rather than a controlled QMS document. Aligned customer-approved inspection sources; removed We/Our from the survey narrative; corrected the extracted Q8 reference; split explosives and DoD questions, including Q40 and the Q44 explanation field. Removed the static manual page label; converter now adds actual Word page fields for controlled documents, uses the stated revision, and omits empty controlled-document footers on unnumbered documents. Regenerated affected Word copies and verified contents and footer fields.
+
+## 2026-11-05 — Codex (actual part-marking practice)
+
+Reworked WI-008 as draft revision B to use attached green INSPECTED and red REJECTED hang tags, each with QC initials, inspection date and part number. Added customer-specific review/approval and implementation, traceability, safe attachment, reinspection and release controls. Aligned QSM-001 §11 red-tag wording and recorded the pending WI revision in the Master Document List. No approval signature or effective date was invented. Regenerated Word copies and verified tag fields and status wording.
+
