@@ -58,14 +58,14 @@ References below identify existing document coverage, not verified implementatio
 ## Minimum defensible package (proposed, not Karman-approved)
 
 1. Accurate completed profile and survey, with explanations for No/NA and no certification/compliance overstatement.
-2. Released QM-001 manual and its policy; use the separate courtesy cross-reference. Confirm consolidation approval and actual implementation before issue.
+2. Released QM-001 manual and its policy; use the separate courtesy cross-reference. Consolidation approval is recorded; confirm actual implementation and submission readiness before issue.
 3. Supporting procedures QP-001, 002, 003, 004, 005, 006, 007, 008, 009, 010, 014, 015, 020 and 021, plus relevant inspection work instructions, available on request. Do not send the entire repository indiscriminately.
 4. Actual calibration/measurement inventory evidence, approved-source evidence, and a controlled blank job packet. Existing job evidence if available; otherwise clearly identified readiness demonstration, never claimed as completed customer work.
 5. Tooling register, awareness acknowledgment, risk review, document release record and backup/retrieval check after they actually occur.
 
 ## Current release and evidence gaps
 
-- QM-001 is the single consolidated manual, revision C draft pending owner release. No competing basic manual or scope addendum is maintained.
+- QM-001 is the single consolidated manual, revision C approved and effective 2026-11-05. No competing basic manual or scope addendum is maintained.
 - QM-002 revision B is the companion policy. Standard references provide guidance only; no certification or full-standard compliance is claimed.
 - Customer/job requirements and actual instrument suitability remain to be confirmed. QP-010 and QF-028 release/inventory tasks remain open.
 - QF-030 must be updated only after QF-028 contains the actual equipment.
@@ -73,4 +73,5 @@ References below identify existing document coverage, not verified implementatio
 - Use current QM-001 section references in the survey answers and courtesy attachment; do not submit internal working documents as completed evidence.
 
 No supplier approval, completed survey, signature, assessment score, certificate or operational history is established by consolidation.
+
 

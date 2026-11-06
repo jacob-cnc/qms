@@ -2,10 +2,10 @@
 | --- | --- |
 | Document No. | QM-001 |
 | Title | Quality Manual |
-| Revision | C — draft, pending owner release |
-| Effective Date | Pending owner release |
+| Revision | C |
+| Effective Date | 2026-11-05 |
 | Prepared By | Shop Owner |
-| Approved By | Pending |
+| Approved By | Jacob Honick, Owner |
 
 ---
 
@@ -533,5 +533,6 @@ Revision B, approved and effective 2026-11-05: broaden industry/material scope; 
 
 
 
-Revision C draft, prepared 2026-11-05: consolidate the separate quality manuals and superseded scope addendum into this single manual; retain session revisions and remap supporting references. Revision B approval remains historical; consolidation release approval/effective date pending.
+Revision C, approved and effective 2026-11-05: consolidate the separate quality manuals and superseded scope addendum into this single manual; retain session revisions and remap supporting references. Approved by Jacob Honick, Owner, by explicit instruction in the project conversation; no handwritten signature is implied. Revision B remains in history.
+
 

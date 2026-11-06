@@ -4,7 +4,7 @@ Updated 2026-11-05. Internal document; do not send this handoff to the customer.
 
 ## Single source of truth
 
-The only maintained quality manual is `00-manual/QM-001_Quality_Manual.md`, with a generated DOCX at the same location. Revision C is a consolidation draft pending release. It retains the approved scope, policy, guidance-only standards language and external-service wording, and incorporates the practical controls previously maintained in a separate basic manual. The separate basic-manual and superseded scope-addendum files are removed; prior versions remain in Git history.
+The only maintained quality manual is `00-manual/QM-001_Quality_Manual.md`, with a generated DOCX at the same location. Revision C is approved and effective 2026-11-05 by explicit owner instruction. It retains the approved scope, policy, guidance-only standards language and external-service wording, and incorporates the practical controls previously maintained in a separate basic manual. The separate basic-manual and superseded scope-addendum files are removed; prior versions remain in Git history.
 
 There is no manual in a customer-specific folder. QM-002 is the companion policy and QM-003 is the objectives document, not competing manuals.
 
@@ -31,9 +31,10 @@ Survey working answers and courtesy references are remapped to the consolidated 
 
 ## Outstanding work
 
-Use STATUS.md as the task list. In particular: owner review/release of consolidation; actual QF-028 inventory; then synchronize QF-030. Instruments remain unverified until actual checks and release. Confirm material certificates, profile and contract/DoD/CUI requirements. Do not invent a website, certification, score, instrument certificate, calibration or signature.
+Use STATUS.md as the task list. Consolidation approval is complete. Remaining priorities: actual QF-028 inventory; then synchronize QF-030. Instruments remain unverified until actual checks and release. Confirm material certificates, profile and contract/DoD/CUI requirements. Do not invent a website, certification, score, instrument certificate, calibration or signature.
 
 ## Repository conventions
 
 Keep `karman/basic-qms` separate; do not merge without owner direction. Present proposed wording in chat before further revisions. Update Markdown source and regenerate its Word counterpart; never regenerate over completed signed job records. Record actions in AGENT-LOG.md and status in STATUS.md.
+
 

@@ -104,5 +104,6 @@ Per the Kiro PM handoff:
 
 ## Single-manual convention
 
-Maintain only `00-manual/QM-001_Quality_Manual.md` as the quality-manual source and its generated DOCX. Supporting policy/objectives, procedures and the courtesy survey cross-reference are not alternate manuals. Do not recreate copies in basic-QMS or customer folders. Prior manual/addendum versions remain in Git history. Consolidated revision C awaits owner release; other approved documents retain their recorded status.
+Maintain only `00-manual/QM-001_Quality_Manual.md` as the quality-manual source and its generated DOCX. Supporting policy/objectives, procedures and the courtesy survey cross-reference are not alternate manuals. Do not recreate copies in basic-QMS or customer folders. Prior manual/addendum versions remain in Git history. Consolidated revision C is approved and effective 2026-11-05; other approved documents retain their recorded status.
+
 

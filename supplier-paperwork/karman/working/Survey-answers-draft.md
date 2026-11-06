@@ -1,7 +1,7 @@
 # Karman / Systima QA-1003 Self-Survey — Draft Answers
 
 Internal working sheet, 2026-11-05. **Do not send this sheet.** Transfer the answers to the QA-1003 PDF.
-Basis: consolidated QM-001 revision C draft. Release and adoption of the consolidated revision and actual supporting evidence must be confirmed before submission; suggested Yes answers do not establish completed activities.
+Basis: QM-001 revision C, approved and effective 2026-11-05. Verify actual implementation and supporting evidence before submission; suggested Yes answers do not establish completed activities.
 Items marked ⚠ need the owner to confirm the fact before the answer is entered.
 
 ## Page 1 — Company Profile
@@ -86,18 +86,19 @@ Leave blank, or write "None — single site."
 
 ## Attach
 
-1. Released QM-001 Quality Manual, exported to PDF. Confirm revision C approval/effective date before using the consolidated draft.
+1. QM-001 Quality Manual, approved revision C, effective 2026-11-05, exported to PDF.
 2. Separate, unnumbered courtesy QA-1003/QM-001 cross-reference attachment (`supplier-paperwork/karman/submission/QA-1003_QM-001_Cross_Reference`).
 3. Nothing else unless Karman asks. Forms are available on request. Do **not** attach the internal Survey-assessment, Readiness-records or this sheet.
 
 ## Before Sending — Owner Checklist
 
-- [ ] Review and release consolidated QM-001 revision C; record actual approval/effective date
+- [x] Owner approved consolidated QM-001 revision C, effective 2026-11-05
 - [ ] Sign the Code of Conduct acknowledgment on QF-016
 - [x] Company name on QF-002, QF-007 and QF-010 corrected to Torchworx LLC (2026-11-05)
 - [ ] Confirm the ⚠ items above
 - [ ] Ask your Karman contact whether they want DFARS Q1–3 as "No" or "NA"
 - [ ] Before cutting the titanium tubes: establish caliper suitability under QP-010 using an appropriate in-house or external route and receive certified pins
+
 
 
 

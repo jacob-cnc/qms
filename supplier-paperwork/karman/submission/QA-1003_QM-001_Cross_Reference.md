@@ -2,7 +2,7 @@
 
 Courtesy attachment for the Systima Technologies / Karman supplier self-survey. Separate from the general working quality manual; not a controlled QMS document and not assigned a document number or revision.
 
-Reference: QM-001 Quality Manual, consolidated revision C draft. Use with the released, effective revision after approval; the consolidation draft is not an issued customer attachment. This mapping identifies documented controls; it does not establish certification, completed activities or supplier approval.
+Reference: QM-001 Quality Manual, approved revision C, effective 2026-11-05. Use with the matching released copy. This mapping identifies documented controls; it does not establish certification, completed activities or supplier approval.
 
 ## Question-to-section mapping
 
@@ -31,6 +31,7 @@ Reference: QM-001 Quality Manual, consolidated revision C draft. Use with the re
 | 23–39 | Explosives suppliers only | 1.2 (no explosives operations) |
 | 40 | DCMA site survey; DoD contracts only | 6.3 (confirm DoD applicability and actual site-survey history) |
 | 41–47 | DoD explosives operations and site plans | 1.2, 6.3 (confirm applicability; explain no explosives operations) |
+
 
 
 

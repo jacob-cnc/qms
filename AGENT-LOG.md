@@ -101,3 +101,8 @@ Updated QF-028 as revision B draft: example provider entries now read In-house (
 
 Owner requested one accurate quality manual. Consolidated approved QM-001 revision B wording with practical operating controls from the separate basic manual into `00-manual/QM-001_Quality_Manual.md`, revision C draft pending release. Kept approved policy/context/external-service wording, ethics, scope limits, customer-approved sources, hang-tag controls, simplified in-house calibration, records and reviews. Removed competing basic-manual and superseded scope-addendum Markdown/Word files and stale Word lock file; prior versions remain in history. Remapped the separate courtesy attachment (renamed to QA-1003_QM-001_Cross_Reference), survey answers, policy, master register, readiness/DCR/assessment and project/index/handoff/status. Historic entries above retain former names as history only. Generated matching Word copies and audited active references. QF-030 equipment schedule intentionally unchanged pending actual QF-028 inventory. No new operational results, signatures or certification claims were created.
 
+
+## 2026-11-05 — Codex (consolidated manual revision C approved)
+
+Recorded Jacob Honick's explicit approval of the consolidated single QM-001 revision C, effective 2026-11-05 (America/Los_Angeles). Removed current draft/pending status from the manual and active references; updated the effective register entry, index, project, status, handoff, courtesy attachment and survey working documents. Prior revisions remain historical. Regenerated Word copies and checked release consistency. No handwritten signature, completed implementation, customer approval or certification is asserted. Other pending documents and the QF-028 → QF-030 dependency are unchanged.
+

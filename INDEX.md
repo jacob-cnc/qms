@@ -2,7 +2,7 @@
 
 **Torchworx LLC** — Quality System Document Index. Standards are guidance and best-practice references; no certification or quality-standard compliance is claimed.
 
-**Single manual:** [QM-001 Quality Manual](00-manual/QM-001_Quality_Manual.md), with a generated Word copy. Consolidated revision C is pending release; there is no separately maintained basic manual or scope addendum.
+**Single manual:** [QM-001 Quality Manual](00-manual/QM-001_Quality_Manual.md), with a generated Word copy. Consolidated revision C is approved and effective 2026-11-05; there is no separately maintained basic manual or scope addendum.
 
 ---
 
@@ -222,5 +222,6 @@
 | AGENT-LOG.md | AI agent action log |
 | completion-reports/review-issues.md | Review findings tracker |
 | completion-reports/document-categories.md | Document input-type guide |
+
 
 
