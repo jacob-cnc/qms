@@ -8,13 +8,12 @@ This branch is the Markdown working set for PDF review and preparation of a cust
 - Policy: [QM-002 Quality Policy](00-manual/QM-002_Quality_Policy.md), approved revision C.
 - Equipment: [QF-027](03-forms/QF-027_Equipment_List.md), [QF-028](03-forms/QF-028_Measurement_Equipment_List.md), [QF-030](03-forms/QF-030_Calibration_Schedule.md).
 - Current document register: [Master Document List](06-registers/Master_Document_List.md).
-- Separate courtesy attachment: [QA-1003/QM-001 cross-reference](supplier-paperwork/karman/submission/QA-1003_QM-001_Cross_Reference.md).
 - Export usage: [PDF_EXPORT.md](PDF_EXPORT.md).
 - Copy verification: [CARRYOVER.md](CARRYOVER.md).
 
 ## Contents
 
-83 QMS Markdown sources: 3 manual/policy/objective documents, 25 procedures, 9 work instructions, 38 forms, 3 supporting documents and 5 registers. The supporting set is retained because QM-001 and its procedures reference these documents. The courtesy attachment and export guide are also Markdown. The Python export script and its non-rendering tests are supporting tools, not customer deliverables.
+83 QMS Markdown sources: 3 manual/policy/objective documents, 25 procedures, 9 work instructions, 38 forms, 3 supporting documents and 5 registers. The supporting set is retained because QM-001 and its procedures reference these documents. The export guide is also Markdown. The Python export script and its non-rendering tests are supporting tools, not customer deliverables.
 
 Word files and historical working material were left on the source branch. The earlier generated PDF preview and its review folder have been removed. This branch contains no generated PDFs. Scripts, tests, README files and carryover notes support internal work and are not customer deliverables.
 

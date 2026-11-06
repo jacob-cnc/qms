@@ -47,10 +47,10 @@ Selected documents:
 python convert_md_to_pdf.py 03-forms/QF-027_Equipment_List.md 03-forms/QF-028_Measurement_Equipment_List.md 03-forms/QF-030_Calibration_Schedule.md
 ```
 
-Custom output, including the separate courtesy survey attachment:
+Custom output filename:
 
 ```sh
-python convert_md_to_pdf.py supplier-paperwork/karman/submission/QA-1003_QM-001_Cross_Reference.md --output pdf-output/QA-1003_Cross_Reference.pdf
+python convert_md_to_pdf.py 00-manual/QM-001_Quality_Manual.md --output pdf-output/Quality_Manual.pdf
 ```
 
 Batch export:

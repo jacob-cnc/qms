@@ -4,6 +4,8 @@
 **Source commit:** `591d208213f79272e24b8fb3b9fd37af64dc6f96`
 **Destination branch:** `active-working-qms`
 
+This manifest records the original branch carry-over, not the current file inventory. The supplier-paperwork folder and its courtesy cross-reference were subsequently removed at the owner’s direction; historical source-blob entries below are retained for traceability. Use the Master Document List for the current QMS sources.
+
 ## Selection and verification
 
 - 83 QMS Markdown documents plus one unnumbered courtesy cross-reference.
