@@ -56,37 +56,37 @@ The convention supports unique identification and linkage to calibration records
 | TW-MIC-008 | Mitutoyo | Blade micrometer | 122-125-10 | 1–2 in | Pending | 71303721 |
 | TW-MIC-009 | JIT | Outside micrometer | Not identified | 2–3 in | Pending | Pending |
 | TW-MIC-010 | Starrett | Outside micrometer | 226 | 3–4 in | Pending | Pending |
-| TW-PIN-001 | Meyer Gage | Gage pin set | M-1 | 0.061–0.250 in | Pin increment, class and tolerance pending | Pending |
+| TW-PIN-001 | Meyer Gage | Gage pin set | M-1 | 0.061–0.250 in | Class ZZ minus; increment and numerical tolerance pending | Pending |
 | TW-STD-001 | Brown & Sharpe | Micrometer setting standard | Not identified | 1 in nominal | N/A | Pending |
 
 ## Calibration status and scheduling
 
-All entries below are recorded as **In-house calibrated — owner reported**. Calibration date is the owner's stated date, not an imported external-sticker date. Detailed readings, methods, operator identity and recall intervals were not supplied with this update. No certificate, measured error, accreditation, traceability chain or job-specific release is created by this register entry. Customer requirements govern any additional evidence.
+All entries below are recorded as **In-house calibrated — owner reported**. Calibration date is the owner's stated date, not an imported external-sticker date. Detailed readings, methods and operator identity were not supplied. The owner assigned an annual (12-month) interval, giving a next due date of 2027-11-01. No certificate, measured error, accreditation, traceability chain or job-specific release is created by this register entry. Customer requirements govern any additional evidence.
 
 | Asset ID | Provider | Last calibration | Recorded status | Recall interval | Next due |
 | --- | --- | --- | --- | --- | --- |
-| TW-BOR-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-CAL-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-CAL-002 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-DEP-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-DEP-002 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-GB-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-IND-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-IND-002 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-IND-003 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-IND-004 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-MIC-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-MIC-002 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-MIC-003 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-MIC-004 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-MIC-005 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-MIC-006 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-MIC-007 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-MIC-008 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-MIC-009 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-MIC-010 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-PIN-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
-| TW-STD-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | Not assigned | Not assigned |
+| TW-BOR-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-CAL-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-CAL-002 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-DEP-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-DEP-002 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-GB-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-IND-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-IND-002 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-IND-003 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-IND-004 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-MIC-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-MIC-002 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-MIC-003 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-MIC-004 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-MIC-005 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-MIC-006 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-MIC-007 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-MIC-008 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-MIC-009 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-MIC-010 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-PIN-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
+| TW-STD-001 | In-house | 2026-11-01 | In-house calibrated — owner reported | 12 months | 2027-11-01 |
 
 ## Source-ID cross-reference and remaining identification details
 
@@ -114,12 +114,12 @@ Uploaded IDs are source aliases only; use the new permanent IDs in current recor
 | TW-MIC-008 | TW-ME-017 | Fields marked Pending remain to be confirmed; calibration status recorded from owner instruction. |
 | TW-MIC-009 | TW-ME-019 | Fields marked Pending remain to be confirmed; calibration status recorded from owner instruction. |
 | TW-MIC-010 | TW-ME-020 | Fields marked Pending remain to be confirmed; calibration status recorded from owner instruction. |
-| TW-PIN-001 | TW-ME-022 | Set completeness, pin increment, class and tolerance pending. |
+| TW-PIN-001 | TW-ME-022 | Class ZZ minus confirmed by owner; set completeness, increment and numerical tolerance pending. |
 | TW-STD-001 | TW-ME-007 | Fields marked Pending remain to be confirmed; calibration status recorded from owner instruction. |
 
 ## Maintenance and use
 
-QF-028 is the inventory source for QF-030. Keep both synchronized by permanent asset ID. QF-020 records the owner-reported opening calibration entries and future events. Record actual check results in QF-020 or linked equipment/job records as available. Assign recall intervals/due dates under QP-010 using actual use, condition, history and customer requirements; no interval or due date is inferred from the calibration date alone. Until assigned, scheduling status is **Due date unassigned**, not verified current or overdue.
+QF-028 is the inventory source for QF-030. Keep both synchronized by permanent asset ID. QF-020 records the owner-reported opening calibration entries and future events. Record actual check results in QF-020 or linked equipment/job records as available. The owner has assigned a 12-month interval for all entries: last calibration 2026-11-01, next due 2027-11-01. Review intervals under QP-010 for use, condition, history and customer requirements; a shorter applicable customer interval takes precedence.
 
 Confirm pending model/range/resolution/marking details and set contents as practical. Select equipment suitable for each actual drawing tolerance. Customer-required certified/traceable/accredited calibration and methods take precedence. Withdraw damaged, unreliable or overdue instruments and assess affected product under QF-033.
 
@@ -131,4 +131,5 @@ Confirm pending model/range/resolution/marking details and set contents as pract
 | --- | --- | --- | --- |
 | A | 2026-08-07 | Initial example template | Shop Owner (historical) |
 | B — draft | 2026-11-05 | Replace examples with 22 owner-listed instruments/sets; assign thematic permanent IDs; record owner-reported in-house calibration 2026-11-01; synchronize schedule | Pending |
+
 

@@ -7,7 +7,7 @@ Status: working draft, 2026-11-05. Owner-provided requirements; not a released d
 | Characteristic | Reported requirement | Proposed verification / open issue |
 | --- | --- | --- |
 | Material | McMaster-Carr 89055K53 (owner-confirmed); material cert and lot traceability expected | Titanium grade/specification and actual cert/lot linkage pending |
-| Length | 3.000 ±0.050 in (2.950–3.050 in) | 100% measurement proposed with TW-CAL-001; in-house calibrated 2026-11-01 per owner; job suitability and recall due date pending |
+| Length | 3.000 ±0.050 in (2.950–3.050 in) | 100% measurement proposed with TW-CAL-001; in-house calibrated 2026-11-01 per owner; job suitability pending; next calibration due 2027-11-01 |
 | OD | 0.250 in stock OD (STK) | Confirm purchased stock tolerance and whether OD is reference/as-supplied; do not invent a ± tolerance |
 | Controlled ID | 0.194 ±0.001 in (0.193–0.195 in), extending at least 1 in from the designated end | 100% inspection using certified minus pins under the conservative rule below |
 | Remaining ID | Produced with 3/16 in drill; not to exceed 0.195 in | Check upper size bound from the opposite end using the conservative pin rule below; drill size alone is not an acceptance result |
@@ -40,7 +40,7 @@ Owner plans to acquire Deltronic pins in 0.0001 in increments for upper/lower li
 
 ## Instrument status and verification proposal
 
-The actual QF-028 inventory identifies TW-CAL-001 as Mitutoyo 500-752-20 / CD-P6″S, 0–6 in, serial B20111449, and TW-CAL-002 as Mitutoyo 500-753-20 / CD-P8″S, 0–200 mm, serial B22309263. Both are recorded in-house calibrated on 2026-11-01 per owner. This replaces the earlier provisional caliper identity for current planning; resolution and job suitability remain to be confirmed. TW-GB-001 is the listed JIT block set and TW-PIN-001 is the Meyer Gage M-1 set. The M-1 set's increment, class, tolerance and completeness remain pending; it is not assumed to fulfill the earlier certified-minus pin purchase proposal. Retain any customer-required certificates; a generic CoC does not establish traceability or uncertainty.
+The actual QF-028 inventory identifies TW-CAL-001 as Mitutoyo 500-752-20 / CD-P6″S, 0–6 in, serial B20111449, and TW-CAL-002 as Mitutoyo 500-753-20 / CD-P8″S, 0–200 mm, serial B22309263. Both are recorded in-house calibrated on 2026-11-01 per owner. This replaces the earlier provisional caliper identity for current planning; resolution and job suitability remain to be confirmed. TW-GB-001 is the listed JIT block set and TW-PIN-001 is the Meyer Gage M-1 set. The M-1 set is Class ZZ minus per owner; its increment, numerical tolerance and completeness remain pending; it is not assumed to fulfill the earlier certified-minus pin purchase proposal. Retain any customer-required certificates; a generic CoC does not establish traceability or uncertainty.
 
 The revised QP-010 draft permits in-house calibration/verification using known-good standards where customer requirements allow it, or an appropriate external service. The approach is selected for the instrument and actual work. This job plan does not prescribe reference lengths, repeat counts, numerical calibration limits or a dedicated caliper method. Record calibration/verification activity and results on QF-020 or linked equipment/job records. Customer requirements take precedence, including any required certificates, traceability, accreditation or methods. The chosen inspection method must support the drawing tolerance before product acceptance.
 
@@ -58,6 +58,7 @@ The actual inventory is recorded in QF-028; confirm selected instruments for thi
 
 ### Calibration development update — 2026-11-05
 
-QP-010 revision B now proposes general in-house calibration/verification using known-good standards where customer requirements permit. The dedicated caliper form and its prescribed method have been withdrawn and deleted. Record activities in QF-020 or linked equipment/job records. Customer requirements govern any additional calibration, certification or traceability controls. Procedure release remains pending. All 22 inventory entries have owner-reported in-house calibration dated 2026-11-01. Job suitability, recall dates and additional certified pin purchases remain open.
+QP-010 revision B now proposes general in-house calibration/verification using known-good standards where customer requirements permit. The dedicated caliper form and its prescribed method have been withdrawn and deleted. Record activities in QF-020 or linked equipment/job records. Customer requirements govern any additional calibration, certification or traceability controls. Procedure release remains pending. All 22 inventory entries have owner-reported in-house calibration dated 2026-11-01. Annual recall is assigned, next due 2027-11-01; job suitability and additional certified pin purchases remain open.
+
 
 

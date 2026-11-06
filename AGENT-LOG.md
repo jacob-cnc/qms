@@ -111,3 +111,8 @@ Recorded Jacob Honick's explicit approval of the consolidated single QM-001 revi
 
 Imported all 22 instruments/sets from the owner's uploaded inventory. Applied the user's current instructions over embedded source guidance: assigned new thematic permanent IDs, retaining TW-ME-xxx source IDs as aliases. Recorded all as In-house calibrated — owner reported, dated 2026-11-01 from the owner's reply. Replaced QF-028 examples, synchronized QF-030, added QF-020 opening entries, and updated register/index/status/handoff and job references. Corrected current caliper planning to actual 500-752-20/500-753-20 entries without reassigning historical results. M-1 set details do not establish completion of the proposed certified-minus pin purchase. No readings, operator identity, intervals/due dates, certificates or signatures were invented. Document release remains pending where already pending. Regenerated and checked Word copies.
 
+
+## 2026-11-05 — Owner interval and pin-class clarification
+
+Recorded TW-PIN-001 as Class ZZ minus. Assigned all 22 assets an owner-directed annual (12-month) interval from 2026-11-01, next due 2027-11-01. Updated register, schedule, calibration log and related working references. Individual pin sizes, increments, numerical tolerances and job suitability are not inferred from class alone; customer requirements take precedence.
+

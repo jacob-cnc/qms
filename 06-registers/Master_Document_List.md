@@ -144,7 +144,7 @@ Prepared 2026-11-05; DCR-2026-11-05-CAL. Above revision-A entries are not replac
 | --- | --- | --- | --- |
 | QP-003 | B | 01-procedures/QP-003_Purchasing_and_Supplier_Management.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
 | QP-013 | B | 01-procedures/QP-013_Training_and_Competence.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
-| QF-028 | B | 03-forms/QF-028_Measurement_Equipment_List.md | Draft; 22 actual owner-listed entries, thematic IDs, in-house calibration 2026-11-01 per owner; recall dates and release pending |
+| QF-028 | B | 03-forms/QF-028_Measurement_Equipment_List.md | Draft; 22 actual owner-listed entries, thematic IDs, in-house calibration 2026-11-01 per owner; annual interval; next due 2027-11-01; release pending |
 | QF-030 | B | 03-forms/QF-030_Calibration_Schedule.md | Draft; synchronized to all 22 QF-028 IDs and 2026-11-01 calibration date; recall dates and release pending |
 | QP-010 | B | 01-procedures/QP-010_Calibration.md | Draft; owner approval/date pending |
 | QP-006 | B | 01-procedures/QP-006_In_Process_Inspection.md | Draft; corrected calibration references |
@@ -169,6 +169,7 @@ Jacob Honick, Owner, explicitly approved the revised manual and policy in the pr
 ## Manual consolidation
 
 The sole current manual source is `00-manual/QM-001_Quality_Manual.md`; its DOCX is generated from that source. Revision C consolidates the separately maintained basic manual and scope addendum, whose files are removed from this branch. Earlier versions remain in Git history. Revision C is approved and effective 2026-11-05 by explicit owner instruction; revision B is obsolete for current use and retained in history. No competing active manual is maintained.
+
 
 
 
