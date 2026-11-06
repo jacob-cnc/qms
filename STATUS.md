@@ -87,5 +87,10 @@ None currently.
 
 - [x] QM-001 industry scope broadened; §1.3 removed; certification-required external-factor bullet removed.
 - [x] Explicit no-certification/no-quality-standard-compliance status and guidance-only references applied throughout; §§3.1 and 5.3 and linked QM-002 aligned.
-- [ ] QM-001 and QM-002 revision B owner approval/effective dates remain pending; register lists these as drafts.
+- [x] QM-001 and QM-002 revision B approved by explicit owner instruction, effective 2026-11-05; register and matching Word copies updated.
+
+
+## Review preference — 2026-11-05
+
+Show proposed wording changes in chat for owner approval or rework before applying them. Record explicit approvals without inventing signatures. Approval of QM-001/QM-002 does not approve other pending document revisions.
 

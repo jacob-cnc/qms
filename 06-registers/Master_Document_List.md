@@ -15,8 +15,8 @@ This register lists all controlled documents in the QMS package. Maintain this l
 | Doc No. | Title | Rev | Effective Date | Location | Next Review |
 |---------|-------|-----|----------------|----------|-------------|
 | **00-manual/** | | | | | |
-| QM-001 | Quality Manual | A | [Date] | qms/00-manual/ | [Date +1yr] |
-| QM-002 | Quality Policy | A | [Date] | qms/00-manual/ | [Date +1yr] |
+| QM-001 | Quality Manual | B | 2026-11-05 | qms/00-manual/ | 2027-11-05 |
+| QM-002 | Quality Policy | B | 2026-11-05 | qms/00-manual/ | 2027-11-05 |
 | QM-003 | Quality Objectives | A | [Date] | qms/00-manual/ | [Date +1yr] |
 | **01-procedures/** | | | | | |
 | QP-001 | Document Control | A | [Date] | qms/01-procedures/ | [Date +1yr] |
@@ -142,8 +142,6 @@ Prepared 2026-11-05; DCR-2026-11-05-CAL. Above revision-A entries are not replac
 
 | ID | Proposed revision | Location | Status |
 | --- | --- | --- | --- |
-| QM-001 | B | 00-manual/QM-001_Quality_Manual.md | Draft; broad industry scope, no §1.3, guidance-only standards and revised policy/external-service wording; owner release pending |
-| QM-002 | B | 00-manual/QM-002_Quality_Policy.md | Draft; policy aligned with QSM-001 and explicit no certification/quality-standard compliance claim; owner release pending |
 | QP-003 | B | 01-procedures/QP-003_Purchasing_and_Supplier_Management.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
 | QP-013 | B | 01-procedures/QP-013_Training_and_Competence.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
 | QP-010 | B | 01-procedures/QP-010_Calibration.md | Draft; owner approval/date pending |
@@ -159,4 +157,9 @@ The corresponding files at these paths are drafts. Do not issue them as effectiv
 Approved by Jacob Honick, Owner, by explicit instruction in the project conversation on 2026-11-05. Effective 2026-11-05. Revision B replaces revision A for current use; retain the previous revision in version history as obsolete. Matching Markdown and Word copies issued on the basic-QMS working branch. No handwritten signature is implied.
 
 
+
+
+## Release record — QM-001 / QM-002 revision B
+
+Jacob Honick, Owner, explicitly approved the revised manual and policy in the project conversation on 2026-11-05. Both revisions are effective 2026-11-05; prior revision A copies are obsolete for current use and remain in history. Matching Markdown and Word copies are issued on the working branch. This records approval without creating a handwritten signature. Approval does not change their development-framework status or establish certification, quality-standard compliance or completed implementation.
 

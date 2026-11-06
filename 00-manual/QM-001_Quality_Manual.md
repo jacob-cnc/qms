@@ -2,10 +2,10 @@
 | --- | --- |
 | Document No. | QM-001 |
 | Title | Quality Manual |
-| Revision | B — draft, pending owner release |
-| Effective Date | Pending owner release |
+| Revision | B |
+| Effective Date | 2026-11-05 |
 | Prepared By | Shop Owner |
-| Approved By | Pending |
+| Approved By | Jacob Honick, Owner |
 
 ---
 
@@ -101,7 +101,7 @@ Torchworx LLC commits to reviewing requirements before accepting work, deliverin
 
 ### 3.2 Communication and Availability
 
-On adoption, the applicable quality policy is made available to persons performing work and communicated as appropriate. Record actual approval, distribution and reviews; this manual does not establish that the policy has been posted or reviewed. QM-002 remains a development document pending release.
+On adoption, the applicable quality policy is made available to persons performing work and communicated as appropriate. Record actual approval, distribution and reviews; this manual does not establish that the policy has been posted or reviewed. QM-002 is an approved development-set policy; QSM-001 defines the current basic operating policy.
 
 ### 3.3 Record Retention
 
@@ -365,5 +365,6 @@ Quality-standard references below are guidance and best-practice resources only.
 | A | 2026-08-10 | Revised: updated Clause 8.3 non-applicability terminology, added record retention statement, corrected procedure cross-reference table (QP-017 clause mapping), removed duplicate sections, incorporated full procedure and form cross-reference tables | Shop Owner |
 
 
-Revision B draft, prepared 2026-11-05: broaden industry/material scope; remove §1.3; make guidance-only status explicit; revise policy, external-service and responsibility wording; align calibration and retention with current basic controls. Owner release/effective date pending. Earlier revision-history entries describe superseded wording.
+Revision B, approved and effective 2026-11-05: broaden industry/material scope; remove §1.3; make guidance-only status explicit; revise policy, external-service and responsibility wording; align calibration and retention with current basic controls. Approved by Jacob Honick, Owner, by explicit instruction in the project conversation. Earlier revision-history entries describe superseded wording.
+
 

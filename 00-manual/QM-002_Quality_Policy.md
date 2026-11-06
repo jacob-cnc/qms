@@ -2,10 +2,10 @@
 | --- | --- |
 | Document No. | QM-002 |
 | Title | Quality Policy |
-| Revision | B — draft, pending owner release |
-| Effective Date | Pending owner release |
+| Revision | B |
+| Effective Date | 2026-11-05 |
 | Prepared By | Shop Owner |
-| Approved By | Pending |
+| Approved By | Jacob Honick, Owner |
 
 ---
 
@@ -46,7 +46,7 @@ On adoption, make the applicable policy available to persons performing work and
 | Field | Entry |
 | --- | --- |
 | Owner | Jacob Honick |
-| Approval / effective date | Pending |
+| Approval / effective date | Approved by owner instruction / 2026-11-05 |
 | Signature, if recorded | |
 
 No historic template date or printed name establishes approval of this revision.
@@ -65,5 +65,8 @@ No historic template date or printed name establishes approval of this revision.
 | Rev | Date | Description | Approved By |
 | --- | --- | --- | --- |
 | A | 2025-07-14 | Initial release (historical entry) | Shop Owner |
-| B — draft | 2026-11-05 | Align policy with customer-neutral basic controls; clarify no certification or quality-standard compliance claim and guidance-only standard references | Pending |
+| B | 2026-11-05 | Align policy with customer-neutral basic controls; clarify no certification or quality-standard compliance claim and guidance-only standard references | Jacob Honick, Owner |
+
+
+Approval recorded from Jacob Honick's explicit instruction in the project conversation on 2026-11-05; no handwritten signature was created.
 

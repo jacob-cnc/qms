@@ -86,3 +86,8 @@ Removed QF-039 Markdown/Word and active references to it. Generalized in-house c
 
 Applied owner revisions to QM-001: variety-of-industries context, metallic/non-metallic scope, removed §1.3 and the certification-required external-factor bullet. Added explicit no-certification/no-quality-standard-compliance status; standard and clause references are guidance/best-practice only, with actual customer/legal obligations retained. Reworked §§3.1 and 5.3 and related registrar/auditor/responsibility wording to avoid implying existing engagements or assessed conformity. Aligned linked QM-002 policy and the pending document register, and harmonized retention with QSM-001/QP-001. Regenerated and checked Word copies. Both manual/policy revisions remain draft pending release.
 
+
+## 2026-11-05 — Codex (manual/policy revision B approval)
+
+Recorded the owner's explicit approval of QM-001 and QM-002 revision B, effective 2026-11-05 (America/Los_Angeles). Removed draft status, updated register entries and next review dates, removed pending manual/policy entries, reconciled approval wording and regenerated Word copies. No handwritten signature or operational/certification claim was created. Other pending revisions remain unchanged. Owner requests that subsequent wording changes be presented in chat for approval/rework before application.
+
