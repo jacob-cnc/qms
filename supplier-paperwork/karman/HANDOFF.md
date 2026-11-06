@@ -102,3 +102,8 @@ Inspection services now require customer approval; survey narrative uses Torchwo
 
 The previously proposed dedicated caliper form is withdrawn and deleted. Earlier branch descriptions and agent entries are historical. QP-010 and QSM-001 now describe general in-house calibration/verification using known-good standards without defining reference values or a prescribed method. QF-020 or linked equipment/job records retain activity and results. Customer requirements govern additional controls. Instrument status remains unverified until actual checks and release occur. QP-010 approval remains pending.
 
+
+## Development manual status clarification — 2026-11-05
+
+QM-001 now covers customers in a variety of industries and metallic/non-metallic machining. Section 1.3 was removed at owner direction. Quality-standard references provide guidance and best practice only; no certification or quality-standard compliance is claimed. Sections 3.1/5.3 and QM-002 are aligned, without annual auditor or other provider-engagement assumptions. QM-001/QM-002 remain revision B drafts, while QSM-001 defines current basic controls. Earlier descriptions of the development manual's old wording are historical.
+

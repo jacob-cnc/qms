@@ -82,3 +82,10 @@ None currently.
 - [x] Calibration log, register, purchasing/training requirements, handoff, survey/readiness documents and tube-job packet aligned; QF-020 or linked equipment/job records are used.
 - [ ] Actual document release and instrument verification remain pending; customer requirements govern additional controls.
 
+
+## Manual scope and standards wording — 2026-11-05
+
+- [x] QM-001 industry scope broadened; §1.3 removed; certification-required external-factor bullet removed.
+- [x] Explicit no-certification/no-quality-standard-compliance status and guidance-only references applied throughout; §§3.1 and 5.3 and linked QM-002 aligned.
+- [ ] QM-001 and QM-002 revision B owner approval/effective dates remain pending; register lists these as drafts.
+

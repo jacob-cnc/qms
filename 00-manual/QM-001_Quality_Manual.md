@@ -11,6 +11,10 @@
 
 # QM-001 Quality Manual
 
+**Status and use of standards.** Torchworx LLC is not certified to AS9100, ISO 9001, ISO/IEC 17025, NADCAP or any other quality standard, and does not claim or imply compliance with those standards. References to standards and clause numbers provide guidance and best-practice context only; they are not evidence of certification, full implementation or assessed compliance. Actual customer, contractual and applicable legal requirements remain binding and are reviewed before work is accepted.
+
+This manual and its procedure/form cross-references are a development framework. Their presence does not establish that an activity has occurred or a service provider has been engaged. QSM-001 Basic Quality System Manual defines the current basic operating system and governs where the development documents differ; customer requirements take precedence. Certification is a future goal with no formal process or completion date established.
+
 ## 1. QMS Scope and Company Information
 
 ### 1.1 Company Information
@@ -23,11 +27,11 @@
 | Owner / Operator | Jacob Honick |
 | Business Type | LLC - Precision CNC and Manual Machining |
 | Equipment | 1x CNC Mill, 1x CNC Lathe, 1x Manual Mill |
-| Certifications Sought | AS9100 Rev D / ISO 9001:2015 |
+| Certification status | None held; no quality-standard compliance claimed. AS9100 / ISO 9001 are future goals only |
 
 ### 1.2 Scope of the Quality Management System
 
-This Quality Management System applies to the **precision CNC and manual machining of aerospace components to customer drawings**. The shop manufactures metallic parts using CNC milling, CNC turning, and manual milling processes per customer-supplied drawings, specifications, and purchase order requirements.
+This Quality Management System covers precision CNC and manual machining services for customers in a variety of industries. Torchworx LLC machines metallic or non-metallic parts using CNC milling, CNC turning and manual milling to customer-supplied drawings, specifications and purchase order requirements.
 
 **Products and Services Covered:**
 
@@ -40,25 +44,18 @@ This Quality Management System applies to the **precision CNC and manual machini
 
 - Single facility at the address above - all operations performed on-site except where contracted services are noted
 
-**Applicable Standards:**
+**Guidance and Best-Practice References:**
 
-- AS9100 Rev D (EN/JISQ 9100:2016)
-- ISO 9001:2015
-- Customer-specific requirements as flowed down via purchase orders
+- AS9100 Rev D (EN/JISQ 9100:2016), for guidance only
+- ISO 9001:2015, for guidance only
 
-### 1.3 Non-Applicable Requirement: Clause 8.3 — Design and Development
-
-**Non-Applicable Requirement:** AS9100 Rev D / ISO 9001:2015 Clause 8.3 (Design and Development of Products and Services)
-
-**Justification:** This organization does not perform design or development activities. All products are manufactured to customer-provided drawings, models, and specifications. The shop has no responsibility for product design, design validation, or design changes. All design authority resides with the customer or their designated design organization.
-
-This determination of non-applicability does not affect the organization's ability or responsibility to provide products that meet customer and applicable statutory/regulatory requirements.
+These references do not assert certification or compliance. Specific standard provisions become job requirements only when applicable through the customer order, contract or law; such requirements are reviewed and met for that work.
 
 ## 2. Context of the Organization
 
 ### 2.1 Understanding the Organization and Its Context
 
-The organization operates as a single-member LLC providing precision machining services to aerospace and defense customers. The context analysis considering internal and external issues affecting the QMS is documented in QF-032 Context Analysis.
+The organization operates as a single-member LLC providing precision machining services to customers in a variety of industries. The context analysis considering internal and external issues affecting the QMS is documented in QF-032 Context Analysis.
 
 **Key Internal Factors:**
 
@@ -69,7 +66,6 @@ The organization operates as a single-member LLC providing precision machining s
 
 **Key External Factors:**
 
-- AS9100 certification required by aerospace customers
 - Customer flow-down requirements vary by contract
 - Regulatory requirements (FAA, ITAR as applicable)
 - Supply chain risks for raw materials and calibration services
@@ -79,11 +75,11 @@ The organization operates as a single-member LLC providing precision machining s
 
 | Interested Party | Needs and Expectations |
 | --- | --- |
-| Customers | Conforming product, on-time delivery, traceability, certifications (CoC, FAI), communication |
-| Regulatory Bodies | Compliance with applicable airworthiness and export control regulations |
+| Customers | Conforming product, on-time delivery, traceability, required product records (CoC, FAI when specified), communication |
+| Regulatory Bodies | Identification and fulfillment of legal/regulatory requirements applicable to accepted work; no blanket regulatory-compliance claim |
 | Suppliers | Clear requirements, timely payment, fair evaluation |
 | Calibration Service Providers | Equipment access schedules, clear specifications |
-| Certification Body (Registrar) | Maintained QMS, corrective actions closed, management review conducted |
+| Potential future certification body | Requirements to be assessed if a formal certification project is undertaken; no registrar engagement or certification audit is claimed |
 
 ### 2.3 Determining the Scope of the QMS
 
@@ -91,30 +87,25 @@ The scope boundaries are defined in Section 1.2 above. The scope was determined 
 
 ## 3. Quality Policy
 
-The full quality policy is maintained as a standalone controlled document: **QM-002 Quality Policy**.
+The development-set quality policy is documented in **QM-002 Quality Policy**. The current basic operating policy is in QSM-001 §3.1 and governs where the documents differ.
 
 ### 3.1 Quality Policy Statement (Summary)
 
-The Shop Owner is committed to:
+Torchworx LLC commits to reviewing requirements before accepting work, delivering parts that meet the agreed drawing and purchase order requirements, and communicating problems honestly. This policy is a statement of intent and operating expectations, not a claim of certification, full implementation or compliance with a quality-management standard.
 
-1. **Customer Satisfaction** - Meeting or exceeding customer requirements and expectations for quality, delivery, and communication
-2. **Conformity to Requirements** - Delivering products that conform to drawings, specifications, and applicable standards
-3. **Product Safety** - Ensuring awareness of product safety contribution and maintaining ethical behavior
-4. **Continual Improvement** - Continuously improving QMS effectiveness and process capability
-5. **Statutory and Regulatory Compliance** - Meeting all applicable legal, regulatory, and certification requirements
+1. **Customer requirements** — Review quality, delivery and communication requirements before work is accepted.
+2. **Product conformity** — Inspect against agreed drawings, specifications and job requirements; obtain written customer authorization before any permitted deviation.
+3. **Ethics and product safety** — Keep honest records, report concerns and prevent unresolved suspect product from being shipped.
+4. **Improvement** — Use feedback, inspection results and reviews to improve shop practices.
+5. **Applicable obligations** — Identify and meet customer, contractual and legal requirements that apply to the work. Mention of a standard does not create or imply certification or full-standard compliance.
 
 ### 3.2 Communication and Availability
 
-The Quality Policy is:
-
-- Displayed in the shop (printed and posted)
-- Available as a controlled document (QM-002)
-- Communicated to all interested parties as appropriate
-- Reviewed for continuing suitability during Management Review (QP-012)
+On adoption, the applicable quality policy is made available to persons performing work and communicated as appropriate. Record actual approval, distribution and reviews; this manual does not establish that the policy has been posted or reviewed. QM-002 remains a development document pending release.
 
 ### 3.3 Record Retention
 
-Quality records shall be retained for a minimum of 7 years unless customer contract, purchase order, or regulatory requirements specify a longer retention period. Record retention requirements are detailed in QP-001 Document Control. For defense contracts, retain records for the life of the contract plus 3 years or as specified by the contracting authority.
+Retain quality records for at least 10 years after shipment, or longer when QP-001, the applicable program, customer contract, purchase order or law requires it. Apply the longest applicable period. QSM-001 §13 governs the current basic operating system; do not destroy records while an applicable retention period remains open.
 
 ## 4. Process Interaction and Document Cross-Reference
 
@@ -190,9 +181,9 @@ IMPROVEMENT PROCESSES (monitor and correct all processes):
 
 ### 4.2 Procedure Cross-Reference Table
 
-All quality procedures referenced by this QMS, organized by AS9100 clause:
+The following development procedures are cross-referenced to AS9100 clauses for guidance and navigation only. This table does not establish conformity, implementation or compliance with any clause:
 
-| Doc No. | Title | Primary AS9100 Clause |
+| Doc No. | Title | AS9100 Guidance Reference |
 | --- | --- | --- |
 | QP-001 | Document Control | 7.5 Documented Information |
 | QP-002 | Contract Review | 8.2 Requirements for Products and Services |
@@ -222,7 +213,7 @@ All quality procedures referenced by this QMS, organized by AS9100 clause:
 
 ### 4.3 Form Cross-Reference Table
 
-All quality forms/templates used within this QMS:
+The following blank forms/templates are available for development and use as applicable. A listed form is not evidence of a completed activity:
 
 | Doc No. | Title | Associated Procedure |
 | --- | --- | --- |
@@ -269,7 +260,7 @@ All quality forms/templates used within this QMS:
 
 ### 5.1 Organization Overview
 
-This is a single-member LLC. The Owner fulfills all management and operational roles. There is no delegation of authority to employees because there are no employees. Certain specialized activities are contracted to qualified external providers.
+This is a single-member LLC. The Owner fulfills all management and operational roles. There is no delegation of authority to employees because there are no employees. External services may be arranged where needed for the accepted work; no provider engagement is established by this manual.
 
 ### 5.2 Roles Fulfilled by Shop Owner
 
@@ -277,31 +268,33 @@ This is a single-member LLC. The Owner fulfills all management and operational r
 | --- | --- |
 | Top Management | Establish quality policy and objectives, ensure QMS integration with business processes, ensure resources are available, promote improvement and risk-based thinking |
 | Quality Manager | Maintain the QMS, ensure process conformance, report QMS performance, ensure customer focus throughout the organization |
-| Management Representative | Interface with external parties (registrar, customers) on QMS matters, ensure QMS requirements are met |
+| Management Representative | Interface with customers and any actually engaged external parties on quality matters |
 | Production Operator | Set up and operate CNC Mill, CNC Lathe, and Manual Mill per work instructions and job travelers |
 | Inspector | Perform receiving, in-process, and final inspection per procedures; make accept/reject decisions |
-| Internal Auditor | Plan and conduct internal audits (NOTE: contracted to external auditor per 5.3 to maintain objectivity) |
+| Internal Auditor | Coordinate reviews and any independent audits actually required or arranged under 5.3; an owner self-check is not represented as an independent AS9100 audit |
 | Purchasing / Buyer | Select and evaluate suppliers, issue purchase orders with quality requirements, manage ASL |
 | Document Controller | Control document creation, revision, distribution, and obsolescence |
 | Calibration Coordinator | Schedule calibration, maintain calibration records, manage OOT conditions |
 | Shipping / Receiving | Receive incoming material, verify against PO; package and ship finished product |
 
-### 5.3 Contracted Services
+### 5.3 External Services and Reviews
 
-The following table identifies activities that may use qualified external providers to supplement the Shop Owner's capabilities or satisfy objectivity requirements. Calibration may instead be performed in-house where permitted by QP-010 and customer requirements; listing a provider type does not establish an actual engagement.
+External services are selected for the actual job or business need. This section describes possible arrangements, not existing contracts, completed audits, accreditation or compliance with a quality standard.
 
-| Service | Provider Type | Reason for Contracting |
+| Activity | Approach | Customer and capability considerations |
 | --- | --- | --- |
-| Calibration | In-house verification or appropriate external calibration service per QP-010 | Customer requirements and measurement suitability govern any external service, accreditation or certification |
-| Internal Audit | Qualified AS9100 auditor (contracted annually) | AS9100 Clause 9.2 requires auditor objectivity - cannot self-audit |
-| Special Processes | NADCAP-accredited processors (heat treat, plating, NDT) | Specialized processes not performed in-house; customer/spec requirements |
-| IT / Backup | IT service provider | System maintenance, data backup verification |
+| Calibration / verification | In-house checks using known-good standards where permitted, or an appropriate external service under QP-010 | Meet customer-required methods, traceability, certification and accreditation; no accredited calibration is claimed without evidence |
+| Quality reviews / audits | Owner reviews under QSM-001; an independent reviewer or auditor may be engaged when required or specifically arranged | Owner self-checks are not independent audits. No annual auditor contract, AS9100 audit or completed assessment is claimed |
+| Special processes | Review capability and any external source before accepting the work | Obtain customer approval where required; use NADCAP-accredited or otherwise qualified sources when the actual contract/specification requires them. No process approval or accreditation is implied |
+| IT / backup | Owner-managed storage and backup, with external support if actually arranged | Follow documented practices and customer data requirements; retain evidence of actual backup/retrieval checks. No IT service contract is asserted |
+
+AS9100, ISO 9001 and other standard references are guidance and best-practice resources. If a customer imposes specific requirements, review and satisfy those requirements for the affected work; this does not establish organization-wide standard compliance or certification.
 
 ### 5.4 Authority and Communication
 
 **Authority Structure:**
 
-- The Shop Owner has full authority for all QMS decisions including:- Product release and nonconformance disposition
+- The Shop Owner manages shop quality decisions within contractual and legal limits, including product release and nonconformance control. Repair, use-as-is or deviations require prior written customer authorization; no customer MRB authority is implied.
 - Supplier approval and removal
 - Corrective action approval and effectiveness verification
 - Process changes and document revisions
@@ -317,11 +310,11 @@ The following table identifies activities that may use qualified external provid
 
 - Customer communication per QP-023
 - Supplier communication per QP-003
-- Registrar communication through Management Representative role
+- Communication with a registrar only if a certification project is actually initiated
 
 ### 5.5 Responsibility Matrix
 
-| QMS Process | Shop Owner | Contracted Calibration Lab | Contracted Auditor | Special Process Suppliers |
+| QMS Process | Shop Owner | External Calibration Provider, if used | Independent Auditor, if engaged | Special Process Suppliers, if used |
 | --- | --- | --- | --- | --- |
 | Document Control (QP-001) | R, A | - | - | - |
 | Contract Review (QP-002) | R, A | - | - | - |
@@ -332,8 +325,8 @@ The following table identifies activities that may use qualified external provid
 | Final Inspection (QP-007) | R, A | - | - | - |
 | Nonconforming Product (QP-008) | R, A | I | - | I |
 | Corrective Action (QP-009) | R, A | I | - | I |
-| Calibration (QP-010) | A | R | - | - |
-| Internal Audit (QP-011) | A | - | R | - |
+| Calibration (QP-010) | R, A | R when used | - | - |
+| Reviews / audits (QP-011 development reference; QSM-001 current controls) | Coordinate; R, A for owner self-checks | - | R if engaged for an independent audit | - |
 | Management Review (QP-012) | R, A | - | - | - |
 | Training (QP-013) | R, A | - | - | - |
 | Risk Management (QP-014) | R, A | - | - | - |
@@ -349,9 +342,13 @@ The following table identifies activities that may use qualified external provid
 | Work Transfer (QP-024) | R, A | - | - | - |
 | Control of Changes (QP-025) | R, A | - | - | - |
 
-**Legend:** R = Responsible (does the work), A = Accountable (approves/owns), I = Informed
+**Legend:** R = Responsible (does the work), A = Accountable (approves/owns), I = Informed. External assignments apply only when a provider is actually engaged; this matrix is not evidence of a contract or standard compliance.
 
 ## 6. References
+
+Quality-standard references below are guidance and best-practice resources only. They do not claim certification or compliance; customer-imposed requirements are reviewed for the applicable job.
+
+- QSM-001 Basic Quality System Manual — current basic operating controls
 
 - QM-002 Quality Policy
 - QM-003 Quality Objectives
@@ -368,4 +365,5 @@ The following table identifies activities that may use qualified external provid
 | A | 2026-08-10 | Revised: updated Clause 8.3 non-applicability terminology, added record retention statement, corrected procedure cross-reference table (QP-017 clause mapping), removed duplicate sections, incorporated full procedure and form cross-reference tables | Shop Owner |
 
 
-Revision B draft, prepared 2026-11-05: align calibration sourcing and requirements with QP-010 and customer requirements. Owner release/effective date pending.
+Revision B draft, prepared 2026-11-05: broaden industry/material scope; remove §1.3; make guidance-only status explicit; revise policy, external-service and responsibility wording; align calibration and retention with current basic controls. Owner release/effective date pending. Earlier revision-history entries describe superseded wording.
+

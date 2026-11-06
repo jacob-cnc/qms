@@ -142,7 +142,8 @@ Prepared 2026-11-05; DCR-2026-11-05-CAL. Above revision-A entries are not replac
 
 | ID | Proposed revision | Location | Status |
 | --- | --- | --- | --- |
-| QM-001 | B | 00-manual/QM-001_Quality_Manual.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
+| QM-001 | B | 00-manual/QM-001_Quality_Manual.md | Draft; broad industry scope, no §1.3, guidance-only standards and revised policy/external-service wording; owner release pending |
+| QM-002 | B | 00-manual/QM-002_Quality_Policy.md | Draft; policy aligned with QSM-001 and explicit no certification/quality-standard compliance claim; owner release pending |
 | QP-003 | B | 01-procedures/QP-003_Purchasing_and_Supplier_Management.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
 | QP-013 | B | 01-procedures/QP-013_Training_and_Competence.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
 | QP-010 | B | 01-procedures/QP-010_Calibration.md | Draft; owner approval/date pending |
@@ -156,5 +157,6 @@ The corresponding files at these paths are drafts. Do not issue them as effectiv
 ## Release record — WI-008 revision B
 
 Approved by Jacob Honick, Owner, by explicit instruction in the project conversation on 2026-11-05. Effective 2026-11-05. Revision B replaces revision A for current use; retain the previous revision in version history as obsolete. Matching Markdown and Word copies issued on the basic-QMS working branch. No handwritten signature is implied.
+
 
 

@@ -1,12 +1,11 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QM-002 |
 | Title | Quality Policy |
-| Revision | A |
-| Effective Date | 2025-07-14 |
+| Revision | B — draft, pending owner release |
+| Effective Date | Pending owner release |
 | Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Approved By | Pending |
 
 ---
 
@@ -14,67 +13,57 @@
 
 ## 1. Quality Policy Statement
 
-The Shop Owner of this organization is personally committed to providing precision CNC and manual machining services that consistently meet customer requirements, applicable statutory and regulatory requirements, and AS9100 Rev D standards.
+Torchworx LLC delivers machined parts that meet every drawing and purchase order requirement, on time, with honest records. Requirements are reviewed before work is accepted. Parts are inspected, problems are communicated to the customer, and lessons learned are used to improve shop practices. Torchworx LLC supports the quality philosophy of its customers.
 
-This commitment is demonstrated through the following policy:
+This policy states commitments and operating expectations. Torchworx LLC is not certified to AS9100, ISO 9001, ISO/IEC 17025, NADCAP or any other quality standard, and does not claim or imply compliance with those standards. References to standards are for guidance and best practice, not evidence of certification, implementation or assessed compliance.
 
-### Customer Satisfaction
+### Customer Requirements and Product Conformity
 
-We are committed to understanding and meeting customer requirements and expectations. We strive to deliver conforming product on time, every time, and to maintain open and responsive communication throughout the order lifecycle.
+Review drawings, specifications, purchase orders and changes before accepting work. Inspect and release product against the agreed job requirements. Repair, use-as-is or deviations require prior written customer authorization.
 
-### Conformity to Requirements
+### Ethics and Product Safety
 
-Every part produced shall conform to the requirements specified in customer drawings, purchase orders, and applicable specifications. No nonconforming product shall be knowingly shipped without documented customer concession.
+Record results honestly, report concerns and keep unresolved suspect product from being shipped. The actual use and requirements of each job govern the necessary controls.
 
-### Product Safety
+### Improvement
 
-We recognize that the components we produce may be used in safety-critical aerospace applications. We are committed to maintaining awareness of our product safety contribution, acting with integrity and ethical behavior, and ensuring that product safety is never compromised by schedule or cost pressure.
+Use customer feedback, inspection results, nonconformances and reviews to improve shop practices and quality-system effectiveness.
 
-### Continual Improvement
+### Applicable Obligations
 
-We are committed to the continual improvement of QMS effectiveness and process capability. This includes setting and tracking measurable quality objectives (QM-003), conducting management reviews, and taking corrective action on identified nonconformances and systemic issues.
+Identify and meet customer, contractual and legal requirements applicable to the accepted work. A specific standard requirement imposed by a customer applies to that work; it does not establish organization-wide standard compliance or certification.
 
-### Statutory and Regulatory Compliance
+## 2. Policy Use and Implementation
 
-We are committed to complying with all applicable legal, regulatory, and certification requirements, including but not limited to FAA regulations, ITAR/EAR export controls, and customer flow-down requirements.
+QSM-001 §3.1 contains the current basic operating policy and governs where the development documents differ. QM-001, the procedures, forms and objectives provide a development framework and guidance for the applicable controls. A document reference does not establish that a process has been implemented, a review completed or an outside service contracted.
 
-## 2. Policy Implementation
+## 3. Communication and Review
 
-This policy is implemented through:
-- The Quality Management System documented in QM-001 Quality Manual
-- Measurable quality objectives tracked per QM-003 Quality Objectives
-- Procedures (QP-001 through QP-025) that define operational controls
-- Management Review (QP-012) that evaluates policy suitability
-- Internal Audit (QP-011) that verifies conformance
+On adoption, make the applicable policy available to persons performing work and communicate it as appropriate. Record actual approval, distribution and reviews. Posting, training and review are not represented as complete merely because they are described here.
 
-## 3. Communication
+## 4. Approval
 
-This Quality Policy is:
-- Posted in the shop workspace (printed copy)
-- Available as a controlled document in the QMS
-- Referenced in the Quality Manual (QM-001, Section 3)
-- Reviewed for continuing suitability at each Management Review
+| Field | Entry |
+| --- | --- |
+| Owner | Jacob Honick |
+| Approval / effective date | Pending |
+| Signature, if recorded | |
 
-## 4. Signature
-
-| | |
-|---|---|
-| **Approved By:** | Shop Owner |
-| **Title:** | Owner / Operator / Quality Manager |
-| **Date:** | 2025-07-14 |
-
-This policy is reviewed annually during Management Review for continuing suitability, adequacy, and effectiveness.
+No historic template date or printed name establishes approval of this revision.
 
 ## 5. References
 
-- QM-001 Quality Manual
+- QSM-001 Basic Quality System Manual — current basic operating controls
+- QM-001 Quality Manual — development framework
 - QM-003 Quality Objectives
-- QP-011 Internal Audit
-- QP-012 Management Review
-- AS9100 Rev D Clause 5.2
+- QP-011 Internal Audit — development guidance; owner self-checks are not independent AS9100 audits
+- QP-012 Management Review — development guidance
+- AS9100 Rev D Clause 5.2 — guidance and best-practice reference only
 
 ## 6. Revision History
 
 | Rev | Date | Description | Approved By |
-|-----|------|-------------|-------------|
-| A | 2025-07-14 | Initial release | Shop Owner |
+| --- | --- | --- | --- |
+| A | 2025-07-14 | Initial release (historical entry) | Shop Owner |
+| B — draft | 2026-11-05 | Align policy with customer-neutral basic controls; clarify no certification or quality-standard compliance claim and guidance-only standard references | Pending |
+

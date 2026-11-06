@@ -81,3 +81,8 @@ Revised QP-010 revision B draft to allow simple limited-scope comparison with su
 
 Removed QF-039 Markdown/Word and active references to it. Generalized in-house calibration/verification to known-good standards without defining values or a prescribed method. Retained customer requirement precedence, equipment suitability and existing QF-020/linked record use. Updated manual, calibration log, master register, related purchasing/training text, handoff, survey/readiness documents, DCR, job plan, measurement register and packet. Historical entries above describe superseded work, not current requirements. No calibration result, reference qualification or approval signature was invented. Regenerated all affected Word copies and audited the repository for active obsolete links.
 
+
+## 2026-11-05 — Codex (QM-001 scope and standards language)
+
+Applied owner revisions to QM-001: variety-of-industries context, metallic/non-metallic scope, removed §1.3 and the certification-required external-factor bullet. Added explicit no-certification/no-quality-standard-compliance status; standard and clause references are guidance/best-practice only, with actual customer/legal obligations retained. Reworked §§3.1 and 5.3 and related registrar/auditor/responsibility wording to avoid implying existing engagements or assessed conformity. Aligned linked QM-002 policy and the pending document register, and harmonized retention with QSM-001/QP-001. Regenerated and checked Word copies. Both manual/policy revisions remain draft pending release.
+
