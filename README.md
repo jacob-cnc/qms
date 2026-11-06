@@ -16,7 +16,7 @@ This branch is the Markdown working set for PDF review and preparation of a cust
 
 83 QMS Markdown sources: 3 manual/policy/objective documents, 25 procedures, 9 work instructions, 38 forms, 3 supporting documents and 5 registers. The supporting set is retained because QM-001 and its procedures reference these documents. The courtesy attachment and export guide are also Markdown. The Python export script and its non-rendering tests are supporting tools, not customer deliverables.
 
-Word files and historical working material were left on the source branch. The single existing PDF in pdf-review/ is a historical manual layout review, outside the current source release; no new conversions were performed in this revision batch. Scripts, tests, README files and carryover notes support internal work and are not customer deliverables.
+Word files and historical working material were left on the source branch. The earlier generated PDF preview and its review folder have been removed. This branch contains no generated PDFs. Scripts, tests, README files and carryover notes support internal work and are not customer deliverables.
 
 ## Release status
 

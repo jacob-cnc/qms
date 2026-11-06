@@ -2,7 +2,7 @@
 | --- | --- |
 | Document No. | REG-001 |
 | Title | Master Document List |
-| Revision | B |
+| Revision | C |
 | Effective Date | 2026-08-10 |
 | Prepared By | Owner |
 | Approved By | Jacob Honick, Owner |
@@ -105,7 +105,7 @@ The owner designated 2026-08-10 as the QMS baseline and all document effective d
 | SUP-002 | Risk Matrix 5x5 Reference | B | 2026-08-10 | 2026-11-05 | 2027-08-10 | [Risk_Matrix_5x5.md](../04-supporting/Risk_Matrix_5x5.md) |
 | REG-004 | CNC Program Log | B | 2026-08-10 | 2026-11-05 | 2027-08-10 | [CNC_Program_Log.md](../06-registers/CNC_Program_Log.md) |
 | REG-003 | Drawing Register | B | 2026-08-10 | 2026-11-05 | 2027-08-10 | [Drawing_Register.md](../06-registers/Drawing_Register.md) |
-| REG-001 | Master Document List | B | 2026-08-10 | 2026-11-05 | 2027-08-10 | [Master_Document_List.md](../06-registers/Master_Document_List.md) |
+| REG-001 | Master Document List | C | 2026-08-10 | 2026-11-05 | 2027-08-10 | [Master_Document_List.md](../06-registers/Master_Document_List.md) |
 | REG-002 | NCR/CAR Log | B | 2026-08-10 | 2026-11-05 | 2027-08-10 | [NCR_CAR_Log.md](../06-registers/NCR_CAR_Log.md) |
 | REG-005 | QMS Recurring Tasks | A | 2026-08-10 | 2026-11-05 | 2027-08-10 | [QMS_Recurring_Tasks.md](../06-registers/QMS_Recurring_Tasks.md) |
 
@@ -117,6 +117,10 @@ The owner designated 2026-08-10 as the QMS baseline and all document effective d
 - QF-027 identifies the actual two CNC machines and one manual mill at the single shop.
 - REG-005 controls the recurring task tracker; the total remains 83 documents (3 manuals/policies/objectives, 25 procedures, 9 work instructions, 38 forms, 3 supporting documents and 5 registers).
 - The separate unnumbered courtesy survey cross-reference remains outside the controlled QMS set. Internal README files, scripts, tests, carryover notes and PDF review artifacts are not customer deliverables.
-- The existing QM-001 Rev C PDF is a historical layout review copy and does not represent the current approved Markdown revision. No PDFs were regenerated for this revision batch.
+- The earlier generated PDF preview and its review folder have been removed. No generated PDFs remain in the branch; future exports require review before issue.
 
 Maintain this register whenever approved documents change. Review it annually and when revisions are released. Preserve superseded versions in Git history and prevent their unintended issue. Customer package selection and PDF review are separate from source approval; do not send the entire repository by default.
+
+## Revision C Approval
+
+Approved 2026-11-05 by Jacob Honick, Owner. Remove the obsolete PDF-preview release note after the owner directed removal of the preview and review folder.

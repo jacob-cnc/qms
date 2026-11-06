@@ -3,7 +3,7 @@
 `convert_md_to_pdf.py` exports Markdown directly to customer-facing PDF using
 Pandoc and either headless Chromium/Chrome (default) or optional WeasyPrint via `--engine weasyprint`. It does not use or change Word copies.
 
-QM-001 Rev C was previously exported and reviewed for layout; that PDF is now a historical review copy because the Markdown source has been revised. No new PDFs were generated in the customer-readiness revision batch. Future exports require layout/content review before issue.
+The earlier QM-001 PDF preview and its review folder have been removed. No generated PDFs remain in this branch, and no new conversions were performed during that cleanup. Future exports require layout/content review before issue.
 
 ## Setup
 
