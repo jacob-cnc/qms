@@ -54,3 +54,10 @@ QF-020/QF-028/QF-030 approved revision B uses dashes for information not recorde
 - [ ] Add serial/year, maintenance plan, availability and other unrecorded machine details when available. QF-028 remains the measuring-tool inventory.
 
 
+
+## Markdown PDF exporter — 2026-11-05
+
+- [x] Added convert_md_to_pdf.py, PDF_EXPORT.md and non-rendering tests.
+- [x] Syntax, dependency versions and 10 non-rendering tests passed.
+- [ ] First actual export and visual PDF layout review deferred until owner requests conversion. No repository Markdown/Word/PDF conversions performed for this task; existing Word versions of these project notes were not regenerated under that instruction.
+

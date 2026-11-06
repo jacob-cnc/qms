@@ -158,3 +158,8 @@ Replaced QF-027 example machine data with the three actual machines recorded in 
 
 Recorded the owner's explicit approval of QF-027 revision B, effective 2026-11-05 (America/Los_Angeles). Updated document approval fields, revision history, master register, index and status; regenerated and checked Word copies. Preserved the single-facility locations, actual machine models and existing IDs. Unrecorded equipment fields remain dashes; no inspection, maintenance, signature or other document approval was created.
 
+
+## 2026-11-05 — Codex (Markdown-to-PDF script only)
+
+Added a standard-library Python CLI using Pandoc 3+ and Chromium/Chrome 131+: explicit or controlled-folder batch selection, metadata/revision footers, page counts, table headers, wide-table landscape, output isolation, overwrite protection, dry-run and dependency-check modes. Added PDF_EXPORT.md, non-rendering unit tests and ignored default generated PDF folder. Ran syntax/help, engine version checks and 10 unit tests without invoking conversion engines to render documents. No repository documents were converted and no PDF export generated; actual rendering and visual checks remain deferred per owner instruction. Project-note Word copies were not regenerated because no conversions were authorized.
+
