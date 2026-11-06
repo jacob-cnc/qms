@@ -148,3 +148,8 @@ Source aliases retained for historical reconciliation:
 | TW-PIN-001 | TW-ME-022 |
 | TW-STD-001 | TW-ME-007 |
 
+
+## 2026-11-05 — Codex (actual production equipment in QF-027)
+
+Replaced QF-027 example machine data with the three actual machines recorded in QM-001: 3040 three-axis CNC mill with Mach3, CTMACH CQ6133 CNC lathe and Grizzly G0704 manual mill. Preserved existing machine asset IDs and removed invented travel, RPM, accuracy, spare-parts, maintenance-frequency and operational-status claims; unrecorded values use dashes. Corrected the preventive-maintenance reference from QP-015 to QP-019. Updated register/index/status and regenerated Word copies. Revision B remains draft until owner release; no machine inspection or maintenance event is implied.
+

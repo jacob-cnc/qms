@@ -1,49 +1,63 @@
-﻿| Field | Value |
-|-------|-------|
+| Field | Value |
+| --- | --- |
 | Document No. | QF-027 |
 | Title | Equipment List |
-| Revision | A |
-| Effective Date | 2026-08-07 |
+| Revision | B — draft |
+| Effective Date | - |
 | Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Approved By | - |
 
 ---
 
-# Equipment List
+# QF-027 Equipment List
 
-**Last Updated:** _____ (YYYY-MM-DD) **Reviewed By:** _____________________
+**Updated:** 2026-11-05
+**Facility:** Torchworx LLC, 1721 63rd ST SE, Everett, WA 98203
 
----
+## Production Equipment Register
 
-## Machine Equipment Register
+| Asset ID | Equipment type | Make / model | Control | Serial No. | Year | Location | Process |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| CNC-MILL-001 | CNC mill | 3040 three-axis CNC mill | Mach3 | - | - | Torchworx LLC facility | Three-axis CNC milling |
+| CNC-LATHE-001 | CNC lathe | CTMACH CQ6133 | - | - | - | Torchworx LLC facility | CNC turning |
+| MAN-MILL-001 | Manual mill | Grizzly G0704 | Manual | - | - | Torchworx LLC facility | Manual milling |
 
-| Asset ID | Type | Make / Model | Serial No. | Year | Location | Key Capabilities | Critical Spares | PM Frequency | Status |
-|----------|------|-------------|-----------|------|----------|-----------------|----------------|-------------|--------|
-| CNC-MILL-001 | CNC Vertical Mill | [Make/Model] | [Serial] | [Year] | Main shop | 30x16x20 travel, 10k RPM, +/-0.0005 | Spindle bearings, way wipers | Monthly | Operational |
-| CNC-LATHE-001 | CNC Lathe | [Make/Model] | [Serial] | [Year] | Main shop | 10x20 swing/length, 4k RPM, +/-0.0003 | Chuck jaws, turret index | Monthly | Operational |
-| MAN-MILL-001 | Manual Knee Mill | [Make/Model] | [Serial] | [Year] | Secondary area | 9x42 table, 3k RPM, +/-0.001 | Belts, quill bearings | Quarterly | Operational |
+## Maintenance and Availability
 
----
+| Asset ID | Critical spares | PM frequency / plan reference | Current status | Restrictions / notes |
+| --- | --- | --- | --- | --- |
+| CNC-MILL-001 | - | - | - | - |
+| CNC-LATHE-001 | - | - | - | - |
+| MAN-MILL-001 | - | - | - | - |
+
+A dash (-) indicates information not recorded. Record maintenance intervals and equipment availability under QP-019. Assign current status from actual equipment condition before scheduling production.
 
 ## Status Definitions
 
 | Status | Meaning |
-|--------|---------|
+| --- | --- |
 | Operational | Equipment available for production use |
-| Restricted | Usable with limitations (specify in notes) |
-| Down | Out of service - not available for production |
+| Restricted | Usable within the restrictions recorded above |
+| Down | Out of service; unavailable for production |
 
----
+## Register Control
 
-## Notes
+Retain the listed asset IDs on machine labels, setup records, job travelers and QF-021 maintenance records. Update this register when equipment is acquired, retired, relocated or changes status.
 
-___________________________________________________________________________
+Job requirements and actual equipment capability govern suitability for the work. Record any required machine-specific limitations or settings in the job instructions. Measuring and inspection instruments are maintained separately in QF-028; QF-030 schedules their calibration.
 
-___________________________________________________________________________
+## References
 
----
+- QM-001 Quality Manual
+- QP-019 Preventive Maintenance
+- QF-021 Preventive Maintenance Record
+- QF-028 Measurement Equipment List
+- QF-030 Calibration Schedule
 
-**Instructions:** Maintain this list as a current register of all production equipment. Update when equipment is acquired, disposed, or status changes. Reference PM schedules per QP-015 Preventive Maintenance. Asset IDs must match those used on PM records and work orders.
+## Revision History
 
-**References:** QP-015 Preventive Maintenance
+| Rev | Date | Description | Approved By |
+| --- | --- | --- | --- |
+| A | 2026-08-07 | Initial example template | Shop Owner (historical) |
+| B — draft | 2026-11-05 | Replace example machines/specifications with actual 3040 Mach3 mill, CTMACH CQ6133 lathe and Grizzly G0704 manual mill; retain asset IDs and correct QP-019 reference | - |
+

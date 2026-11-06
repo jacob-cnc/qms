@@ -46,3 +46,9 @@ QF-020 opening entries record in-house calibration on 2026-11-01 for all 22 entr
 
 QF-020/QF-028/QF-030 approved revision B uses dashes for information not recorded and direct calibration status wording. TW-PIN-001: Class ZZ minus, 0.001 in increments. Source attribution/aliases and earlier uncertainty commentary are kept in history rather than the issued equipment register. No new measurement results or external calibration certificates are created by presentation changes.
 
+
+## Production equipment — 2026-11-05
+
+- [x] QF-027 updated with actual machines: CNC-MILL-001 (3040 three-axis mill, Mach3), CNC-LATHE-001 (CTMACH CQ6133), MAN-MILL-001 (Grizzly G0704).
+- [ ] Review/release QF-027 revision B; add serial/year, maintenance plan, availability and other unrecorded fields when available. QF-028 remains the measuring-tool inventory.
+
