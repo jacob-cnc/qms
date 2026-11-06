@@ -97,5 +97,6 @@ Leave blank, or write "None — single site."
 - [x] Company name on QF-002, QF-007 and QF-010 corrected to Torchworx LLC (2026-11-05)
 - [ ] Confirm the ⚠ items above
 - [ ] Ask your Karman contact whether they want DFARS Q1–3 as "No" or "NA"
-- [ ] Before cutting the titanium tubes: calibrate the calipers (QF-039 or a lab) and receive certified pins
+- [ ] Before cutting the titanium tubes: establish caliper suitability under QP-010 using an appropriate in-house or external route and receive certified pins
+
 

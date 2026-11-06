@@ -26,7 +26,7 @@ Both ends accessible. Controlled end identification method: ______. Customer wor
 | Stock part number 89055K53 recorded; titanium grade/spec, cert and stock OD acceptance basis still to verify | |
 | Confirmation of bore/depth interpretation, required edge treatment, special notes | |
 | Machines/setup/process capability, inspection access and suitable gauge working length | |
-| Caliper release and uncertainty/guard band; pin certificate/decision-rule review | |
+| Instrument suitability under QP-010 and customer requirements; job-specific pin review | |
 | Material source approval, lot records and any outside services/flowdowns | |
 | Customer cert/FAI/source inspection/sampling or special-process requirements | |
 | Packaging, labeling, delivery, quantity, price and capacity | |
@@ -49,3 +49,4 @@ Open issues / customer clarification references: ______
 Contract acceptance decision (accept/hold/decline): ______
 Actual reviewer/signature/date: ______
 References: QP-002, QP-014, QP-025. No actual acceptance is recorded in this draft.
+

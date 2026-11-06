@@ -44,7 +44,7 @@ Guiding rule from the owner: **accurate and honest, best practice, bare minimum.
 
 - **Inspection:** 100% inspection of every characteristic, actual values recorded; no sampling → survey Q16a answered "No" with explanation.
 - **Material review:** rework-to-drawing or scrap only. Use-as-is, repair or any deviation requires Karman's written approval.
-- **Calibration:** accredited lab, or the limited in-house method recorded on QF-039.
+- **Calibration:** in-house calibration/verification using known-good standards where customer requirements permit, recorded in QF-020 or linked equipment/job records; external services and additional controls as required by the customer. No dedicated caliper form is used.
 - **Record retention:** 10 years minimum or longer if the contract requires (strictest of the conflicting values in the dev set).
 - **ITAR/DFARS:** not ITAR-registered, no ITAR work accepted; NIST SP 800-171 not assessed, so no CUI orders accepted. Page-1 ITAR questions drafted "No" with that explanation — ask the Karman contact whether they prefer "NA".
 
@@ -73,7 +73,7 @@ Owner actions before sending:
 9. Export signed QSM-001 to PDF from Word (agent can't generate PDF without Word).
 
 Before measuring parts for acceptance (not before sending the survey):
-10. Calibrate calipers (lab or QF-039 in-house method); buy certified 0.194/0.195 minus pins and reference length standards. Q10 "calibration system" is honest once adopted, but instruments must be calibrated before use.
+10. Establish caliper suitability under QP-010 using an appropriate in-house or external route; confirm the planned pins and any customer-required evidence before acceptance use. Q10 "calibration system" is honest once adopted, but instruments must be calibrated before use.
 
 Repo housekeeping / known gaps (not fixed, by design or pending owner):
 11. Review-branch drafts (QP-006, QP-010, QF-020 Rev B "draft, approval pending") **replace the approved versions** — merging to master before approval loses the approved revs.
@@ -97,3 +97,8 @@ Applied the owner's review: metallic or non-metallic scope; retain only explosiv
 ## Review corrections — 2026-11-05
 
 Inspection services now require customer approval; survey narrative uses Torchworx LLC; courtesy attachment Q8 explicitly points to QSM-001. Q40 requires separate DoD applicability and actual DCMA site-survey confirmation; Q41–47 need applicability review, with Q44 answered as an explanation. The cross-reference is a courtesy attachment only: no document number, revision or Master Document List entry is required. Manual pagination uses Word PAGE/NUMPAGES fields; unnumbered documents have no controlled footer. Owner adoption/signature and other factual confirmations remain pending.
+
+## Current calibration direction — 2026-11-05
+
+The previously proposed dedicated caliper form is withdrawn and deleted. Earlier branch descriptions and agent entries are historical. QP-010 and QSM-001 now describe general in-house calibration/verification using known-good standards without defining reference values or a prescribed method. QF-020 or linked equipment/job records retain activity and results. Customer requirements govern additional controls. Instrument status remains unverified until actual checks and release occur. QP-010 approval remains pending.
+

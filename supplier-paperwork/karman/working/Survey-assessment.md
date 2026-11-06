@@ -38,7 +38,7 @@ References below identify existing document coverage, not verified implementatio
 | 7b | Material cert capability unconfirmed | QP-003/004; QF-003 | Material source, required cert availability and heat/lot linkage; customer-furnished material arrangements |
 | 8 | Written manual/policy exist; customer issue needs accurate status | QM-001; QM-002; proposed KMS-001 | Resolve misleading implementation/approval assertions and prepare controlled electronic copies |
 | 9 | Ethics/product safety equivalent needs explicit wording and acknowledgment | QP-013/017; proposed KMS-001 §3 | Owner adoption and awareness record; future personnel acknowledgment |
-| 10 | Calibration process documented, operating system unverified | QP-010; QF-020/028/030/033 | Instrument inventory, valid certs, status labels, due dates, suitability for job tolerances |
+| 10 | Calibration process documented, operating system unverified | QP-010; QF-020/028/030/033 | Instrument inventory, in-house check or external calibration records, certificates when required, status, due dates and suitability for job tolerances |
 | 11 | Supplier approval documented | QP-003; QF-017/019 | Actual approved sources with scope/evaluation; no fictional suppliers |
 | 12 | Outgoing PO controls documented | QP-003; QF-002 | Reviewed PO showing material/spec/certs/traceability flowdowns, when purchasing is used |
 | 13 | Customer PO and change review documented | QP-002/025; QF-001/029 | Actual RFQ/PO review, discrepancies resolved, acceptance and change log |
@@ -72,3 +72,4 @@ References below identify existing document coverage, not verified implementatio
 - Tooling preservation/record maintenance and ethics awareness need explicit, practical implementation detail.
 
 No submission is ready. No completed survey, approval, signature, assessment score, certificate or operational history has been manufactured.
+

@@ -48,11 +48,12 @@
 
 ---
 
-**Instructions:** Record all calibration events. For OOT results, assess impact on product measured since last known good calibration per QP-010. Link the in-house check record; attach certificates when required or supplied. A certificate number is not required for a shop check without a certificate. Update next due date on instrument label.
+**Instructions:** Record all calibration events. For OOT results, assess impact on product measured since last known good calibration per QP-010. Record the in-house calibration/verification here or link an equipment/job record; attach certificates when required or supplied. A certificate number is not required for a shop check without a certificate. Update next due date on instrument label.
 
 **Result Key:** In-Tol = Within tolerance, no adjustment | Adj-In-Tol = Adjusted and verified in tolerance | OOT = Out of tolerance
 
 **References:** QP-010 Calibration Procedure, QF-033 OOT Investigation (if applicable)
 
 Revision B draft, prepared 2026-11-05: correct calibration procedure references to QP-010 and allow in-house check-record references without mandatory certificates. Owner approval/effective date pending.
+
 

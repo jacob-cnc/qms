@@ -71,6 +71,14 @@ None currently.
 
 ## In-house calibration refinement — 2026-11-05
 
-- [x] QP-010 B draft, QF-039 A draft and QSM-001 §9 aligned for simple known-good reference checks with customer requirements taking precedence.
-- [ ] Record owner release of QP-010/QF-039 before operational use; establish actual reference suitability and check results for the intended measurements.
+- [x] Earlier calibration refinement completed; superseded by the current simplification below, which removes the dedicated caliper form.
+- [ ] Record owner release of QP-010 before operational use; establish actual instrument suitability and check results for the intended work. The dedicated caliper form is withdrawn.
+
+
+## Current calibration simplification — 2026-11-05
+
+- [x] Removed the dedicated caliper form (Markdown and Word) and active references throughout the document chain.
+- [x] QP-010 and QSM-001 use general known-good standards wording, without defining reference values or a fixed in-house method.
+- [x] Calibration log, register, purchasing/training requirements, handoff, survey/readiness documents and tube-job packet aligned; QF-020 or linked equipment/job records are used.
+- [ ] Actual document release and instrument verification remain pending; customer requirements govern additional controls.
 

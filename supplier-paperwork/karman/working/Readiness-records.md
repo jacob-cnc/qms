@@ -14,7 +14,7 @@ Status: uncompleted. No entries below establish activity or approval. Enter actu
 | QM-001/QM-002 statements checked against actual practice, approval/status corrected | Open |
 | KMS-001 reviewed; overlapping requirements reconciled; document register updated | Open |
 | Owner approval / effective date recorded, without backdating | Open |
-| Instrument list, suitable measurement methods, calibration certs/status available | Open |
+| Instrument list, suitable methods, calibration/verification records and status available; certificates when required | Open |
 | Material source/cert capability and approved sources established | Open |
 | Job/material identification and hold/storage areas established | Open |
 | Ethics/product conformity awareness reviewed and QF-016 recorded | Open |
@@ -47,3 +47,4 @@ Use existing forms rather than duplicate systems: QF-001 contract review; contro
 ## Submission manifest — not yet assembled
 
 Record final filenames, document IDs/revisions, approval/effective dates and any limitations here before sending. Exclude this internal assessment, blank readiness records, obsolete versions, unrelated records and unapproved drafts unless deliberately requested and clearly identified. No email has been prepared or sent.
+

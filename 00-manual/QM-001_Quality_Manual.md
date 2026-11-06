@@ -2,11 +2,10 @@
 | --- | --- |
 | Document No. | QM-001 |
 | Title | Quality Manual |
-| Revision | A |
-| Effective Date | 2026-08-10 |
+| Revision | B — draft, pending owner release |
+| Effective Date | Pending owner release |
 | Prepared By | Shop Owner |
-| Approved By | Shop Owner |
-| Page | 1 of 1 |
+| Approved By | Pending |
 
 ---
 
@@ -289,11 +288,11 @@ This is a single-member LLC. The Owner fulfills all management and operational r
 
 ### 5.3 Contracted Services
 
-The following activities are contracted to qualified external providers to supplement the Shop Owner's capabilities or to satisfy objectivity requirements:
+The following table identifies activities that may use qualified external providers to supplement the Shop Owner's capabilities or satisfy objectivity requirements. Calibration may instead be performed in-house where permitted by QP-010 and customer requirements; listing a provider type does not establish an actual engagement.
 
 | Service | Provider Type | Reason for Contracting |
 | --- | --- | --- |
-| Calibration | Accredited calibration laboratory (ISO/IEC 17025) | Required accreditation; specialized equipment and standards |
+| Calibration | In-house verification or appropriate external calibration service per QP-010 | Customer requirements and measurement suitability govern any external service, accreditation or certification |
 | Internal Audit | Qualified AS9100 auditor (contracted annually) | AS9100 Clause 9.2 requires auditor objectivity - cannot self-audit |
 | Special Processes | NADCAP-accredited processors (heat treat, plating, NDT) | Specialized processes not performed in-house; customer/spec requirements |
 | IT / Backup | IT service provider | System maintenance, data backup verification |
@@ -368,3 +367,5 @@ The following activities are contracted to qualified external providers to suppl
 | - | 2025-07-14 | Initial draft | Shop Owner |
 | A | 2026-08-10 | Revised: updated Clause 8.3 non-applicability terminology, added record retention statement, corrected procedure cross-reference table (QP-017 clause mapping), removed duplicate sections, incorporated full procedure and form cross-reference tables | Shop Owner |
 
+
+Revision B draft, prepared 2026-11-05: align calibration sourcing and requirements with QP-010 and customer requirements. Owner release/effective date pending.

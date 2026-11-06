@@ -13,8 +13,8 @@ Inspector / actual date: ______  Setup/program revision: ______
 ## Instrument and session readiness
 
 Caliper actual asset ID / release record / due date: ______
-Current QF-039 session check record: ______  Released bound B: ______
-Actual guarded length acceptance band [2.950+B, 3.050−B]: ______
+QF-020 or linked calibration/verification record: ______
+Customer/job-specific measurement instructions or restrictions, if applicable: ______
 Pin actual asset IDs / certificates / actual sizes / uncertainty / recall dates: ______
 Approved pin decision-rule review: ______  Depth-reference/check method: ______
 Temperature / clean-part and gauge condition checks: ______
@@ -22,7 +22,7 @@ Do not measure for acceptance while any required instrument remains unverified, 
 
 | Characteristic | Requirement / conservative screen | Actual observation (no invented bore diameter) | Instrument ID | Accept / hold / confirmed fail |
 | --- | --- | --- | --- | --- |
-| Length | Drawing 2.950–3.050; apply released guarded band | Actual reading: ____ | | |
+| Length | Drawing 2.950–3.050; follow applicable customer/job measurement instructions | Actual reading: ____ | | |
 | Controlled ID lower/depth | Certified minus 0.194 pin passes freely ≥1.000 from designated end | Pass/block: ____; demonstrated insertion depth: ____ | | |
 | Controlled ID upper | Certified minus 0.195 pin does not enter functional bore at controlled end | Enters/does not enter: ____ | | |
 | Remaining bore upper | Certified minus 0.195 pin does not enter functional bore at opposite end | Enters/does not enter: ____ | | |
@@ -37,3 +37,4 @@ Inspection-interfering burrs/damage or requirement discrepancies: ______
 NCR/hold/rework/customer concession and reinspection references: ______
 Inspector conclusion / signature/date: ______
 Final release is separate and may occur only after the completed job packet review.
+

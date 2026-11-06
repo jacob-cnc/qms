@@ -19,10 +19,11 @@ Matching DOCX files are editable working copies. Choose one record medium as the
 ## Gates
 
 - Before acceptance: complete contract review and resolve customer requirements and capability gaps.
-- Before production: release the job plan/documents, material lot and instruments. Calipers are currently unverified; pins and length standards are planned. Complete QF-039 or suitable external calibration and pin certificate/decision-rule review before acceptance use.
+- Before production: release the job plan/documents, material lot and instruments. Calipers are currently unverified; pins remain planned. Establish instrument suitability under QP-010, record the in-house check or external calibration in QF-020 or linked equipment/job records, and complete the job-specific pin review before acceptance use. Meet all customer-required evidence and methods.
 - Before continuing a batch: pass the first-piece hold point. Record all required process checks.
 - Before shipment: complete every piece's final inspection, reconcile quantity/traceability, resolve holds/NCRs, review certs, then sign the release and shipment CoC. No signature or conformity statement is effective merely because it appears in a blank template.
 
 No extra surface-finish, TIR, cylindricity, welding, flight-product or certification requirement has been added. Confirm any drawing notes, entrance edge treatment, cleanliness or packaging requirements during contract review.
 
 File the actual PO/drawing, material cert, gauge certs, released instrument records, completed packet, concessions and shipment proof under the assigned job ID. Use approved record storage/backup and longest applicable retention pending policy reconciliation. Do not treat this Git folder as proof of backup or external issue.
+

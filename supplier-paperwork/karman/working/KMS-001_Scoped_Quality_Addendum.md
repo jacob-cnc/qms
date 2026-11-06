@@ -62,4 +62,5 @@ Before this draft is issued as effective: confirm customer scope/flowdowns; reso
 
 ### Calibration development update — 2026-11-05
 
-QP-010 revision B and QF-039 revision A have now been drafted for limited-scope in-house external-length calibration. They are not effective or evidence of completed calibration. See DCR-2026-11-05-Calibration.md and Job-measurement-register.md. The previous external-only policy is the baseline pending actual release; reconcile any earlier wording here during release. Calipers remain unverified and pins remain planned.
+QP-010 revision B now proposes general in-house calibration/verification using known-good standards where customer requirements permit. The dedicated caliper form and its prescribed method have been withdrawn and deleted. Record activities in QF-020 or linked equipment/job records. Customer requirements govern any additional calibration, certification or traceability controls. Approval/effective dates remain pending; calipers remain unverified and pins remain planned.
+

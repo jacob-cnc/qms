@@ -142,10 +142,12 @@ Prepared 2026-11-05; DCR-2026-11-05-CAL. Above revision-A entries are not replac
 
 | ID | Proposed revision | Location | Status |
 | --- | --- | --- | --- |
+| QM-001 | B | 00-manual/QM-001_Quality_Manual.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
+| QP-003 | B | 01-procedures/QP-003_Purchasing_and_Supplier_Management.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
+| QP-013 | B | 01-procedures/QP-013_Training_and_Competence.md | Draft; calibration requirements aligned with QP-010/customer requirements; owner release pending |
 | QP-010 | B | 01-procedures/QP-010_Calibration.md | Draft; owner approval/date pending |
 | QP-006 | B | 01-procedures/QP-006_In_Process_Inspection.md | Draft; corrected calibration references |
 | QF-020 | B | 03-forms/QF-020_Calibration_Log.md | Draft; corrected calibration references |
-| QF-039 | A | 03-forms/QF-039_Limited_Scope_Caliper_Calibration.md | New draft; not effective; excluded from released-document counts above |
 | QSM-001 | A | 07-basic-qms/QSM-001_Basic_Quality_System_Manual.md | New; basic quality system for uncertified Tier 3 supply; governs where it differs from the development set; effective on owner signature. Supersedes draft KMS-001 |
 
 The corresponding files at these paths are drafts. Do not issue them as effective revisions; retrieve the preceding baseline from version history if needed and verify its approval status independently.
@@ -154,4 +156,5 @@ The corresponding files at these paths are drafts. Do not issue them as effectiv
 ## Release record — WI-008 revision B
 
 Approved by Jacob Honick, Owner, by explicit instruction in the project conversation on 2026-11-05. Effective 2026-11-05. Revision B replaces revision A for current use; retain the previous revision in version history as obsolete. Matching Markdown and Word copies issued on the basic-QMS working branch. No handwritten signature is implied.
+
 

@@ -42,9 +42,8 @@ Owner plans to acquire Deltronic pins in 0.0001 in increments for upper/lower li
 
 Owner reports Mitutoyo model 509-712-20, 0–150 mm, IP67 calipers without a current external calibration certificate. Model marking, serial number, display resolution, inch-mode capability and manufacturer accuracy are not yet verified. Proposed purchase of certified reference pins or blocks is not yet completed. Gauge-pin supplier traceability and individual calibration evidence must be checked on the actual purchase; a generic CoC does not establish dimensional calibration uncertainty or full traceability.
 
-QP-010 currently requires acceptance instruments to be calibrated by an ISO/IEC 17025 accredited laboratory with suitable scope. Shop reference checks do not satisfy that existing policy. Either obtain suitable external calibration before acceptance use, or develop and approve a controlled revision permitting technically supported in-house calibration where the customer contract allows it. No revision, calibration result or supplier acceptance is implied by this draft.
+The revised QP-010 draft permits in-house calibration/verification using known-good standards where customer requirements allow it, or an appropriate external service. The approach is selected for the instrument and actual work. This job plan does not prescribe reference lengths, repeat counts, numerical calibration limits or a dedicated caliper method. Record calibration/verification activity and results on QF-020 or linked equipment/job records. Customer requirements take precedence, including any required certificates, traceability, accreditation or methods. The chosen inspection method must support the drawing tolerance before product acceptance.
 
-For this loose length tolerance, a documented external-jaw verification near 3 in is a useful capability check. Zero plus several certified lengths can support an in-house method, but does not alone calibrate all caliper functions/ranges or establish measurement uncertainty. Prefer suitable certified gauge blocks for external length checks; cylindrical pins require attention to alignment/contact. Any future in-house method must define instrument ID and restricted scope, standard IDs/certificates, environmental conditions, cleaning/zeroing, check points/repeats, permissible error, uncertainty/fitness decision, as-found/as-left results, due date and OOT response. Do not claim calibration of inside/depth functions from outside-jaw checks.
 
 ## Open before release
 
@@ -59,4 +58,5 @@ The full shop instrument inventory can wait; qualify the instruments actually us
 
 ### Calibration development update — 2026-11-05
 
-QP-010 revision B and QF-039 revision A have now been drafted for limited-scope in-house external-length calibration. They are not effective or evidence of completed calibration. See DCR-2026-11-05-Calibration.md and Job-measurement-register.md. The previous external-only policy is the baseline pending actual release; reconcile any earlier wording here during release. Calipers remain unverified and pins remain planned.
+QP-010 revision B now proposes general in-house calibration/verification using known-good standards where customer requirements permit. The dedicated caliper form and its prescribed method have been withdrawn and deleted. Record activities in QF-020 or linked equipment/job records. Customer requirements govern any additional calibration, certification or traceability controls. Approval/effective dates remain pending; calipers remain unverified and pins remain planned.
+

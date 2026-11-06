@@ -76,3 +76,8 @@ Recorded Jacob Honick's explicit instruction to approve WI-008 revision B. Set a
 
 Revised QP-010 revision B draft to allow simple limited-scope comparison with suitable known-good references; retained brief actual-results records, fitness decisions and customer-required certification/traceability/accreditation. Simplified QF-039 and aligned QSM-001 §9. No reference, instrument, calibration result or formal release is asserted by these edits. Regenerated and checked Word copies. Existing proposed tube-specific plans may retain stricter checks until reviewed for the actual job.
 
+
+## 2026-11-05 — Codex (remove dedicated caliper method)
+
+Removed QF-039 Markdown/Word and active references to it. Generalized in-house calibration/verification to known-good standards without defining values or a prescribed method. Retained customer requirement precedence, equipment suitability and existing QF-020/linked record use. Updated manual, calibration log, master register, related purchasing/training text, handoff, survey/readiness documents, DCR, job plan, measurement register and packet. Historical entries above describe superseded work, not current requirements. No calibration result, reference qualification or approval signature was invented. Regenerated all affected Word copies and audited the repository for active obsolete links.
+
