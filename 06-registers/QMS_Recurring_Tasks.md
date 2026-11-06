@@ -70,7 +70,7 @@
 |------|------|---------|----------------|-------|
 | Training record entry | QF-016 | Any training event | ___ / ___ / ___ | Include: topic, method, evidence |
 | Improvement Log update | QF-038 | Improvement identified or mgmt review | ___ / ___ / ___ | Continuous improvement evidence |
-| DOCX regeneration | — | Any .md source file changed | ___ / ___ / ___ | `python convert_md_to_docx.py --all` |
+| PDF export review | — | Approved Markdown revision selected for customer review | ___ / ___ / ___ | Use `convert_md_to_pdf.py` only when export is requested; review layout before issue |
 | Master Document List update | MDL | Document added/revised/retired | ___ / ___ / ___ | Keep in sync with actual files |
 
 ---

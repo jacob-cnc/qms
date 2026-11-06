@@ -2,7 +2,7 @@
 
 ## Instructions
 
-This register lists all controlled documents in the QMS package. Maintain this list whenever documents are added, revised, or retired. This is the single source of truth for current document status.
+This register lists the 83 QMS-source documents retained on active-working-qms. Implementation guides and internal project records are maintained on the source branch, outside this working set. Maintain this list whenever documents are added, revised, or retired. This is the single source of truth for current document status.
 
 **Revision Control:** Update the "Last Updated" date below whenever any entry changes.
 
@@ -97,16 +97,12 @@ This register lists all controlled documents in the QMS package. Maintain this l
 | SUP-001 | PO Quality Clauses Addendum | A | [Date] | qms/04-supporting/ | [Date +1yr] |
 | SUP-002 | Risk Matrix 5x5 Reference | A | [Date] | qms/04-supporting/ | [Date +1yr] |
 | SUP-003 | Record Retention Schedule | A | [Date] | qms/04-supporting/ | [Date +1yr] |
-| **05-implementation/** | | | | | |
-| IMP-001 | Gap Analysis Tool | A | [Date] | qms/05-implementation/ | [Date +1yr] |
-| IMP-002 | Implementation Guide | A | [Date] | qms/05-implementation/ | [Date +1yr] |
-| IMP-003 | Audit Preparation Guide | A | [Date] | qms/05-implementation/ | [Date +1yr] |
-| IMP-004 | Quick Start Checklist | A | [Date] | qms/05-implementation/ | [Date +1yr] |
 | **06-registers/** | | | | | |
 | REG-001 | Master Document List | A | [Date] | qms/06-registers/ | [Date +1yr] |
 | REG-002 | NCR/CAR Log | A | [Date] | qms/06-registers/ | [Date +1yr] |
 | REG-003 | Drawing Register | A | [Date] | qms/06-registers/ | [Date +1yr] |
 | REG-004 | CNC Program Log | A | [Date] | qms/06-registers/ | [Date +1yr] |
+| - | QMS Recurring Tasks | - | - | qms/06-registers/ | - |
 
 ---
 
@@ -119,9 +115,8 @@ This register lists all controlled documents in the QMS package. Maintain this l
 | Work Instructions (WI) | 9 |
 | Forms (QF) | 38 |
 | Supporting Documents (SUP) | 3 |
-| Implementation Tools (IMP) | 4 |
-| Registers (REG) | 4 |
-| **Total** | **86** |
+| Registers (REG) | 5 |
+| **Total** | **83** |
 
 ---
 
@@ -150,34 +145,14 @@ Prepared 2026-11-05; DCR-2026-11-05-CAL. Above revision-A entries are not replac
 The corresponding files at these paths are drafts. Do not issue them as effective revisions; retrieve the preceding baseline from version history if needed and verify its approval status independently.
 
 
-## Release record — WI-008 revision B
+## Active source and release summary
 
-Approved by Jacob Honick, Owner, by explicit instruction in the project conversation on 2026-11-05. Effective 2026-11-05. Revision B replaces revision A for current use; retain the previous revision in version history as obsolete. Matching Markdown and Word copies issued on the basic-QMS working branch. No handwritten signature is implied.
+The single quality manual is `00-manual/QM-001_Quality_Manual.md`, approved revision C. QM-002 revision B is the companion quality policy. WI-008 revision B and QF-020, QF-027, QF-028 and QF-030 revision B retain their recorded approvals, effective 2026-11-05.
 
+QF-028 lists 22 instruments/sets calibrated in-house on 2026-11-01, with a 12-month interval and next due date 2027-11-01. TW-PIN-001 is Class ZZ minus with 0.001 in increments.
 
+The four unreleased procedure revisions listed above remain drafts. Other document revisions and recorded fields are preserved from the source branch; branch carry-over does not change approval status.
 
+This branch maintains Markdown sources only. Word copies, original survey PDFs and historical approval logs remain on `karman/basic-qms` and in Git history. Supporting PDF export tooling is present, but no conversion has been run. The separate unnumbered courtesy survey cross-reference is outside the 83-document QMS count.
 
-## Release record — QM-001 / QM-002 revision B
-
-Jacob Honick, Owner, explicitly approved the revised manual and policy in the project conversation on 2026-11-05. Both revisions are effective 2026-11-05; prior revision A copies are obsolete for current use and remain in history. Matching Markdown and Word copies are issued on the working branch. This records approval without creating a handwritten signature. Approval does not change their development-framework status or establish certification, quality-standard compliance or completed implementation.
-
-
-
-## Manual consolidation
-
-The sole current manual source is `00-manual/QM-001_Quality_Manual.md`; its DOCX is generated from that source. Revision C consolidates the separately maintained basic manual and scope addendum, whose files are removed from this branch. Earlier versions remain in Git history. Revision C is approved and effective 2026-11-05 by explicit owner instruction; revision B is obsolete for current use and retained in history. No competing active manual is maintained.
-
-
-
-
-
-## Equipment records release — 2026-11-05
-
-Jacob Honick, Owner, approved QF-020, QF-028 and QF-030 revision B and the customer-facing presentation changes by explicit project-conversation instruction. Effective 2026-11-05. Last calibration 2026-11-01; interval 12 months; next due 2027-11-01. TW-PIN-001 is Class ZZ minus in 0.001 in increments. Earlier templates are obsolete for current use. Other unreleased procedure revisions retain their status; dashes in their approval fields do not establish approval.
-
-
-
-## QF-027 revision B release — 2026-11-05
-
-Jacob Honick, Owner, approved QF-027 revision B by explicit project-conversation instruction. Effective 2026-11-05. The approved register lists the three actual production machines at the single Torchworx LLC facility. Unrecorded serial numbers, years, maintenance details and availability remain dashes. Prior revision A is obsolete for current use and retained in history. Approval does not establish an equipment inspection or maintenance event.
-
+Repository paths in the Location column refer to folders beneath the repository root. Select the final customer package after PDF review; the full working set is not a submission manifest.
