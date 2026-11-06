@@ -2,10 +2,10 @@
 | --- | --- |
 | Document No. | WI-008 |
 | Title | Part Marking |
-| Revision | B — draft |
-| Effective Date | Pending owner release |
+| Revision | B |
+| Effective Date | 2026-11-05 |
 | Prepared By | Shop Owner |
-| Approved By | Pending |
+| Approved By | Jacob Honick, Owner |
 
 ---
 
@@ -88,5 +88,6 @@ Where a customer requires additional identification, include the required inform
 | Rev | Date | Description | Approved By |
 | --- | --- | --- | --- |
 | A | 2026-08-06 | Initial release | Shop Owner |
-| B — draft | 2026-11-05 | Replace default permanent marking with attached green INSPECTED/red REJECTED hang tags, mandatory tag fields and customer-specific provisions; reconcile inspection and release status | Pending owner release |
+| B | 2026-11-05 | Replace default permanent marking with attached green INSPECTED/red REJECTED hang tags, mandatory tag fields and customer-specific provisions; reconcile inspection and release status. Approved by owner instruction on 2026-11-05 | Jacob Honick, Owner |
+
 

@@ -65,5 +65,6 @@ None currently.
 ## Part marking update — 2026-11-05
 
 - [x] WI-008 revision B drafted to match actual attached green INSPECTED/red REJECTED hang tags, mandatory fields and customer requirements; QSM-001 red-tag wording aligned.
-- [ ] Record actual WI-008 owner release/effective date and update the effective Master Document List entry before issuing revision B as released.
+- [x] WI-008 revision B approved by explicit owner instruction, effective 2026-11-05; Master Document List and matching Word copies updated.
+
 

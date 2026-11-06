@@ -66,3 +66,8 @@ Fixed the six reported review items, with the owner's exception that the survey 
 
 Reworked WI-008 as draft revision B to use attached green INSPECTED and red REJECTED hang tags, each with QC initials, inspection date and part number. Added customer-specific review/approval and implementation, traceability, safe attachment, reinspection and release controls. Aligned QSM-001 §11 red-tag wording and recorded the pending WI revision in the Master Document List. No approval signature or effective date was invented. Regenerated Word copies and verified tag fields and status wording.
 
+
+## 2026-11-05 — Codex (WI-008 revision B approval)
+
+Recorded Jacob Honick's explicit instruction to approve WI-008 revision B. Set approval and effective date to 2026-11-05 (America/Los_Angeles), removed draft status, updated the effective Master Document List entry and next review date, removed the pending WI entry, and regenerated matching Word copies. Approval is recorded from the owner's conversation instruction; no handwritten signature was created. Other pending document approvals remain unchanged.
+

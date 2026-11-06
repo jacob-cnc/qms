@@ -6,7 +6,7 @@ This register lists all controlled documents in the QMS package. Maintain this l
 
 **Revision Control:** Update the "Last Updated" date below whenever any entry changes.
 
-**Last Updated:** [Date]
+**Last Updated:** 2026-11-05
 
 ---
 
@@ -52,7 +52,7 @@ This register lists all controlled documents in the QMS package. Maintain this l
 | WI-005 | First Piece Inspection | A | [Date] | qms/02-work-instructions/ | [Date +1yr] |
 | WI-006 | Final Part Inspection | A | [Date] | qms/02-work-instructions/ | [Date +1yr] |
 | WI-007 | Incoming Material Verification | A | [Date] | qms/02-work-instructions/ | [Date +1yr] |
-| WI-008 | Part Marking | A | [Date] | qms/02-work-instructions/ | [Date +1yr] |
+| WI-008 | Part Marking | B | 2026-11-05 | qms/02-work-instructions/ | 2027-11-05 |
 | WI-009 | Packaging and Shipping | A | [Date] | qms/02-work-instructions/ | [Date +1yr] |
 | **03-forms/** | | | | | |
 | QF-001 | Contract Review Checklist | A | [Date] | qms/03-forms/ | [Date +1yr] |
@@ -146,8 +146,12 @@ Prepared 2026-11-05; DCR-2026-11-05-CAL. Above revision-A entries are not replac
 | QP-006 | B | 01-procedures/QP-006_In_Process_Inspection.md | Draft; corrected calibration references |
 | QF-020 | B | 03-forms/QF-020_Calibration_Log.md | Draft; corrected calibration references |
 | QF-039 | A | 03-forms/QF-039_Limited_Scope_Caliper_Calibration.md | New draft; not effective; excluded from released-document counts above |
-| WI-008 | B | 02-work-instructions/WI-008_Part_Marking.md | Draft; attached INSPECTED/REJECTED hang tags; owner release/date pending |
 | QSM-001 | A | 07-basic-qms/QSM-001_Basic_Quality_System_Manual.md | New; basic quality system for uncertified Tier 3 supply; governs where it differs from the development set; effective on owner signature. Supersedes draft KMS-001 |
 
 The corresponding files at these paths are drafts. Do not issue them as effective revisions; retrieve the preceding baseline from version history if needed and verify its approval status independently.
+
+
+## Release record — WI-008 revision B
+
+Approved by Jacob Honick, Owner, by explicit instruction in the project conversation on 2026-11-05. Effective 2026-11-05. Revision B replaces revision A for current use; retain the previous revision in version history as obsolete. Matching Markdown and Word copies issued on the basic-QMS working branch. No handwritten signature is implied.
 
