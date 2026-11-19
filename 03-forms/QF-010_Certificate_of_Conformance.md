@@ -14,7 +14,7 @@
 
 **[Company Logo / Letterhead Placeholder]**
 
-**KB Objects LLC**
+**Torchworx**
 
 ---
 
